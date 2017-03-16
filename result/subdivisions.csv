@@ -1,0 +1,1528 @@
+ISO-3166-1;ISO-3166-2;"ISO Region";Name;Long;Type;Wikipedia
+AL;BR;01;"Berat District";Berat;https://en.wikipedia.org/wiki/Berat_District;
+AL;BU;09;"Bulqizë District";Bulqizë;https://en.wikipedia.org/wiki/Bulqiz%C3%AB_District;
+AL;DL;12;"Delvinë District";Delvinë;https://en.wikipedia.org/wiki/Delvin%C3%AB_District;
+AL;DV;06;"Devoll District";Devoll;https://en.wikipedia.org/wiki/Devoll_District;
+AL;DI;09;"Dibër District";Dibër;https://en.wikipedia.org/wiki/Dib%C3%ABr_District;
+AL;DR;02;"Durrës District";Durrës;https://en.wikipedia.org/wiki/Durr%C3%ABs_District;
+AL;EL;03;"Elbasan District";Elbasan;https://en.wikipedia.org/wiki/Elbasan_District;
+AL;FR;04;"Fier District";Fier;https://en.wikipedia.org/wiki/Fier_District;
+AL;GR;03;"Gramsh District";Gramsh;https://en.wikipedia.org/wiki/Gramsh_District;
+AL;GJ;05;"Gjirokastër District";Gjirokastër;https://en.wikipedia.org/wiki/Gjirokast%C3%ABr_District;
+AL;HA;07;"Has District";Has;https://en.wikipedia.org/wiki/Has_District;
+AL;KA;11;"Kavajë District";Kavajë;https://en.wikipedia.org/wiki/Kavaj%C3%AB_District;
+AL;ER;06;"Kolonjë District";Kolonjë;https://en.wikipedia.org/wiki/Kolonj%C3%AB_District;
+AL;KO;06;"Korçë District";Korçë;https://en.wikipedia.org/wiki/Kor%C3%A7%C3%AB_District;
+AL;KR;02;"Krujë District";Krujë;https://en.wikipedia.org/wiki/Kruj%C3%AB_District;
+AL;KC;01;"Kuçovë District";Kuçovë;https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB_District;
+AL;KU;07;"Kukës District";Kukës;https://en.wikipedia.org/wiki/Kuk%C3%ABs_District;
+AL;KB;08;"Kurbin District";Kurbin;https://en.wikipedia.org/wiki/Kurbin_District;
+AL;LE;08;"Lezhë District";Lezhë;https://en.wikipedia.org/wiki/Lezh%C3%AB_District;
+AL;LB;03;"Librazhd District";Librazhd;https://en.wikipedia.org/wiki/Librazhd_District;
+AL;LU;04;"Lushnjë District";Lushnjë;https://en.wikipedia.org/wiki/Lushnj%C3%AB_District;
+AL;MM;10;"Malësi e Madhe District";"Malësi e Madhe";https://en.wikipedia.org/wiki/Mal%C3%ABsi_e_Madhe_District;
+AL;MK;04;"Mallakastër District";Mallakastër;https://en.wikipedia.org/wiki/Mallakast%C3%ABr_District;
+AL;MT;09;"Mat District";Mat;https://en.wikipedia.org/wiki/Mat_District;
+AL;MR;08;"Mirditë District";Mirditë;https://en.wikipedia.org/wiki/Mirdit%C3%AB_District;
+AL;PQ;03;"Peqin District";Peqin;https://en.wikipedia.org/wiki/Peqin_District;
+AL;PR;05;"Përmet District";Përmet;https://en.wikipedia.org/wiki/P%C3%ABrmet_District;
+AL;PG;06;"Pogradec District";Pogradec;https://en.wikipedia.org/wiki/Pogradec_District;
+AL;PU;10;"Pukë District";Pukë;https://en.wikipedia.org/wiki/Puk%C3%AB_District;
+AL;SR;12;"Sarandë District";Sarandë;https://en.wikipedia.org/wiki/Sarand%C3%AB_District;
+AL;SK;01;"Skrapar District";Skrapar;https://en.wikipedia.org/wiki/Skrapar_District;
+AL;SH;10;"Shkodër District";Shkodër;https://en.wikipedia.org/wiki/Shkod%C3%ABr_District;
+AL;TE;05;"Tepelenë District";Tepelenë;https://en.wikipedia.org/wiki/Tepelen%C3%AB_District;
+AL;TR;11;"Tiranë District";Tiranë;https://en.wikipedia.org/wiki/Tiran%C3%AB_District;
+AL;TP;07;"Tropojë District";Tropojë;https://en.wikipedia.org/wiki/Tropoj%C3%AB_District;
+AL;VL;12;"Vlorë District";Vlorë;https://en.wikipedia.org/wiki/Vlor%C3%AB_District;
+AZ;BA;—;Bakı;Bakı;https://en.wikipedia.org/wiki/Bak%C4%B1;municipality
+AZ;GA;—;"Ganja, Azerbaijan";"Gancə ! Gəncə";https://en.wikipedia.org/wiki/Ganja,_Azerbaijan;municipality
+AZ;LA;—;Lankaran;"Lankəran ! Lənkəran";https://en.wikipedia.org/wiki/Lankaran;municipality
+AZ;MI;—;Mingəçevir;Mingəçevir;https://en.wikipedia.org/wiki/Ming%C9%99%C3%A7evir;municipality
+AZ;NA;—;"Naftalan, Azerbaijan";Naftalan;https://en.wikipedia.org/wiki/Naftalan,_Azerbaijan;municipality
+AZ;NV;NX;"Nakhchivan (city)";Naxçıvan;https://en.wikipedia.org/wiki/Nakhchivan_(city);municipality
+AZ;SA;—;"Shaki, Azerbaijan";"Saki ! Şəki";https://en.wikipedia.org/wiki/Shaki,_Azerbaijan;municipality
+AZ;SR;—;"Shirvan (city)";"Sirvan ! Şirvan";https://en.wikipedia.org/wiki/Shirvan_(city);municipality
+AZ;SM;—;Sumqayit;Sumqayit;https://en.wikipedia.org/wiki/Sumqayit;municipality
+AZ;XA;—;Xankəndi;Xankəndi;https://en.wikipedia.org/wiki/Xank%C9%99ndi;municipality
+AZ;YE;—;Yevlax;Yevlax;https://en.wikipedia.org/wiki/Yevlax;municipality
+AZ;ABS;—;"Abşeron Rayon";Abşeron;https://en.wikipedia.org/wiki/Ab%C5%9Feron_Rayon;rayon
+AZ;AGC;—;"Ağcabədi Rayon";"Agcabədi ! Ağcabədi";https://en.wikipedia.org/wiki/A%C4%9Fcab%C9%99di_Rayon;rayon
+AZ;AGM;—;"Ağdam Rayon";"Agdam ! Ağdam";https://en.wikipedia.org/wiki/A%C4%9Fdam_Rayon;rayon
+AZ;AGS;—;"Ağdaş Rayon";"Agdaş ! Ağdaş";https://en.wikipedia.org/wiki/A%C4%9Fda%C5%9F_Rayon;rayon
+AZ;AGA;—;"Ağstafa Rayon";"Agstafa ! Ağstafa";https://en.wikipedia.org/wiki/A%C4%9Fstafa_Rayon;rayon
+AZ;AGU;—;"Ağsu Rayon";"Agsu ! Ağsu";https://en.wikipedia.org/wiki/A%C4%9Fsu_Rayon;rayon
+AZ;AST;—;"Astara Rayon";Astara;https://en.wikipedia.org/wiki/Astara_Rayon;rayon
+AZ;BAB;NX;"Babək Rayon";Babək;https://en.wikipedia.org/wiki/Bab%C9%99k_Rayon;rayon
+AZ;BAL;—;"Balakən Rayon";Balakən;https://en.wikipedia.org/wiki/Balak%C9%99n_Rayon;rayon
+AZ;BAR;—;"Bərdə Rayon";"Bardə ! Bərdə";https://en.wikipedia.org/wiki/B%C9%99rd%C9%99_Rayon;rayon
+AZ;BEY;—;"Beyləqan Rayon";Beyləqan;https://en.wikipedia.org/wiki/Beyl%C9%99qan_Rayon;rayon
+AZ;BIL;—;"Biləsuvar Rayon";Biləsuvar;https://en.wikipedia.org/wiki/Bil%C9%99suvar_Rayon;rayon
+AZ;CAB;—;"Cəbrayıl Rayon";"Cabrayıl ! Cəbrayıl";https://en.wikipedia.org/wiki/C%C9%99bray%C4%B1l_Rayon;rayon
+AZ;CAL;—;"Jalilabad District (Azerbaijan)";"Calilabad ! Cəlilabad";https://en.wikipedia.org/wiki/Jalilabad_District_(Azerbaijan);rayon
+AZ;CUL;NX;"Culfa Rayon";Culfa;https://en.wikipedia.org/wiki/Culfa_Rayon;rayon
+AZ;DAS;—;"Daşkəsən Rayon";Daşkəsən;https://en.wikipedia.org/wiki/Da%C5%9Fk%C9%99s%C9%99n_Rayon;rayon
+AZ;FUZ;—;"Füzuli Rayon";Füzuli;https://en.wikipedia.org/wiki/F%C3%BCzuli_Rayon;rayon
+AZ;GAD;—;"Gədəbəy Rayon";"Gadəbəy ! Gədəbəy";https://en.wikipedia.org/wiki/G%C9%99d%C9%99b%C9%99y_Rayon;rayon
+AZ;GOR;—;"Goranboy Rayon";Goranboy;https://en.wikipedia.org/wiki/Goranboy_Rayon;rayon
+AZ;GOY;—;"Göyçay Rayon";"Goycay ! Göyçay";https://en.wikipedia.org/wiki/G%C3%B6y%C3%A7ay_Rayon;rayon
+AZ;GYG;—;"Goygol Rayon";"Goygöl ! Göygöl";https://en.wikipedia.org/wiki/Goygol_Rayon;rayon
+AZ;HAC;—;"Hacıqabul Rayon";Hacıqabul;https://en.wikipedia.org/wiki/Hac%C4%B1qabul_Rayon;rayon
+AZ;IMI;—;"İmişli Rayon";"Imişli ! İmişli";https://en.wikipedia.org/wiki/%C4%B0mi%C5%9Fli_Rayon;rayon
+AZ;ISM;—;"İsmayıllı Rayon";"Ismayıllı ! İsmayıllı";https://en.wikipedia.org/wiki/%C4%B0smay%C4%B1ll%C4%B1_Rayon;rayon
+AZ;KAL;—;"Kəlbəcər Rayon";"Kalbəcər ! Kəlbəcər";https://en.wikipedia.org/wiki/K%C9%99lb%C9%99c%C9%99r_Rayon;rayon
+AZ;KAN;NX;"Kangarli Rayon";"Kangǝrli ! Kǝngǝrli";https://en.wikipedia.org/wiki/Kangarli_Rayon;rayon
+AZ;KUR;—;"Kürdəmir Rayon";Kürdəmir;https://en.wikipedia.org/wiki/K%C3%BCrd%C9%99mir_Rayon;rayon
+AZ;LAC;—;"Laçın Rayon";"Lacin ! Laçın";https://en.wikipedia.org/wiki/La%C3%A7%C4%B1n_Rayon;rayon
+AZ;LAN;—;"Lənkəran Rayon";"Lankəran ! Lənkəran";https://en.wikipedia.org/wiki/L%C9%99nk%C9%99ran_Rayon;rayon
+AZ;LER;—;"Lerik Rayon";Lerik;https://en.wikipedia.org/wiki/Lerik_Rayon;rayon
+AZ;MAS;—;"Masallı Rayon";Masallı;https://en.wikipedia.org/wiki/Masall%C4%B1_Rayon;rayon
+AZ;NEF;—;"Neftçala Rayon";Neftçala;https://en.wikipedia.org/wiki/Neft%C3%A7ala_Rayon;rayon
+AZ;OGU;—;"Oğuz Rayon";"Oguz ! Oğuz";https://en.wikipedia.org/wiki/O%C4%9Fuz_Rayon;rayon
+AZ;ORD;NX;"Ordubad Rayon";Ordubad;https://en.wikipedia.org/wiki/Ordubad_Rayon;rayon
+AZ;QAB;—;"Qəbələ Rayon";"Qabələ ! Qəbələ";https://en.wikipedia.org/wiki/Q%C9%99b%C9%99l%C9%99_Rayon;rayon
+AZ;QAX;—;"Qax Rayon";Qax;https://en.wikipedia.org/wiki/Qax_Rayon;rayon
+AZ;QAZ;—;"Qazax Rayon";Qazax;https://en.wikipedia.org/wiki/Qazax_Rayon;rayon
+AZ;QOB;—;"Qobustan Rayon";Qobustan;https://en.wikipedia.org/wiki/Qobustan_Rayon;rayon
+AZ;QBA;—;"Quba Rayon";Quba;https://en.wikipedia.org/wiki/Quba_Rayon;rayon
+AZ;QBI;—;"Qubadlı Rayon";Qubadli;https://en.wikipedia.org/wiki/Qubadl%C4%B1_Rayon;rayon
+AZ;QUS;—;"Qusar Rayon";Qusar;https://en.wikipedia.org/wiki/Qusar_Rayon;rayon
+AZ;SAT;—;"Saatlı Rayon";Saatlı;https://en.wikipedia.org/wiki/Saatl%C4%B1_Rayon;rayon
+AZ;SAB;—;"Sabirabad Rayon";Sabirabad;https://en.wikipedia.org/wiki/Sabirabad_Rayon;rayon
+AZ;SBN;—;"Şabran Rayon";"Sabran ! Şabran";https://en.wikipedia.org/wiki/%C5%9Eabran_Rayon;rayon
+AZ;SAD;NX;"Sədərək Rayon";"Sadərək ! Sədərək";https://en.wikipedia.org/wiki/S%C9%99d%C9%99r%C9%99k_Rayon;rayon
+AZ;SAH;NX;"Shabuz District";"Sahbuz ! Şahbuz";https://en.wikipedia.org/wiki/Shabuz_District;rayon
+AZ;SAK;—;"Şəki Rayon";"Saki ! Şəki";https://en.wikipedia.org/wiki/%C5%9E%C9%99ki_Rayon;rayon
+AZ;SAL;—;"Salyan Rayon";Salyan;https://en.wikipedia.org/wiki/Salyan_Rayon;rayon
+AZ;SMI;—;"Şamaxı Rayon";"Samaxı ! Şamaxı";https://en.wikipedia.org/wiki/%C5%9Eamax%C4%B1_Rayon;rayon
+AZ;SKR;—;"Şəmkir Rayon";"Samkir ! Şəmkir";https://en.wikipedia.org/wiki/%C5%9E%C9%99mkir_Rayon;rayon
+AZ;SMX;—;"Samux Rayon";Samux;https://en.wikipedia.org/wiki/Samux_Rayon;rayon
+AZ;SAR;NX;"Şərur Rayon";"Sarur ! Şərur";https://en.wikipedia.org/wiki/%C5%9E%C9%99rur_Rayon;rayon
+AZ;SIY;—;"Siyəzən Rayon";Siyəzən;https://en.wikipedia.org/wiki/Siy%C9%99z%C9%99n_Rayon;rayon
+AZ;SUS;—;"Şuşa Rayon";"Suşa ! Şuşa";https://en.wikipedia.org/wiki/%C5%9Eu%C5%9Fa_Rayon;rayon
+AZ;TAR;—;"Tərtər Rayon";"Tartər ! Tərtər";https://en.wikipedia.org/wiki/T%C9%99rt%C9%99r_Rayon;rayon
+AZ;TOV;—;"Tovuz Rayon";Tovuz;https://en.wikipedia.org/wiki/Tovuz_Rayon;rayon
+AZ;UCA;—;"Ucar Rayon";Ucar;https://en.wikipedia.org/wiki/Ucar_Rayon;rayon
+AZ;XAC;—;"Xaçmaz Rayon";"Xacmaz ! Xaçmaz";https://en.wikipedia.org/wiki/Xa%C3%A7maz_Rayon;rayon
+AZ;XIZ;—;"Xızı Rayon";"Xizı ! Xızı";https://en.wikipedia.org/wiki/X%C4%B1z%C4%B1_Rayon;rayon
+AZ;XCI;—;"Xocalı Rayon";Xocalı;https://en.wikipedia.org/wiki/Xocal%C4%B1_Rayon;rayon
+AZ;XVD;—;"Xocavənd Rayon";Xocavənd;https://en.wikipedia.org/wiki/Xocav%C9%99nd_Rayon;rayon
+AZ;YAR;—;"Yardımlı Rayon";Yardımlı;https://en.wikipedia.org/wiki/Yard%C4%B1ml%C4%B1_Rayon;rayon
+AZ;YEV;—;"Yevlax Rayon";Yevlax;https://en.wikipedia.org/wiki/Yevlax_Rayon;rayon
+AZ;ZAN;—;"Zəngilan Rayon";"Zangilan ! Zəngilan";https://en.wikipedia.org/wiki/Z%C9%99ngilan_Rayon;rayon
+AZ;ZAQ;—;"Zaqatala Rayon";Zaqatala;https://en.wikipedia.org/wiki/Zaqatala_Rayon;rayon
+AZ;ZAR;—;"Zərdab Rayon";"Zardab ! Zərdab";https://en.wikipedia.org/wiki/Z%C9%99rdab_Rayon;rayon
+BA;05;BIH;"Bosansko-podrinjski kanton";"Bosansko-podrinjski kanton";https://en.wikipedia.org/wiki/Bosansko-podrinjski_kanton;"1 district with special status"
+BA;07;BIH;"Hercegovačko-neretvanski kanton";"Hercegovačko-neretvanski kanton";https://en.wikipedia.org/wiki/Hercegova%C4%8Dko-neretvanski_kanton;"1 district with special status"
+BA;10;BIH;"Kanton br. 10";"Kanton br. 10";https://en.wikipedia.org/wiki/Kanton_br._10;"1 district with special status"
+BA;09;BIH;"Kanton Sarajevo";"Kanton Sarajevo";https://en.wikipedia.org/wiki/Kanton_Sarajevo;"1 district with special status"
+BA;02;BIH;"Posavski kanton";"Posavski kanton";https://en.wikipedia.org/wiki/Posavski_kanton;"1 district with special status"
+BA;06;BIH;"Srednjobosanski kanton";"Srednjobosanski kanton";https://en.wikipedia.org/wiki/Srednjobosanski_kanton;"1 district with special status"
+BA;03;BIH;"Tuzlanski kanton";"Tuzlanski kanton";https://en.wikipedia.org/wiki/Tuzlanski_kanton;"1 district with special status"
+BA;01;BIH;"Unsko-sanski kanton";"Unsko-sanski kanton";https://en.wikipedia.org/wiki/Unsko-sanski_kanton;"1 district with special status"
+BA;08;BIH;"Zapadnohercegovački kanton";"Zapadnohercegovački kanton";https://en.wikipedia.org/wiki/Zapadnohercegova%C4%8Dki_kanton;"1 district with special status"
+BA;04;BIH;"Zeničko-dobojski kanton";"Zeničko-dobojski kanton";https://en.wikipedia.org/wiki/Zeni%C4%8Dko-dobojski_kanton;"1 district with special status"
+BD;05;D;"Bagerhat District";Bagerhat;https://en.wikipedia.org/wiki/Bagerhat_District;"64 districts"
+BD;01;B;"Bandarban District";Bandarban;https://en.wikipedia.org/wiki/Bandarban_District;"64 districts"
+BD;02;A;"Barguna District";Barguna;https://en.wikipedia.org/wiki/Barguna_District;"64 districts"
+BD;06;A;"Barisal District";Barisal;https://en.wikipedia.org/wiki/Barisal_District;"64 districts"
+BD;07;A;"Bhola District";Bhola;https://en.wikipedia.org/wiki/Bhola_District;"64 districts"
+BD;03;E;"Bogra District";Bogra;https://en.wikipedia.org/wiki/Bogra_District;"64 districts"
+BD;04;B;"Brahmanbaria District";Brahmanbaria;https://en.wikipedia.org/wiki/Brahmanbaria_District;"64 districts"
+BD;09;B;"Chandpur District";Chandpur;https://en.wikipedia.org/wiki/Chandpur_District;"64 districts"
+BD;45;E;"Chapai Nawabganj District";"Chapai Nawabganj";https://en.wikipedia.org/wiki/Chapai_Nawabganj_District;"64 districts"
+BD;10;B;"Chittagong District";Chittagong;https://en.wikipedia.org/wiki/Chittagong_District;"64 districts"
+BD;12;D;"Chuadanga District";Chuadanga;https://en.wikipedia.org/wiki/Chuadanga_District;"64 districts"
+BD;08;B;"Comilla District";Comilla;https://en.wikipedia.org/wiki/Comilla_District;"64 districts"
+BD;11;B;"Cox's Bazar District";"Cox's Bazar";https://en.wikipedia.org/wiki/Cox%27s_Bazar_District;"64 districts"
+BD;13;C;"Dhaka District";Dhaka;https://en.wikipedia.org/wiki/Dhaka_District;"64 districts"
+BD;14;F;"Dinajpur District (Bangladesh)";Dinajpur;https://en.wikipedia.org/wiki/Dinajpur_District_(Bangladesh);"64 districts"
+BD;15;C;"Faridpur District";Faridpur;https://en.wikipedia.org/wiki/Faridpur_District;"64 districts"
+BD;16;B;"Feni District";Feni;https://en.wikipedia.org/wiki/Feni_District;"64 districts"
+BD;19;F;"Gaibandha District";Gaibandha;https://en.wikipedia.org/wiki/Gaibandha_District;"64 districts"
+BD;18;C;"Gazipur District";Gazipur;https://en.wikipedia.org/wiki/Gazipur_District;"64 districts"
+BD;17;C;"Gopalganj District (Bangladesh)";Gopalganj;https://en.wikipedia.org/wiki/Gopalganj_District_(Bangladesh);"64 districts"
+BD;20;G;"Habiganj District";Habiganj;https://en.wikipedia.org/wiki/Habiganj_District;"64 districts"
+BD;21;H;"Jamalpur District";Jamalpur;https://en.wikipedia.org/wiki/Jamalpur_District;"64 districts"
+BD;22;D;"Jessore District";Jessore;https://en.wikipedia.org/wiki/Jessore_District;"64 districts"
+BD;25;A;"Jhalakati District";Jhalakathi;https://en.wikipedia.org/wiki/Jhalakati_District;"64 districts"
+BD;23;D;"Jhenaidah District";Jhenaidah;https://en.wikipedia.org/wiki/Jhenaidah_District;"64 districts"
+BD;24;E;"Joypurhat District";Joypurhat;https://en.wikipedia.org/wiki/Joypurhat_District;"64 districts"
+BD;29;B;"Khagrachhari District";Khagrachhari;https://en.wikipedia.org/wiki/Khagrachhari_District;"64 districts"
+BD;27;D;"Khulna District";Khulna;https://en.wikipedia.org/wiki/Khulna_District;"64 districts"
+BD;26;C;"Kishoreganj District";Kishoreganj;https://en.wikipedia.org/wiki/Kishoreganj_District;"64 districts"
+BD;28;F;"Kurigram District";Kurigram;https://en.wikipedia.org/wiki/Kurigram_District;"64 districts"
+BD;30;D;"Kushtia District";Kushtia;https://en.wikipedia.org/wiki/Kushtia_District;"64 districts"
+BD;31;B;"Lakshmipur District";Lakshmipur;https://en.wikipedia.org/wiki/Lakshmipur_District;"64 districts"
+BD;32;F;"Lalmonirhat District";Lalmonirhat;https://en.wikipedia.org/wiki/Lalmonirhat_District;"64 districts"
+BD;36;C;"Madaripur District";Madaripur;https://en.wikipedia.org/wiki/Madaripur_District;"64 districts"
+BD;37;D;"Magura District";Magura;https://en.wikipedia.org/wiki/Magura_District;"64 districts"
+BD;33;C;"Manikganj District";Manikganj;https://en.wikipedia.org/wiki/Manikganj_District;"64 districts"
+BD;39;D;"Meherpur District";Meherpur;https://en.wikipedia.org/wiki/Meherpur_District;"64 districts"
+BD;38;G;"Moulvibazar District";Moulvibazar;https://en.wikipedia.org/wiki/Moulvibazar_District;"64 districts"
+BD;35;C;"Munshiganj District";Munshiganj;https://en.wikipedia.org/wiki/Munshiganj_District;"64 districts"
+BD;34;H;"Mymensingh District";Mymensingh;https://en.wikipedia.org/wiki/Mymensingh_District;"64 districts"
+BD;48;E;"Naogaon District";Naogaon;https://en.wikipedia.org/wiki/Naogaon_District;"64 districts"
+BD;43;D;"Narail District";Narail;https://en.wikipedia.org/wiki/Narail_District;"64 districts"
+BD;40;C;"Narayanganj District";Narayanganj;https://en.wikipedia.org/wiki/Narayanganj_District;"64 districts"
+BD;42;C;"Narsingdi District";Narsingdi;https://en.wikipedia.org/wiki/Narsingdi_District;"64 districts"
+BD;44;E;"Natore District";Natore;https://en.wikipedia.org/wiki/Natore_District;"64 districts"
+BD;41;H;"Netrakona District";Netrakona;https://en.wikipedia.org/wiki/Netrakona_District;"64 districts"
+BD;46;F;"Nilphamari District";Nilphamari;https://en.wikipedia.org/wiki/Nilphamari_District;"64 districts"
+BD;47;B;"Noakhali District";Noakhali;https://en.wikipedia.org/wiki/Noakhali_District;"64 districts"
+BD;49;E;"Pabna District";Pabna;https://en.wikipedia.org/wiki/Pabna_District;"64 districts"
+BD;52;F;"Panchagarh District";Panchagarh;https://en.wikipedia.org/wiki/Panchagarh_District;"64 districts"
+BD;51;A;"Patuakhali District";Patuakhali;https://en.wikipedia.org/wiki/Patuakhali_District;"64 districts"
+BD;50;A;"Pirojpur District";Pirojpur;https://en.wikipedia.org/wiki/Pirojpur_District;"64 districts"
+BD;53;C;"Rajbari District";Rajbari;https://en.wikipedia.org/wiki/Rajbari_District;"64 districts"
+BD;54;E;"Rajshahi District";Rajshahi;https://en.wikipedia.org/wiki/Rajshahi_District;"64 districts"
+BD;56;B;"Rangamati District";Rangamati;https://en.wikipedia.org/wiki/Rangamati_District;"64 districts"
+BD;55;F;"Rangpur District";Rangpur;https://en.wikipedia.org/wiki/Rangpur_District;"64 districts"
+BD;58;D;"Satkhira District";Satkhira;https://en.wikipedia.org/wiki/Satkhira_District;"64 districts"
+BD;62;C;"Shariatpur District";Shariatpur;https://en.wikipedia.org/wiki/Shariatpur_District;"64 districts"
+BD;57;H;"Sherpur District";Sherpur;https://en.wikipedia.org/wiki/Sherpur_District;"64 districts"
+BD;59;E;"Sirajganj District";Sirajganj;https://en.wikipedia.org/wiki/Sirajganj_District;"64 districts"
+BD;61;G;"Sunamganj District";Sunamganj;https://en.wikipedia.org/wiki/Sunamganj_District;"64 districts"
+BD;60;G;"Sylhet District";Sylhet;https://en.wikipedia.org/wiki/Sylhet_District;"64 districts"
+BD;63;C;"Tangail District";Tangail;https://en.wikipedia.org/wiki/Tangail_District;"64 districts"
+BD;64;F;"Thakurgaon District";Thakurgaon;https://en.wikipedia.org/wiki/Thakurgaon_District;"64 districts"
+BE;VAN;VLG;"Antwerp (province)";Antwerpen;https://en.wikipedia.org/wiki/Antwerp_(province);"10 provinces"
+BE;WBR;WAL;"Walloon Brabant";"Brabant wallon";https://en.wikipedia.org/wiki/Walloon_Brabant;"10 provinces"
+BE;WHT;WAL;"Hainaut (province)";Hainaut;https://en.wikipedia.org/wiki/Hainaut_(province);"10 provinces"
+BE;WLG;WAL;"Liège (province)";Liège;https://en.wikipedia.org/wiki/Li%C3%A8ge_(province);"10 provinces"
+BE;VLI;VLG;"Limburg (Belgium)";Limburg;https://en.wikipedia.org/wiki/Limburg_(Belgium);"10 provinces"
+BE;WLX;WAL;"Luxembourg (Belgium)";Luxembourg;https://en.wikipedia.org/wiki/Luxembourg_(Belgium);"10 provinces"
+BE;WNA;WAL;"Namur (province)";Namur;https://en.wikipedia.org/wiki/Namur_(province);"10 provinces"
+BE;VOV;VLG;"East Flanders";Oost-Vlaanderen;https://en.wikipedia.org/wiki/East_Flanders;"10 provinces"
+BE;VBR;VLG;"Flemish Brabant";Vlaams-Brabant;https://en.wikipedia.org/wiki/Flemish_Brabant;"10 provinces"
+BE;VWV;VLG;"West Flanders";West-Vlaanderen;https://en.wikipedia.org/wiki/West_Flanders;"10 provinces"
+BF;BAL;01;"Balé Province";Balé;https://en.wikipedia.org/wiki/Bal%C3%A9_Province;"45 provinces"
+BF;BAM;05;"Bam Province";Bam;https://en.wikipedia.org/wiki/Bam_Province;"45 provinces"
+BF;BAN;01;"Banwa Province";Banwa;https://en.wikipedia.org/wiki/Banwa_Province;"45 provinces"
+BF;BAZ;07;"Bazèga Province";Bazèga;https://en.wikipedia.org/wiki/Baz%C3%A8ga_Province;"45 provinces"
+BF;BGR;13;"Bougouriba Province";Bougouriba;https://en.wikipedia.org/wiki/Bougouriba_Province;"45 provinces"
+BF;BLG;04;"Boulgou Province";Boulgou;https://en.wikipedia.org/wiki/Boulgou_Province;"45 provinces"
+BF;BLK;06;"Boulkiemdé Province";Boulkiemdé;https://en.wikipedia.org/wiki/Boulkiemd%C3%A9_Province;"45 provinces"
+BF;COM;02;"Comoé Province";Comoé;https://en.wikipedia.org/wiki/Como%C3%A9_Province;"45 provinces"
+BF;GAN;11;"Ganzourgou Province";Ganzourgou;https://en.wikipedia.org/wiki/Ganzourgou_Province;"45 provinces"
+BF;GNA;08;"Gnagna Province";Gnagna;https://en.wikipedia.org/wiki/Gnagna_Province;"45 provinces"
+BF;GOU;08;"Gourma Province";Gourma;https://en.wikipedia.org/wiki/Gourma_Province;"45 provinces"
+BF;HOU;09;"Houet Province";Houet;https://en.wikipedia.org/wiki/Houet_Province;"45 provinces"
+BF;IOB;13;"Ioba Province";Ioba;https://en.wikipedia.org/wiki/Ioba_Province;"45 provinces"
+BF;KAD;03;"Kadiogo Province";Kadiogo;https://en.wikipedia.org/wiki/Kadiogo_Province;"45 provinces"
+BF;KEN;09;"Kénédougou Province";Kénédougou;https://en.wikipedia.org/wiki/K%C3%A9n%C3%A9dougou_Province;"45 provinces"
+BF;KMD;08;"Komondjari Province";Komondjari;https://en.wikipedia.org/wiki/Komondjari_Province;"45 provinces"
+BF;KMP;08;"Kompienga Province";Kompienga;https://en.wikipedia.org/wiki/Kompienga_Province;"45 provinces"
+BF;KOS;01;"Kossi Province";Kossi;https://en.wikipedia.org/wiki/Kossi_Province;"45 provinces"
+BF;KOP;04;"Koulpélogo Province";Koulpélogo;https://en.wikipedia.org/wiki/Koulp%C3%A9logo_Province;"45 provinces"
+BF;KOT;04;"Kouritenga Province";Kouritenga;https://en.wikipedia.org/wiki/Kouritenga_Province;"45 provinces"
+BF;KOW;11;"Kourwéogo Province";Kourwéogo;https://en.wikipedia.org/wiki/Kourw%C3%A9ogo_Province;"45 provinces"
+BF;LER;02;"Léraba Province";Léraba;https://en.wikipedia.org/wiki/L%C3%A9raba_Province;"45 provinces"
+BF;LOR;10;"Loroum Province";Loroum;https://en.wikipedia.org/wiki/Loroum_Province;"45 provinces"
+BF;MOU;01;"Mouhoun Province";Mouhoun;https://en.wikipedia.org/wiki/Mouhoun_Province;"45 provinces"
+BF;NAO;07;"Nahouri Province";Nahouri;https://en.wikipedia.org/wiki/Nahouri_Province;"45 provinces"
+BF;NAM;05;"Namentenga Province";Namentenga;https://en.wikipedia.org/wiki/Namentenga_Province;"45 provinces"
+BF;NAY;01;"Nayala Province";Nayala;https://en.wikipedia.org/wiki/Nayala_Province;"45 provinces"
+BF;NOU;13;"Noumbiel Province";Noumbiel;https://en.wikipedia.org/wiki/Noumbiel_Province;"45 provinces"
+BF;OUB;11;"Oubritenga Province";Oubritenga;https://en.wikipedia.org/wiki/Oubritenga_Province;"45 provinces"
+BF;OUD;12;"Oudalan Province";Oudalan;https://en.wikipedia.org/wiki/Oudalan_Province;"45 provinces"
+BF;PAS;10;"Passoré Province";Passoré;https://en.wikipedia.org/wiki/Passor%C3%A9_Province;"45 provinces"
+BF;PON;13;"Poni Province";Poni;https://en.wikipedia.org/wiki/Poni_Province;"45 provinces"
+BF;SNG;06;"Sanguié Province";Sanguié;https://en.wikipedia.org/wiki/Sangui%C3%A9_Province;"45 provinces"
+BF;SMT;05;"Sanmatenga Province";Sanmatenga;https://en.wikipedia.org/wiki/Sanmatenga_Province;"45 provinces"
+BF;SEN;12;"Séno Province";Séno;https://en.wikipedia.org/wiki/S%C3%A9no_Province;"45 provinces"
+BF;SIS;06;"Sissili Province";Sissili;https://en.wikipedia.org/wiki/Sissili_Province;"45 provinces"
+BF;SOM;12;"Soum Province";Soum;https://en.wikipedia.org/wiki/Soum_Province;"45 provinces"
+BF;SOR;01;"Sourou Province";Sourou;https://en.wikipedia.org/wiki/Sourou_Province;"45 provinces"
+BF;TAP;08;"Tapoa Province";Tapoa;https://en.wikipedia.org/wiki/Tapoa_Province;"45 provinces"
+BF;TUI;09;"Tui Province";Tui;https://en.wikipedia.org/wiki/Tui_Province;"45 provinces"
+BF;YAG;12;"Yagha Province";Yagha;https://en.wikipedia.org/wiki/Yagha_Province;"45 provinces"
+BF;YAT;10;"Yatenga Province";Yatenga;https://en.wikipedia.org/wiki/Yatenga_Province;"45 provinces"
+BF;ZIR;06;"Ziro Province";Ziro;https://en.wikipedia.org/wiki/Ziro_Province;"45 provinces"
+BF;ZON;10;"Zondoma Province";Zondoma;https://en.wikipedia.org/wiki/Zondoma_Province;"45 provinces"
+BF;ZOU;07;"Zoundwéogo Province";Zoundwéogo;https://en.wikipedia.org/wiki/Zoundw%C3%A9ogo_Province;"45 provinces"
+CV;BV;B;"Boa Vista (Cape Verde)";"Boa Vista";https://en.wikipedia.org/wiki/Boa_Vista_(Cape_Verde);"22 municipalities"
+CV;BR;S;"Brava (Cape Verde)";Brava;https://en.wikipedia.org/wiki/Brava_(Cape_Verde);"22 municipalities"
+CV;MA;S;"Maio (Cape Verde)";Maio;https://en.wikipedia.org/wiki/Maio_(Cape_Verde);"22 municipalities"
+CV;MO;S;"Mosteiros (municipality)";Mosteiros;https://en.wikipedia.org/wiki/Mosteiros_(municipality);"22 municipalities"
+CV;PA;B;"Paul (Cape Verde)";Paul;https://en.wikipedia.org/wiki/Paul_(Cape_Verde);"22 municipalities"
+CV;PN;B;"Porto Novo (Cape Verdean municipality)";"Porto Novo";https://en.wikipedia.org/wiki/Porto_Novo_(Cape_Verdean_municipality);"22 municipalities"
+CV;PR;S;"Praia (municipality)";Praia;https://en.wikipedia.org/wiki/Praia_(municipality);"22 municipalities"
+CV;RB;B;"Ribeira Brava (municipality)";"Ribeira Brava";https://en.wikipedia.org/wiki/Ribeira_Brava_(municipality);"22 municipalities"
+CV;RG;B;"Ribeira Grande (Cape Verdean municipality)";"Ribeira Grande";https://en.wikipedia.org/wiki/Ribeira_Grande_(Cape_Verdean_municipality);"22 municipalities"
+CV;RS;S;"Ribeira Grande de Santiago";"Ribeira Grande de Santiago";https://en.wikipedia.org/wiki/Ribeira_Grande_de_Santiago;"22 municipalities"
+CV;SL;B;"Sal (Cape Verde)";Sal;https://en.wikipedia.org/wiki/Sal_(Cape_Verde);"22 municipalities"
+CV;CA;S;"Santa Catarina (Cape Verde)";"Santa Catarina";https://en.wikipedia.org/wiki/Santa_Catarina_(Cape_Verde);"22 municipalities"
+CV;CF;S;"Santa Catarina do Fogo";"Santa Catarina do Fogo";https://en.wikipedia.org/wiki/Santa_Catarina_do_Fogo;"22 municipalities"
+CV;CR;S;"Santa Cruz (Cape Verde)";"Santa Cruz";https://en.wikipedia.org/wiki/Santa_Cruz_(Cape_Verde);"22 municipalities"
+CV;SD;S;"São Domingos (Cape Verdean municipality)";"São Domingos";https://en.wikipedia.org/wiki/S%C3%A3o_Domingos_(Cape_Verdean_municipality);"22 municipalities"
+CV;SF;S;"São Filipe (municipality)";"São Filipe";https://en.wikipedia.org/wiki/S%C3%A3o_Filipe_(municipality);"22 municipalities"
+CV;SO;S;"São Lourenço dos Órgãos";"São Lourenço dos Órgãos";https://en.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o_dos_%C3%93rg%C3%A3os;"22 municipalities"
+CV;SM;S;"São Miguel (Cape Verde)";"São Miguel";https://en.wikipedia.org/wiki/S%C3%A3o_Miguel_(Cape_Verde);"22 municipalities"
+CV;SS;S;"São Salvador do Mundo";"São Salvador do Mundo";https://en.wikipedia.org/wiki/S%C3%A3o_Salvador_do_Mundo;"22 municipalities"
+CV;SV;B;"São Vicente, Cape Verde (municipality)";"São Vicente";https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde_(municipality);"22 municipalities"
+CV;TA;S;"Tarrafal (municipality)";Tarrafal;https://en.wikipedia.org/wiki/Tarrafal_(municipality);"22 municipalities"
+CV;TS;B;"Tarrafal de São Nicolau (municipality)";"Tarrafal de São Nicolau";https://en.wikipedia.org/wiki/Tarrafal_de_S%C3%A3o_Nicolau_(municipality);"22 municipalities"
+CZ;201;ST;"Benešov District";Benešov;https://en.wikipedia.org/wiki/Bene%C5%A1ov_District;"91 districts"
+CZ;202;ST;"Beroun District";Beroun;https://en.wikipedia.org/wiki/Beroun_District;"91 districts"
+CZ;621;JM;"Blansko District";Blansko;https://en.wikipedia.org/wiki/Blansko_District;"91 districts"
+CZ;622;JM;"Brno-město District";Brno-město;https://en.wikipedia.org/wiki/Brno-m%C4%9Bsto_District;"91 districts"
+CZ;623;JM;"Brno-venkov District";Brno-venkov;https://en.wikipedia.org/wiki/Brno-venkov_District;"91 districts"
+CZ;801;MO;"Bruntál District";Bruntál;https://en.wikipedia.org/wiki/Brunt%C3%A1l_District;"91 districts"
+CZ;624;JM;"Břeclav District";Břeclav;https://en.wikipedia.org/wiki/B%C5%99eclav_District;"91 districts"
+CZ;511;LI;"Česká Lípa District";"Česká Lípa";https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_L%C3%ADpa_District;"91 districts"
+CZ;311;JC;"České Budějovice District";"České Budějovice";https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_District;"91 districts"
+CZ;312;JC;"Český Krumlov District";"Český Krumlov";https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov_District;"91 districts"
+CZ;421;US;"Děčín District";Děčín;https://en.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn_District;"91 districts"
+CZ;321;PL;"Domažlice District";Domažlice;https://en.wikipedia.org/wiki/Doma%C5%BElice_District;"91 districts"
+CZ;802;MO;"Frýdek-Místek District";Frýdek-Místek;https://en.wikipedia.org/wiki/Fr%C3%BDdek-M%C3%ADstek_District;"91 districts"
+CZ;611;VY;"Havlíčkův Brod District";"Havlíčkův Brod";https://en.wikipedia.org/wiki/Havl%C3%AD%C4%8Dk%C5%AFv_Brod_District;"91 districts"
+CZ;625;JM;"Hodonín District";Hodonín;https://en.wikipedia.org/wiki/Hodon%C3%ADn_District;"91 districts"
+CZ;521;KR;"Hradec Králové District";"Hradec Králové";https://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9_District;"91 districts"
+CZ;411;KA;"Cheb District";Cheb;https://en.wikipedia.org/wiki/Cheb_District;"91 districts"
+CZ;422;US;"Chomutov District";Chomutov;https://en.wikipedia.org/wiki/Chomutov_District;"91 districts"
+CZ;531;PA;"Chrudim District";Chrudim;https://en.wikipedia.org/wiki/Chrudim_District;"91 districts"
+CZ;512;LI;"Jablonec nad Nisou District";"Jablonec nad Nisou";https://en.wikipedia.org/wiki/Jablonec_nad_Nisou_District;"91 districts"
+CZ;711;OL;"Jeseník District";Jeseník;https://en.wikipedia.org/wiki/Jesen%C3%ADk_District;"91 districts"
+CZ;522;KR;"Jičín District";Jičín;https://en.wikipedia.org/wiki/Ji%C4%8D%C3%ADn_District;"91 districts"
+CZ;612;VY;"Jihlava District";Jihlava;https://en.wikipedia.org/wiki/Jihlava_District;"91 districts"
+CZ;313;JC;"Jindřichův Hradec District";"Jindřichův Hradec";https://en.wikipedia.org/wiki/Jind%C5%99ich%C5%AFv_Hradec_District;"91 districts"
+CZ;412;KA;"Karlovy Vary District";"Karlovy Vary";https://en.wikipedia.org/wiki/Karlovy_Vary_District;"91 districts"
+CZ;803;MO;"Karviná District";Karviná;https://en.wikipedia.org/wiki/Karvin%C3%A1_District;"91 districts"
+CZ;203;ST;"Kladno District";Kladno;https://en.wikipedia.org/wiki/Kladno_District;"91 districts"
+CZ;322;PL;"Klatovy District";Klatovy;https://en.wikipedia.org/wiki/Klatovy_District;"91 districts"
+CZ;204;ST;"Kolín District";Kolín;https://en.wikipedia.org/wiki/Kol%C3%ADn_District;"91 districts"
+CZ;721;ZL;"Kroměříž District";Kroměříž;https://en.wikipedia.org/wiki/Krom%C4%9B%C5%99%C3%AD%C5%BE_District;"91 districts"
+CZ;205;ST;"Kutná Hora District";"Kutná Hora";https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora_District;"91 districts"
+CZ;513;LI;"Liberec District";Liberec;https://en.wikipedia.org/wiki/Liberec_District;"91 districts"
+CZ;423;US;"Litoměřice District";Litoměřice;https://en.wikipedia.org/wiki/Litom%C4%9B%C5%99ice_District;"91 districts"
+CZ;424;US;"Louny District";Louny;https://en.wikipedia.org/wiki/Louny_District;"91 districts"
+CZ;206;ST;"Mělník District";Mělník;https://en.wikipedia.org/wiki/M%C4%9Bln%C3%ADk_District;"91 districts"
+CZ;207;ST;"Mladá Boleslav District";"Mladá Boleslav";https://en.wikipedia.org/wiki/Mlad%C3%A1_Boleslav_District;"91 districts"
+CZ;425;US;"Most District";Most;https://en.wikipedia.org/wiki/Most_District;"91 districts"
+CZ;523;KR;"Náchod District";Náchod;https://en.wikipedia.org/wiki/N%C3%A1chod_District;"91 districts"
+CZ;804;MO;"Nový Jičín District";"Nový Jičín";https://en.wikipedia.org/wiki/Nov%C3%BD_Ji%C4%8D%C3%ADn_District;"91 districts"
+CZ;208;ST;"Nymburk District";Nymburk;https://en.wikipedia.org/wiki/Nymburk_District;"91 districts"
+CZ;712;OL;"Olomouc District";Olomouc;https://en.wikipedia.org/wiki/Olomouc_District;"91 districts"
+CZ;805;MO;"Opava District";Opava;https://en.wikipedia.org/wiki/Opava_District;"91 districts"
+CZ;806;MO;"Ostrava-město District";Ostrava-město;https://en.wikipedia.org/wiki/Ostrava-m%C4%9Bsto_District;"91 districts"
+CZ;532;PA;"Pardubice District";Pardubice;https://en.wikipedia.org/wiki/Pardubice_District;"91 districts"
+CZ;613;VY;"Pelhřimov District";Pelhřimov;https://en.wikipedia.org/wiki/Pelh%C5%99imov_District;"91 districts"
+CZ;314;JC;"Písek District";Písek;https://en.wikipedia.org/wiki/P%C3%ADsek_District;"91 districts"
+CZ;324;PL;"Plzeň-jih District";Plzeň-jih;https://en.wikipedia.org/wiki/Plze%C5%88-jih_District;"91 districts"
+CZ;323;PL;"Plzeň-město District";Plzeň-město;https://en.wikipedia.org/wiki/Plze%C5%88-m%C4%9Bsto_District;"91 districts"
+CZ;325;PL;"Plzeň-sever District";Plzeň-sever;https://en.wikipedia.org/wiki/Plze%C5%88-sever_District;"91 districts"
+CZ;101;PR;"Praha 1";"Praha 1";https://en.wikipedia.org/wiki/Praha_1;"91 districts"
+CZ;102;PR;"Praha 2";"Praha 2";https://en.wikipedia.org/wiki/Praha_2;"91 districts"
+CZ;103;PR;"Praha 3";"Praha 3";https://en.wikipedia.org/wiki/Praha_3;"91 districts"
+CZ;104;PR;"Praha 4";"Praha 4";https://en.wikipedia.org/wiki/Praha_4;"91 districts"
+CZ;105;PR;"Praha 5";"Praha 5";https://en.wikipedia.org/wiki/Praha_5;"91 districts"
+CZ;106;PR;"Praha 6";"Praha 6";https://en.wikipedia.org/wiki/Praha_6;"91 districts"
+CZ;107;PR;"Praha 7";"Praha 7";https://en.wikipedia.org/wiki/Praha_7;"91 districts"
+CZ;108;PR;"Praha 8";"Praha 8";https://en.wikipedia.org/wiki/Praha_8;"91 districts"
+CZ;109;PR;"Praha 9";"Praha 9";https://en.wikipedia.org/wiki/Praha_9;"91 districts"
+CZ;10A;PR;"Praha 10";"Praha 10";https://en.wikipedia.org/wiki/Praha_10;"91 districts"
+CZ;10B;PR;"Praha 11";"Praha 11";https://en.wikipedia.org/wiki/Praha_11;"91 districts"
+CZ;10C;PR;"Praha 12";"Praha 12";https://en.wikipedia.org/wiki/Praha_12;"91 districts"
+CZ;10D;PR;"Praha 13";"Praha 13";https://en.wikipedia.org/wiki/Praha_13;"91 districts"
+CZ;10E;PR;"Praha 14";"Praha 14";https://en.wikipedia.org/wiki/Praha_14;"91 districts"
+CZ;10F;PR;"Praha 15";"Praha 15";https://en.wikipedia.org/wiki/Praha_15;"91 districts"
+CZ;209;ST;"Praha-východ District";Praha-východ;https://en.wikipedia.org/wiki/Praha-v%C3%BDchod_District;"91 districts"
+CZ;20A;ST;"Praha-západ District";Praha-západ;https://en.wikipedia.org/wiki/Praha-z%C3%A1pad_District;"91 districts"
+CZ;315;JC;"Prachatice District";Prachatice;https://en.wikipedia.org/wiki/Prachatice_District;"91 districts"
+CZ;713;OL;"Prostějov District";Prostějov;https://en.wikipedia.org/wiki/Prost%C4%9Bjov_District;"91 districts"
+CZ;714;OL;"Přerov District";Přerov;https://en.wikipedia.org/wiki/P%C5%99erov_District;"91 districts"
+CZ;20B;ST;"Příbram District";Příbram;https://en.wikipedia.org/wiki/P%C5%99%C3%ADbram_District;"91 districts"
+CZ;20C;ST;"Rakovník District";Rakovník;https://en.wikipedia.org/wiki/Rakovn%C3%ADk_District;"91 districts"
+CZ;326;PL;"Rokycany District";Rokycany;https://en.wikipedia.org/wiki/Rokycany_District;"91 districts"
+CZ;524;KR;"Rychnov nad Kněžnou District";"Rychnov nad Kněžnou";https://en.wikipedia.org/wiki/Rychnov_nad_Kn%C4%9B%C5%BEnou_District;"91 districts"
+CZ;514;LI;"Semily District";Semily;https://en.wikipedia.org/wiki/Semily_District;"91 districts"
+CZ;413;KA;"Sokolov District";Sokolov;https://en.wikipedia.org/wiki/Sokolov_District;"91 districts"
+CZ;316;JC;"Strakonice District";Strakonice;https://en.wikipedia.org/wiki/Strakonice_District;"91 districts"
+CZ;533;PA;"Svitavy District";Svitavy;https://en.wikipedia.org/wiki/Svitavy_District;"91 districts"
+CZ;715;OL;"Šumperk District";Šumperk;https://en.wikipedia.org/wiki/%C5%A0umperk_District;"91 districts"
+CZ;317;JC;"Tábor District";Tábor;https://en.wikipedia.org/wiki/T%C3%A1bor_District;"91 districts"
+CZ;327;PL;"Tachov District";Tachov;https://en.wikipedia.org/wiki/Tachov_District;"91 districts"
+CZ;426;US;"Teplice District";Teplice;https://en.wikipedia.org/wiki/Teplice_District;"91 districts"
+CZ;525;KR;"Trutnov District";Trutnov;https://en.wikipedia.org/wiki/Trutnov_District;"91 districts"
+CZ;614;VY;"Třebíč District";Třebíč;https://en.wikipedia.org/wiki/T%C5%99eb%C3%AD%C4%8D_District;"91 districts"
+CZ;722;ZL;"Uherské Hradiště District";"Uherské Hradiště";https://en.wikipedia.org/wiki/Uhersk%C3%A9_Hradi%C5%A1t%C4%9B_District;"91 districts"
+CZ;427;US;"Ústí nad Labem District";"Ústí nad Labem";https://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem_District;"91 districts"
+CZ;534;PA;"Ústí nad Orlicí District";"Ústí nad Orlicí";https://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Orlic%C3%AD_District;"91 districts"
+CZ;723;ZL;"Vsetín District";Vsetín;https://en.wikipedia.org/wiki/Vset%C3%ADn_District;"91 districts"
+CZ;626;JM;"Vyškov District";Vyškov;https://en.wikipedia.org/wiki/Vy%C5%A1kov_District;"91 districts"
+CZ;724;ZL;"Zlín District";Zlín;https://en.wikipedia.org/wiki/Zl%C3%ADn_District;"91 districts"
+CZ;627;JM;"Znojmo District";Znojmo;https://en.wikipedia.org/wiki/Znojmo_District;"91 districts"
+CZ;615;VY;"Žďár nad Sázavou District";"Žďár nad Sázavou";https://en.wikipedia.org/wiki/%C5%BD%C4%8F%C3%A1r_nad_S%C3%A1zavou_District;"91 districts"
+DO;01;40;"Distrito Nacional";"Distrito Nacional";https://en.wikipedia.org/wiki/Distrito_Nacional;district
+DO;02;41;"Azua Province";Azua;https://en.wikipedia.org/wiki/Azua_Province;province
+DO;03;38;"Baoruco Province";Baoruco;https://en.wikipedia.org/wiki/Baoruco_Province;province
+DO;04;38;"Barahona Province";Barahona;https://en.wikipedia.org/wiki/Barahona_Province;province
+DO;05;34;"Dajabón Province";Dajabón;https://en.wikipedia.org/wiki/Dajab%C3%B3n_Province;province
+DO;06;33;"Duarte Province";Duarte;https://en.wikipedia.org/wiki/Duarte_Province;province
+DO;08;42;"El Seibo Province";"El Seibo";https://en.wikipedia.org/wiki/El_Seibo_Province;province
+DO;09;35;"Espaillat Province";Espaillat;https://en.wikipedia.org/wiki/Espaillat_Province;province
+DO;30;39;"Hato Mayor Province";"Hato Mayor";https://en.wikipedia.org/wiki/Hato_Mayor_Province;province
+DO;10;38;"Independencia Province";Independencia;https://en.wikipedia.org/wiki/Independencia_Province;province
+DO;11;42;"La Altagracia Province";"La Altagracia";https://en.wikipedia.org/wiki/La_Altagracia_Province;province
+DO;07;37;"Elías Piña Province";"Elías Piña";https://en.wikipedia.org/wiki/El%C3%ADas_Pi%C3%B1a_Province;province
+DO;12;42;"La Romana Province";"La Romana";https://en.wikipedia.org/wiki/La_Romana_Province;province
+DO;13;36;"La Vega Province";"La Vega";https://en.wikipedia.org/wiki/La_Vega_Province;province
+DO;14;33;"María Trinidad Sánchez Province";"María Trinidad Sánchez";https://en.wikipedia.org/wiki/Mar%C3%ADa_Trinidad_S%C3%A1nchez_Province;province
+DO;28;36;"Monseñor Nouel Province";"Monseñor Nouel";https://en.wikipedia.org/wiki/Monse%C3%B1or_Nouel_Province;province
+DO;15;34;"Monte Cristi Province";"Monte Cristi";https://en.wikipedia.org/wiki/Monte_Cristi_Province;province
+DO;29;39;"Monte Plata Province";"Monte Plata";https://en.wikipedia.org/wiki/Monte_Plata_Province;province
+DO;16;38;"Pedernales Province";Pedernales;https://en.wikipedia.org/wiki/Pedernales_Province;province
+DO;17;41;"Peravia Province";Peravia;https://en.wikipedia.org/wiki/Peravia_Province;province
+DO;18;35;"Puerto Plata Province";"Puerto Plata";https://en.wikipedia.org/wiki/Puerto_Plata_Province;province
+DO;19;33;"Hermanas Mirabal Province";"Hermanas Mirabal";https://en.wikipedia.org/wiki/Hermanas_Mirabal_Province;province
+DO;20;33;"Samaná Province";Samaná;https://en.wikipedia.org/wiki/Saman%C3%A1_Province;province
+DO;21;41;"San Cristóbal Province";"San Cristóbal";https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_Province;province
+DO;31;41;"San José de Ocoa Province";"San José de Ocoa";https://en.wikipedia.org/wiki/San_Jos%C3%A9_de_Ocoa_Province;province
+DO;22;37;"San Juan Province (Dominican Republic)";"San Juan";https://en.wikipedia.org/wiki/San_Juan_Province_(Dominican_Republic);province
+DO;23;39;"San Pedro de Macorís Province";"San Pedro de Macorís";https://en.wikipedia.org/wiki/San_Pedro_de_Macor%C3%ADs_Province;province
+DO;24;36;"Sánchez Ramírez Province";"Sánchez Ramírez";https://en.wikipedia.org/wiki/S%C3%A1nchez_Ram%C3%ADrez_Province;province
+DO;25;35;"Santiago Province (Dominican Republic)";Santiago;https://en.wikipedia.org/wiki/Santiago_Province_(Dominican_Republic);province
+DO;26;34;"Santiago Rodríguez Province";"Santiago Rodríguez";https://en.wikipedia.org/wiki/Santiago_Rodr%C3%ADguez_Province;province
+DO;32;40;"Santo Domingo Province";"Santo Domingo";https://en.wikipedia.org/wiki/Santo_Domingo_Province;province
+DO;27;34;"Valverde Province";Valverde;https://en.wikipedia.org/wiki/Valverde_Province;province
+ES;C;GA;"Province of A Coruña";"A Coruña";https://en.wikipedia.org/wiki/Province_of_A_Coru%C3%B1a;
+ES;VI;PV;"Province of Álava";Álava;https://en.wikipedia.org/wiki/Province_of_%C3%81lava;
+ES;AB;CM;"Province of Albacete";Albacete;https://en.wikipedia.org/wiki/Province_of_Albacete;
+ES;A;VC;"Province of Alicante";Alicante;https://en.wikipedia.org/wiki/Province_of_Alicante;
+ES;AL;AN;"Province of Almería";Almería;https://en.wikipedia.org/wiki/Province_of_Almer%C3%ADa;
+ES;O;AS;"Province of Asturias";Asturias;https://en.wikipedia.org/wiki/Province_of_Asturias;
+ES;AV;CL;"Province of Ávila";Ávila;https://en.wikipedia.org/wiki/Province_of_%C3%81vila;
+ES;BA;EX;"Province of Badajoz";Badajoz;https://en.wikipedia.org/wiki/Province_of_Badajoz;
+ES;PM;IB;"Province of Balears";Balears;https://en.wikipedia.org/wiki/Province_of_Balears;
+ES;B;CT;"Province of Barcelona";Barcelona;https://en.wikipedia.org/wiki/Province_of_Barcelona;
+ES;BU;CL;"Province of Burgos";Burgos;https://en.wikipedia.org/wiki/Province_of_Burgos;
+ES;CC;EX;"Province of Cáceres";Cáceres;https://en.wikipedia.org/wiki/Province_of_C%C3%A1ceres;
+ES;CA;AN;"Province of Cádiz";Cádiz;https://en.wikipedia.org/wiki/Province_of_C%C3%A1diz;
+ES;S;CB;"Province of Cantabria";Cantabria;https://en.wikipedia.org/wiki/Province_of_Cantabria;
+ES;CS;VC;"Province of Castellón";Castellón;https://en.wikipedia.org/wiki/Province_of_Castell%C3%B3n;
+ES;CR;CM;"Province of Ciudad Real";"Ciudad Real";https://en.wikipedia.org/wiki/Province_of_Ciudad_Real;
+ES;CO;AN;"Province of Córdoba (Spain)";Córdoba;https://en.wikipedia.org/wiki/Province_of_C%C3%B3rdoba_(Spain);
+ES;CU;CM;"Province of Cuenca (Spain)";Cuenca;https://en.wikipedia.org/wiki/Province_of_Cuenca_(Spain);
+ES;GI;CT;"Province of Girona";Girona;https://en.wikipedia.org/wiki/Province_of_Girona;
+ES;GR;AN;"Province of Granada";Granada;https://en.wikipedia.org/wiki/Province_of_Granada;
+ES;GU;CM;"Province of Guadalajara";Guadalajara;https://en.wikipedia.org/wiki/Province_of_Guadalajara;
+ES;SS;PV;"Province of Guipúzcoa";Gipuzkoa;https://en.wikipedia.org/wiki/Province_of_Guip%C3%BAzcoa;
+ES;H;AN;"Province of Huelva";Huelva;https://en.wikipedia.org/wiki/Province_of_Huelva;
+ES;HU;AR;"Province of Huesca";Huesca;https://en.wikipedia.org/wiki/Province_of_Huesca;
+ES;J;AN;"Province of Jaén (Spain)";Jaén;https://en.wikipedia.org/wiki/Province_of_Ja%C3%A9n_(Spain);
+ES;LO;RI;"Province of La Rioja (Spain)";"La Rioja";https://en.wikipedia.org/wiki/Province_of_La_Rioja_(Spain);
+ES;GC;CN;"Province of Las Palmas";"Las Palmas";https://en.wikipedia.org/wiki/Province_of_Las_Palmas;
+ES;LE;CL;"Province of León";León;https://en.wikipedia.org/wiki/Province_of_Le%C3%B3n;
+ES;L;CT;"Province of Lleida";Lleida;https://en.wikipedia.org/wiki/Province_of_Lleida;
+ES;LU;GA;"Province of Lugo";Lugo;https://en.wikipedia.org/wiki/Province_of_Lugo;
+ES;M;MD;"Province of Madrid";Madrid;https://en.wikipedia.org/wiki/Province_of_Madrid;
+ES;MA;AN;"Province of Málaga";Málaga;https://en.wikipedia.org/wiki/Province_of_M%C3%A1laga;
+ES;MU;MC;"Province of Murcia";Murcia;https://en.wikipedia.org/wiki/Province_of_Murcia;
+ES;NA;NC;"Province of Navarra";Navarra;https://en.wikipedia.org/wiki/Province_of_Navarra;
+ES;OR;GA;"Province of Ourense";Ourense;https://en.wikipedia.org/wiki/Province_of_Ourense;
+ES;P;CL;"Province of Palencia";Palencia;https://en.wikipedia.org/wiki/Province_of_Palencia;
+ES;PO;GA;"Province of Pontevedra";Pontevedra;https://en.wikipedia.org/wiki/Province_of_Pontevedra;
+ES;SA;CL;"Province of Salamanca";Salamanca;https://en.wikipedia.org/wiki/Province_of_Salamanca;
+ES;TF;CN;"Province of Santa Cruz de Tenerife";"Santa Cruz de Tenerife";https://en.wikipedia.org/wiki/Province_of_Santa_Cruz_de_Tenerife;
+ES;SG;CL;"Province of Segovia";Segovia;https://en.wikipedia.org/wiki/Province_of_Segovia;
+ES;SE;AN;"Province of Sevilla";Sevilla;https://en.wikipedia.org/wiki/Province_of_Sevilla;
+ES;SO;CL;"Province of Soria";Soria;https://en.wikipedia.org/wiki/Province_of_Soria;
+ES;T;CT;"Province of Tarragona";Tarragona;https://en.wikipedia.org/wiki/Province_of_Tarragona;
+ES;TE;AR;"Province of Teruel";Teruel;https://en.wikipedia.org/wiki/Province_of_Teruel;
+ES;TO;CM;"Province of Toledo";Toledo;https://en.wikipedia.org/wiki/Province_of_Toledo;
+ES;V;VC;"Province of Valencia";Valencia;https://en.wikipedia.org/wiki/Province_of_Valencia;
+ES;VA;CL;"Province of Valladolid";Valladolid;https://en.wikipedia.org/wiki/Province_of_Valladolid;
+ES;BI;PV;"Province of Vizcaya";Bizkaia;https://en.wikipedia.org/wiki/Province_of_Vizcaya;
+ES;ZA;CL;"Province of Zamora";Zamora;https://en.wikipedia.org/wiki/Province_of_Zamora;
+ES;Z;AR;"Province of Zaragoza";Zaragoza;https://en.wikipedia.org/wiki/Province_of_Zaragoza;
+FJ;01;W;"Ba Province";Ba;https://en.wikipedia.org/wiki/Ba_Province;province
+FJ;02;N;"Bua Province";Bua;https://en.wikipedia.org/wiki/Bua_Province;province
+FJ;03;N;"Cakaudrove Province";Cakaudrove;https://en.wikipedia.org/wiki/Cakaudrove_Province;province
+FJ;04;E;"Kadavu Province";Kadavu;https://en.wikipedia.org/wiki/Kadavu_Province;province
+FJ;05;E;"Lau Province";Lau;https://en.wikipedia.org/wiki/Lau_Province;province
+FJ;06;E;"Lomaiviti Province";Lomaiviti;https://en.wikipedia.org/wiki/Lomaiviti_Province;province
+FJ;07;N;"Macuata Province";Macuata;https://en.wikipedia.org/wiki/Macuata_Province;province
+FJ;08;W;"Nadroga-Navosa Province";"Nadroga and Navosa";https://en.wikipedia.org/wiki/Nadroga-Navosa_Province;province
+FJ;09;C;"Naitasiri Province";Naitasiri;https://en.wikipedia.org/wiki/Naitasiri_Province;province
+FJ;10;C;"Namosi Province";Namosi;https://en.wikipedia.org/wiki/Namosi_Province;province
+FJ;11;W;"Ra Province";Ra;https://en.wikipedia.org/wiki/Ra_Province;province
+FJ;12;C;"Rewa Province";Rewa;https://en.wikipedia.org/wiki/Rewa_Province;province
+FJ;13;C;"Serua Province";Serua;https://en.wikipedia.org/wiki/Serua_Province;province
+FJ;14;C;"Tailevu Province";Tailevu;https://en.wikipedia.org/wiki/Tailevu_Province;province
+FR;01;V;Ain;Ain;https://en.wikipedia.org/wiki/Ain;
+FR;02;S;Aisne;Aisne;https://en.wikipedia.org/wiki/Aisne;
+FR;03;C;Allier;Allier;https://en.wikipedia.org/wiki/Allier;
+FR;04;U;Alpes-de-Haute-Provence;Alpes-de-Haute-Provence;https://en.wikipedia.org/wiki/Alpes-de-Haute-Provence;
+FR;06;U;Alpes-Maritimes;Alpes-Maritimes;https://en.wikipedia.org/wiki/Alpes-Maritimes;
+FR;07;V;Ardèche;Ardèche;https://en.wikipedia.org/wiki/Ard%C3%A8che;
+FR;08;G;"Ardennes (department)";Ardennes;https://en.wikipedia.org/wiki/Ardennes_(department);
+FR;09;N;"Ariège (department)";Ariège;https://en.wikipedia.org/wiki/Ari%C3%A8ge_(department);
+FR;10;G;Aube;Aube;https://en.wikipedia.org/wiki/Aube;
+FR;11;K;Aude;Aude;https://en.wikipedia.org/wiki/Aude;
+FR;12;N;Aveyron;Aveyron;https://en.wikipedia.org/wiki/Aveyron;
+FR;67;A;Bas-Rhin;Bas-Rhin;https://en.wikipedia.org/wiki/Bas-Rhin;
+FR;13;U;Bouches-du-Rhône;Bouches-du-Rhône;https://en.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne;
+FR;14;P;"Calvados (department)";Calvados;https://en.wikipedia.org/wiki/Calvados_(department);
+FR;15;C;Cantal;Cantal;https://en.wikipedia.org/wiki/Cantal;
+FR;16;T;Charente;Charente;https://en.wikipedia.org/wiki/Charente;
+FR;17;T;Charente-Maritime;Charente-Maritime;https://en.wikipedia.org/wiki/Charente-Maritime;
+FR;18;F;"Cher (department)";Cher;https://en.wikipedia.org/wiki/Cher_(department);
+FR;19;L;Corrèze;Corrèze;https://en.wikipedia.org/wiki/Corr%C3%A8ze;
+FR;"20A ! FR";H;Corse-du-Sud;Corse-du-Sud;https://en.wikipedia.org/wiki/Corse-du-Sud;
+FR;21;D;Côte-d'Or;Côte-d'Or;https://en.wikipedia.org/wiki/C%C3%B4te-d%27Or;
+FR;22;E;Côtes-d'Armor;Côtes-d'Armor;https://en.wikipedia.org/wiki/C%C3%B4tes-d%27Armor;
+FR;23;L;Creuse;Creuse;https://en.wikipedia.org/wiki/Creuse;
+FR;79;T;Deux-Sèvres;Deux-Sèvres;https://en.wikipedia.org/wiki/Deux-S%C3%A8vres;
+FR;24;B;Dordogne;Dordogne;https://en.wikipedia.org/wiki/Dordogne;
+FR;25;I;Doubs;Doubs;https://en.wikipedia.org/wiki/Doubs;
+FR;26;V;Drôme;Drôme;https://en.wikipedia.org/wiki/Dr%C3%B4me;
+FR;91;J;Essonne;Essonne;https://en.wikipedia.org/wiki/Essonne;
+FR;27;Q;Eure;Eure;https://en.wikipedia.org/wiki/Eure;
+FR;28;F;Eure-et-Loir;Eure-et-Loir;https://en.wikipedia.org/wiki/Eure-et-Loir;
+FR;29;E;Finistère;Finistère;https://en.wikipedia.org/wiki/Finist%C3%A8re;
+FR;30;K;Gard;Gard;https://en.wikipedia.org/wiki/Gard;
+FR;32;N;Gers;Gers;https://en.wikipedia.org/wiki/Gers;
+FR;33;B;Gironde;Gironde;https://en.wikipedia.org/wiki/Gironde;
+FR;"20B ! FR";H;Haute-Corse;Haute-Corse;https://en.wikipedia.org/wiki/Haute-Corse;
+FR;31;N;Haute-Garonne;Haute-Garonne;https://en.wikipedia.org/wiki/Haute-Garonne;
+FR;43;C;Haute-Loire;Haute-Loire;https://en.wikipedia.org/wiki/Haute-Loire;
+FR;52;G;Haute-Marne;Haute-Marne;https://en.wikipedia.org/wiki/Haute-Marne;
+FR;05;U;Hautes-Alpes;Hautes-Alpes;https://en.wikipedia.org/wiki/Hautes-Alpes;
+FR;70;I;Haute-Saône;Haute-Saône;https://en.wikipedia.org/wiki/Haute-Sa%C3%B4ne;
+FR;74;V;Haute-Savoie;Haute-Savoie;https://en.wikipedia.org/wiki/Haute-Savoie;
+FR;65;N;Hautes-Pyrénées;Hautes-Pyrénées;https://en.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es;
+FR;87;L;Haute-Vienne;Haute-Vienne;https://en.wikipedia.org/wiki/Haute-Vienne;
+FR;68;A;Haut-Rhin;Haut-Rhin;https://en.wikipedia.org/wiki/Haut-Rhin;
+FR;92;J;Hauts-de-Seine;Hauts-de-Seine;https://en.wikipedia.org/wiki/Hauts-de-Seine;
+FR;34;K;Hérault;Hérault;https://en.wikipedia.org/wiki/H%C3%A9rault;
+FR;35;E;Ille-et-Vilaine;Ille-et-Vilaine;https://en.wikipedia.org/wiki/Ille-et-Vilaine;
+FR;36;F;Indre;Indre;https://en.wikipedia.org/wiki/Indre;
+FR;37;F;Indre-et-Loire;Indre-et-Loire;https://en.wikipedia.org/wiki/Indre-et-Loire;
+FR;38;V;Isère;Isère;https://en.wikipedia.org/wiki/Is%C3%A8re;
+FR;39;I;"Jura (department)";Jura;https://en.wikipedia.org/wiki/Jura_(department);
+FR;40;B;"Landes (department)";Landes;https://en.wikipedia.org/wiki/Landes_(department);
+FR;42;V;Loire;Loire;https://en.wikipedia.org/wiki/Loire;
+FR;44;R;Loire-Atlantique;Loire-Atlantique;https://en.wikipedia.org/wiki/Loire-Atlantique;
+FR;45;F;Loiret;Loiret;https://en.wikipedia.org/wiki/Loiret;
+FR;41;F;Loir-et-Cher;Loir-et-Cher;https://en.wikipedia.org/wiki/Loir-et-Cher;
+FR;46;N;"Lot (department)";Lot;https://en.wikipedia.org/wiki/Lot_(department);
+FR;47;B;Lot-et-Garonne;Lot-et-Garonne;https://en.wikipedia.org/wiki/Lot-et-Garonne;
+FR;48;K;Lozère;Lozère;https://en.wikipedia.org/wiki/Loz%C3%A8re;
+FR;49;R;Maine-et-Loire;Maine-et-Loire;https://en.wikipedia.org/wiki/Maine-et-Loire;
+FR;50;P;Manche;Manche;https://en.wikipedia.org/wiki/Manche;
+FR;51;G;Marne;Marne;https://en.wikipedia.org/wiki/Marne;
+FR;53;R;Mayenne;Mayenne;https://en.wikipedia.org/wiki/Mayenne;
+FR;54;M;Meurthe-et-Moselle;Meurthe-et-Moselle;https://en.wikipedia.org/wiki/Meurthe-et-Moselle;
+FR;55;M;"Meuse (department)";Meuse;https://en.wikipedia.org/wiki/Meuse_(department);
+FR;56;E;Morbihan;Morbihan;https://en.wikipedia.org/wiki/Morbihan;
+FR;57;M;"Moselle (department)";Moselle;https://en.wikipedia.org/wiki/Moselle_(department);
+FR;58;D;Nièvre;Nièvre;https://en.wikipedia.org/wiki/Ni%C3%A8vre;
+FR;59;O;"Nord (French department)";Nord;https://en.wikipedia.org/wiki/Nord_(French_department);
+FR;60;S;Oise;Oise;https://en.wikipedia.org/wiki/Oise;
+FR;61;P;Orne;Orne;https://en.wikipedia.org/wiki/Orne;
+FR;75;J;Paris;Paris;https://en.wikipedia.org/wiki/Paris;
+FR;62;O;Pas-de-Calais;Pas-de-Calais;https://en.wikipedia.org/wiki/Pas-de-Calais;
+FR;63;C;Puy-de-Dôme;Puy-de-Dôme;https://en.wikipedia.org/wiki/Puy-de-D%C3%B4me;
+FR;64;B;Pyrénées-Atlantiques;Pyrénées-Atlantiques;https://en.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques;
+FR;66;K;Pyrénées-Orientales;Pyrénées-Orientales;https://en.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Orientales;
+FR;69;V;"Rhône (department)";Rhône;https://en.wikipedia.org/wiki/Rh%C3%B4ne_(department);
+FR;71;D;Saône-et-Loire;Saône-et-Loire;https://en.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire;
+FR;72;R;Sarthe;Sarthe;https://en.wikipedia.org/wiki/Sarthe;
+FR;73;V;Savoie;Savoie;https://en.wikipedia.org/wiki/Savoie;
+FR;77;J;Seine-et-Marne;Seine-et-Marne;https://en.wikipedia.org/wiki/Seine-et-Marne;
+FR;76;Q;Seine-Maritime;Seine-Maritime;https://en.wikipedia.org/wiki/Seine-Maritime;
+FR;93;J;Seine-Saint-Denis;Seine-Saint-Denis;https://en.wikipedia.org/wiki/Seine-Saint-Denis;
+FR;80;S;"Somme (department)";Somme;https://en.wikipedia.org/wiki/Somme_(department);
+FR;81;N;"Tarn (department)";Tarn;https://en.wikipedia.org/wiki/Tarn_(department);
+FR;82;N;Tarn-et-Garonne;Tarn-et-Garonne;https://en.wikipedia.org/wiki/Tarn-et-Garonne;
+FR;90;I;"Territoire de Belfort";"Territoire de Belfort";https://en.wikipedia.org/wiki/Territoire_de_Belfort;
+FR;94;J;Val-de-Marne;Val-de-Marne;https://en.wikipedia.org/wiki/Val-de-Marne;
+FR;95;J;Val-d'Oise;Val-d'Oise;https://en.wikipedia.org/wiki/Val-d%27Oise;
+FR;83;U;"Var (department)";Var;https://en.wikipedia.org/wiki/Var_(department);
+FR;84;U;Vaucluse;Vaucluse;https://en.wikipedia.org/wiki/Vaucluse;
+FR;85;R;Vendée;Vendée;https://en.wikipedia.org/wiki/Vend%C3%A9e;
+FR;86;T;Vienne;Vienne;https://en.wikipedia.org/wiki/Vienne;
+FR;88;M;"Vosges (department)";Vosges;https://en.wikipedia.org/wiki/Vosges_(department);
+FR;89;D;Yonne;Yonne;https://en.wikipedia.org/wiki/Yonne;
+FR;78;J;Yvelines;Yvelines;https://en.wikipedia.org/wiki/Yvelines;
+GB;BKM;ENG;Buckinghamshire;Buckinghamshire;https://en.wikipedia.org/wiki/Buckinghamshire;"two-tier county"
+GB;CAM;ENG;Cambridgeshire;Cambridgeshire;https://en.wikipedia.org/wiki/Cambridgeshire;"two-tier county"
+GB;CMA;ENG;Cumbria;Cumbria;https://en.wikipedia.org/wiki/Cumbria;"two-tier county"
+GB;DBY;ENG;Derbyshire;Derbyshire;https://en.wikipedia.org/wiki/Derbyshire;"two-tier county"
+GB;DEV;ENG;Devon;Devon;https://en.wikipedia.org/wiki/Devon;"two-tier county"
+GB;DOR;ENG;Dorset;Dorset;https://en.wikipedia.org/wiki/Dorset;"two-tier county"
+GB;ESX;ENG;"East Sussex";"East Sussex";https://en.wikipedia.org/wiki/East_Sussex;"two-tier county"
+GB;ESS;ENG;Essex;Essex;https://en.wikipedia.org/wiki/Essex;"two-tier county"
+GB;GLS;ENG;Gloucestershire;Gloucestershire;https://en.wikipedia.org/wiki/Gloucestershire;"two-tier county"
+GB;HAM;ENG;Hampshire;Hampshire;https://en.wikipedia.org/wiki/Hampshire;"two-tier county"
+GB;HRT;ENG;Hertfordshire;Hertfordshire;https://en.wikipedia.org/wiki/Hertfordshire;"two-tier county"
+GB;KEN;ENG;Kent;Kent;https://en.wikipedia.org/wiki/Kent;"two-tier county"
+GB;LAN;ENG;Lancashire;Lancashire;https://en.wikipedia.org/wiki/Lancashire;"two-tier county"
+GB;LEC;ENG;Leicestershire;Leicestershire;https://en.wikipedia.org/wiki/Leicestershire;"two-tier county"
+GB;LIN;ENG;Lincolnshire;Lincolnshire;https://en.wikipedia.org/wiki/Lincolnshire;"two-tier county"
+GB;NFK;ENG;Norfolk;Norfolk;https://en.wikipedia.org/wiki/Norfolk;"two-tier county"
+GB;NYK;ENG;"North Yorkshire";"North Yorkshire";https://en.wikipedia.org/wiki/North_Yorkshire;"two-tier county"
+GB;NTH;ENG;Northamptonshire;Northamptonshire;https://en.wikipedia.org/wiki/Northamptonshire;"two-tier county"
+GB;NTT;ENG;Nottinghamshire;Nottinghamshire;https://en.wikipedia.org/wiki/Nottinghamshire;"two-tier county"
+GB;OXF;ENG;Oxfordshire;Oxfordshire;https://en.wikipedia.org/wiki/Oxfordshire;"two-tier county"
+GB;SOM;ENG;Somerset;Somerset;https://en.wikipedia.org/wiki/Somerset;"two-tier county"
+GB;STS;ENG;Staffordshire;Staffordshire;https://en.wikipedia.org/wiki/Staffordshire;"two-tier county"
+GB;SFK;ENG;Suffolk;Suffolk;https://en.wikipedia.org/wiki/Suffolk;"two-tier county"
+GB;SRY;ENG;Surrey;Surrey;https://en.wikipedia.org/wiki/Surrey;"two-tier county"
+GB;WAR;ENG;Warwickshire;Warwickshire;https://en.wikipedia.org/wiki/Warwickshire;"two-tier county"
+GB;WSX;ENG;"West Sussex";"West Sussex";https://en.wikipedia.org/wiki/West_Sussex;"two-tier county"
+GB;WOR;ENG;Worcestershire;Worcestershire;https://en.wikipedia.org/wiki/Worcestershire;"two-tier county"
+GB;LND;ENG;"City of London";"London, City of";https://en.wikipedia.org/wiki/City_of_London;"city corporation"
+GB;BDG;ENG;"London Borough of Barking and Dagenham";"Barking and Dagenham";https://en.wikipedia.org/wiki/London_Borough_of_Barking_and_Dagenham;"London borough"
+GB;BNE;ENG;"London Borough of Barnet";Barnet;https://en.wikipedia.org/wiki/London_Borough_of_Barnet;"London borough"
+GB;BEX;ENG;"London Borough of Bexley";Bexley;https://en.wikipedia.org/wiki/London_Borough_of_Bexley;"London borough"
+GB;BEN;ENG;"London Borough of Brent";Brent;https://en.wikipedia.org/wiki/London_Borough_of_Brent;"London borough"
+GB;BRY;ENG;"London Borough of Bromley";Bromley;https://en.wikipedia.org/wiki/London_Borough_of_Bromley;"London borough"
+GB;CMD;ENG;"London Borough of Camden";Camden;https://en.wikipedia.org/wiki/London_Borough_of_Camden;"London borough"
+GB;CRY;ENG;"London Borough of Croydon";Croydon;https://en.wikipedia.org/wiki/London_Borough_of_Croydon;"London borough"
+GB;EAL;ENG;"London Borough of Ealing";Ealing;https://en.wikipedia.org/wiki/London_Borough_of_Ealing;"London borough"
+GB;ENF;ENG;"London Borough of Enfield";Enfield;https://en.wikipedia.org/wiki/London_Borough_of_Enfield;"London borough"
+GB;GRE;ENG;"Royal Borough of Greenwich";Greenwich;https://en.wikipedia.org/wiki/Royal_Borough_of_Greenwich;"London borough"
+GB;HCK;ENG;"London Borough of Hackney";Hackney;https://en.wikipedia.org/wiki/London_Borough_of_Hackney;"London borough"
+GB;HMF;ENG;"London Borough of Hammersmith and Fulham";"Hammersmith and Fulham";https://en.wikipedia.org/wiki/London_Borough_of_Hammersmith_and_Fulham;"London borough"
+GB;HRY;ENG;"London Borough of Haringey";Haringey;https://en.wikipedia.org/wiki/London_Borough_of_Haringey;"London borough"
+GB;HRW;ENG;"London Borough of Harrow";Harrow;https://en.wikipedia.org/wiki/London_Borough_of_Harrow;"London borough"
+GB;HAV;ENG;"London Borough of Havering";Havering;https://en.wikipedia.org/wiki/London_Borough_of_Havering;"London borough"
+GB;HIL;ENG;"London Borough of Hillingdon";Hillingdon;https://en.wikipedia.org/wiki/London_Borough_of_Hillingdon;"London borough"
+GB;HNS;ENG;"London Borough of Hounslow";Hounslow;https://en.wikipedia.org/wiki/London_Borough_of_Hounslow;"London borough"
+GB;ISL;ENG;"London Borough of Islington";Islington;https://en.wikipedia.org/wiki/London_Borough_of_Islington;"London borough"
+GB;KEC;ENG;"London Borough of Kensington and Chelsea";"Kensington and Chelsea";https://en.wikipedia.org/wiki/London_Borough_of_Kensington_and_Chelsea;"London borough"
+GB;KTT;ENG;"London Borough of Kingston upon Thames";"Kingston upon Thames";https://en.wikipedia.org/wiki/London_Borough_of_Kingston_upon_Thames;"London borough"
+GB;LBH;ENG;"London Borough of Lambeth";Lambeth;https://en.wikipedia.org/wiki/London_Borough_of_Lambeth;"London borough"
+GB;LEW;ENG;"London Borough of Lewisham";Lewisham;https://en.wikipedia.org/wiki/London_Borough_of_Lewisham;"London borough"
+GB;MRT;ENG;"London Borough of Merton";Merton;https://en.wikipedia.org/wiki/London_Borough_of_Merton;"London borough"
+GB;NWM;ENG;"London Borough of Newham";Newham;https://en.wikipedia.org/wiki/London_Borough_of_Newham;"London borough"
+GB;RDB;ENG;"London Borough of Redbridge";Redbridge;https://en.wikipedia.org/wiki/London_Borough_of_Redbridge;"London borough"
+GB;RIC;ENG;"London Borough of Richmond upon Thames";"Richmond upon Thames";https://en.wikipedia.org/wiki/London_Borough_of_Richmond_upon_Thames;"London borough"
+GB;SWK;ENG;"London Borough of Southwark";Southwark;https://en.wikipedia.org/wiki/London_Borough_of_Southwark;"London borough"
+GB;STN;ENG;"London Borough of Sutton";Sutton;https://en.wikipedia.org/wiki/London_Borough_of_Sutton;"London borough"
+GB;TWH;ENG;"London Borough of Tower Hamlets";"Tower Hamlets";https://en.wikipedia.org/wiki/London_Borough_of_Tower_Hamlets;"London borough"
+GB;WFT;ENG;"London Borough of Waltham Forest";"Waltham Forest";https://en.wikipedia.org/wiki/London_Borough_of_Waltham_Forest;"London borough"
+GB;WND;ENG;"London Borough of Wandsworth";Wandsworth;https://en.wikipedia.org/wiki/London_Borough_of_Wandsworth;"London borough"
+GB;WSM;ENG;"London Borough of Westminster";Westminster;https://en.wikipedia.org/wiki/London_Borough_of_Westminster;"London borough"
+GB;BNS;ENG;"Metropolitan Borough of Barnsley";Barnsley;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Barnsley;"metropolitan district"
+GB;BIR;ENG;"Metropolitan Borough of Birmingham";Birmingham;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Birmingham;"metropolitan district"
+GB;BOL;ENG;"Metropolitan Borough of Bolton";Bolton;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Bolton;"metropolitan district"
+GB;BRD;ENG;"Metropolitan Borough of Bradford";Bradford;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Bradford;"metropolitan district"
+GB;BUR;ENG;"Metropolitan Borough of Bury";Bury;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Bury;"metropolitan district"
+GB;CLD;ENG;"Metropolitan Borough of Calderdale";Calderdale;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Calderdale;"metropolitan district"
+GB;COV;ENG;"Metropolitan Borough of Coventry";Coventry;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Coventry;"metropolitan district"
+GB;DNC;ENG;"Metropolitan Borough of Doncaster";Doncaster;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Doncaster;"metropolitan district"
+GB;DUD;ENG;"Metropolitan Borough of Dudley";Dudley;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Dudley;"metropolitan district"
+GB;GAT;ENG;"Metropolitan Borough of Gateshead";Gateshead;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Gateshead;"metropolitan district"
+GB;KIR;ENG;"Metropolitan Borough of Kirklees";Kirklees;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Kirklees;"metropolitan district"
+GB;KWL;ENG;"Metropolitan Borough of Knowsley";Knowsley;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Knowsley;"metropolitan district"
+GB;LDS;ENG;"Metropolitan Borough of Leeds";Leeds;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Leeds;"metropolitan district"
+GB;LIV;ENG;"Metropolitan Borough of Liverpool";Liverpool;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Liverpool;"metropolitan district"
+GB;MAN;ENG;"Metropolitan Borough of Manchester";Manchester;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Manchester;"metropolitan district"
+GB;NET;ENG;"Metropolitan Borough of Newcastle upon Tyne";"Newcastle upon Tyne";https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Newcastle_upon_Tyne;"metropolitan district"
+GB;NTY;ENG;"Metropolitan Borough of North Tyneside";"North Tyneside";https://en.wikipedia.org/wiki/Metropolitan_Borough_of_North_Tyneside;"metropolitan district"
+GB;OLD;ENG;"Metropolitan Borough of Oldham";Oldham;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Oldham;"metropolitan district"
+GB;RCH;ENG;"Metropolitan Borough of Rochdale";Rochdale;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Rochdale;"metropolitan district"
+GB;ROT;ENG;"Metropolitan Borough of Rotherham";Rotherham;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Rotherham;"metropolitan district"
+GB;SHN;ENG;"Metropolitan Borough of St. Helens";"St. Helens";https://en.wikipedia.org/wiki/Metropolitan_Borough_of_St._Helens;"metropolitan district"
+GB;SLF;ENG;"Metropolitan Borough of Salford";Salford;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Salford;"metropolitan district"
+GB;SAW;ENG;"Metropolitan Borough of Sandwell";Sandwell;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Sandwell;"metropolitan district"
+GB;SFT;ENG;"Metropolitan Borough of Sefton";Sefton;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Sefton;"metropolitan district"
+GB;SHF;ENG;"Metropolitan Borough of Sheffield";Sheffield;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Sheffield;"metropolitan district"
+GB;SOL;ENG;"Metropolitan Borough of Solihull";Solihull;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Solihull;"metropolitan district"
+GB;STY;ENG;"Metropolitan Borough of South Tyneside";"South Tyneside";https://en.wikipedia.org/wiki/Metropolitan_Borough_of_South_Tyneside;"metropolitan district"
+GB;SKP;ENG;"Metropolitan Borough of Stockport";Stockport;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Stockport;"metropolitan district"
+GB;SND;ENG;"Metropolitan Borough of Sunderland";Sunderland;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Sunderland;"metropolitan district"
+GB;TAM;ENG;"Metropolitan Borough of Tameside";Tameside;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Tameside;"metropolitan district"
+GB;TRF;ENG;"Metropolitan Borough of Trafford";Trafford;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Trafford;"metropolitan district"
+GB;WKF;ENG;"Metropolitan Borough of Wakefield";Wakefield;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wakefield;"metropolitan district"
+GB;WLL;ENG;"Metropolitan Borough of Walsall";Walsall;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Walsall;"metropolitan district"
+GB;WGN;ENG;"Metropolitan Borough of Wigan";Wigan;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wigan;"metropolitan district"
+GB;WRL;ENG;"Metropolitan Borough of Wirral";Wirral;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wirral;"metropolitan district"
+GB;WLV;ENG;"Metropolitan Borough of Wolverhampton";Wolverhampton;https://en.wikipedia.org/wiki/Metropolitan_Borough_of_Wolverhampton;"metropolitan district"
+GB;BAS;ENG;"Bath and North East Somerset";"Bath and North East Somerset";https://en.wikipedia.org/wiki/Bath_and_North_East_Somerset;"unitary authority"
+GB;BDF;ENG;"Borough of Bedford";Bedford;https://en.wikipedia.org/wiki/Borough_of_Bedford;"unitary authority"
+GB;BBD;ENG;"Blackburn with Darwen";"Blackburn with Darwen";https://en.wikipedia.org/wiki/Blackburn_with_Darwen;"unitary authority"
+GB;BPL;ENG;Blackpool;Blackpool;https://en.wikipedia.org/wiki/Blackpool;"unitary authority"
+GB;BMH;ENG;"Bournemouth (borough)";Bournemouth;https://en.wikipedia.org/wiki/Bournemouth_(borough);"unitary authority"
+GB;BRC;ENG;"Bracknell Forest";"Bracknell Forest";https://en.wikipedia.org/wiki/Bracknell_Forest;"unitary authority"
+GB;BNH;ENG;"Brighton and Hove";"Brighton and Hove";https://en.wikipedia.org/wiki/Brighton_and_Hove;"unitary authority"
+GB;BST;ENG;"City of Bristol";"Bristol, City of";https://en.wikipedia.org/wiki/City_of_Bristol;"unitary authority"
+GB;CBF;ENG;"Central Bedfordshire";"Central Bedfordshire";https://en.wikipedia.org/wiki/Central_Bedfordshire;"unitary authority"
+GB;CHE;ENG;"Cheshire East";"Cheshire East";https://en.wikipedia.org/wiki/Cheshire_East;"unitary authority"
+GB;CHW;ENG;"Cheshire West and Chester";"Cheshire West and Chester";https://en.wikipedia.org/wiki/Cheshire_West_and_Chester;"unitary authority"
+GB;CON;ENG;Cornwall;Cornwall;https://en.wikipedia.org/wiki/Cornwall;"unitary authority"
+GB;DAL;ENG;"Darlington (borough)";Darlington;https://en.wikipedia.org/wiki/Darlington_(borough);"unitary authority"
+GB;DER;ENG;Derby;Derby;https://en.wikipedia.org/wiki/Derby;"unitary authority"
+GB;DUR;ENG;"Durham (English county)";"Durham, County";https://en.wikipedia.org/wiki/Durham_(English_county);"unitary authority"
+GB;ERY;ENG;"East Riding of Yorkshire";"East Riding of Yorkshire";https://en.wikipedia.org/wiki/East_Riding_of_Yorkshire;"unitary authority"
+GB;HAL;ENG;"Halton (borough)";Halton;https://en.wikipedia.org/wiki/Halton_(borough);"unitary authority"
+GB;HPL;ENG;"Hartlepool (borough)";Hartlepool;https://en.wikipedia.org/wiki/Hartlepool_(borough);"unitary authority"
+GB;HEF;ENG;Herefordshire;Herefordshire;https://en.wikipedia.org/wiki/Herefordshire;"unitary authority"
+GB;IOW;ENG;"Isle of Wight";"Isle of Wight";https://en.wikipedia.org/wiki/Isle_of_Wight;"unitary authority"
+GB;IOS;ENG;"Isles of Scilly";"Isles of Scilly";https://en.wikipedia.org/wiki/Isles_of_Scilly;"unitary authority"
+GB;KHL;ENG;"Kingston upon Hull";"Kingston upon Hull";https://en.wikipedia.org/wiki/Kingston_upon_Hull;"unitary authority"
+GB;LCE;ENG;Leicester;Leicester;https://en.wikipedia.org/wiki/Leicester;"unitary authority"
+GB;LUT;ENG;Luton;Luton;https://en.wikipedia.org/wiki/Luton;"unitary authority"
+GB;MDW;ENG;Medway;Medway;https://en.wikipedia.org/wiki/Medway;"unitary authority"
+GB;MDB;ENG;"Middlesbrough (borough)";Middlesbrough;https://en.wikipedia.org/wiki/Middlesbrough_(borough);"unitary authority"
+GB;MIK;ENG;"Milton Keynes (borough)";"Milton Keynes";https://en.wikipedia.org/wiki/Milton_Keynes_(borough);"unitary authority"
+GB;NEL;ENG;"North East Lincolnshire";"North East Lincolnshire";https://en.wikipedia.org/wiki/North_East_Lincolnshire;"unitary authority"
+GB;NLN;ENG;"North Lincolnshire";"North Lincolnshire";https://en.wikipedia.org/wiki/North_Lincolnshire;"unitary authority"
+GB;NSM;ENG;"North Somerset";"North Somerset";https://en.wikipedia.org/wiki/North_Somerset;"unitary authority"
+GB;NBL;ENG;Northumberland;Northumberland;https://en.wikipedia.org/wiki/Northumberland;"unitary authority"
+GB;NGM;ENG;Nottingham;Nottingham;https://en.wikipedia.org/wiki/Nottingham;"unitary authority"
+GB;PTE;ENG;Peterborough;Peterborough;https://en.wikipedia.org/wiki/Peterborough;"unitary authority"
+GB;PLY;ENG;Plymouth;Plymouth;https://en.wikipedia.org/wiki/Plymouth;"unitary authority"
+GB;POL;ENG;Poole;Poole;https://en.wikipedia.org/wiki/Poole;"unitary authority"
+GB;POR;ENG;Portsmouth;Portsmouth;https://en.wikipedia.org/wiki/Portsmouth;"unitary authority"
+GB;RDG;ENG;"Reading (borough)";Reading;https://en.wikipedia.org/wiki/Reading_(borough);"unitary authority"
+GB;RCC;ENG;"Redcar and Cleveland";"Redcar and Cleveland";https://en.wikipedia.org/wiki/Redcar_and_Cleveland;"unitary authority"
+GB;RUT;ENG;Rutland;Rutland;https://en.wikipedia.org/wiki/Rutland;"unitary authority"
+GB;SHR;ENG;Shropshire;Shropshire;https://en.wikipedia.org/wiki/Shropshire;"unitary authority"
+GB;SLG;ENG;Slough;Slough;https://en.wikipedia.org/wiki/Slough;"unitary authority"
+GB;SGC;ENG;"South Gloucestershire";"South Gloucestershire";https://en.wikipedia.org/wiki/South_Gloucestershire;"unitary authority"
+GB;STH;ENG;Southampton;Southampton;https://en.wikipedia.org/wiki/Southampton;"unitary authority"
+GB;SOS;ENG;Southend-on-Sea;Southend-on-Sea;https://en.wikipedia.org/wiki/Southend-on-Sea;"unitary authority"
+GB;STT;ENG;"Stockton-on-Tees (borough)";Stockton-on-Tees;https://en.wikipedia.org/wiki/Stockton-on-Tees_(borough);"unitary authority"
+GB;STE;ENG;Stoke-on-Trent;Stoke-on-Trent;https://en.wikipedia.org/wiki/Stoke-on-Trent;"unitary authority"
+GB;SWD;ENG;"Swindon (borough)";Swindon;https://en.wikipedia.org/wiki/Swindon_(borough);"unitary authority"
+GB;TFW;ENG;"Telford and Wrekin";"Telford and Wrekin";https://en.wikipedia.org/wiki/Telford_and_Wrekin;"unitary authority"
+GB;THR;ENG;Thurrock;Thurrock;https://en.wikipedia.org/wiki/Thurrock;"unitary authority"
+GB;TOB;ENG;Torbay;Torbay;https://en.wikipedia.org/wiki/Torbay;"unitary authority"
+GB;WRT;ENG;Warrington;Warrington;https://en.wikipedia.org/wiki/Warrington;"unitary authority"
+GB;WBK;ENG;"West Berkshire";"West Berkshire";https://en.wikipedia.org/wiki/West_Berkshire;"unitary authority"
+GB;WIL;ENG;Wiltshire;Wiltshire;https://en.wikipedia.org/wiki/Wiltshire;"unitary authority"
+GB;WNM;ENG;"Windsor and Maidenhead";"Windsor and Maidenhead";https://en.wikipedia.org/wiki/Windsor_and_Maidenhead;"unitary authority"
+GB;WOK;ENG;"Wokingham (borough)";Wokingham;https://en.wikipedia.org/wiki/Wokingham_(borough);"unitary authority"
+GB;YOR;ENG;York;York;https://en.wikipedia.org/wiki/York;"unitary authority"
+GB;ANN;NIR;"Antrim and Newtownabbey";"Antrim and Newtownabbey";https://en.wikipedia.org/wiki/Antrim_and_Newtownabbey;district
+GB;AND;NIR;"Ards and North Down";"Ards and North Down";https://en.wikipedia.org/wiki/Ards_and_North_Down;district
+GB;ABC;NIR;"Armagh, Banbridge and Craigavon";"Armagh, Banbridge and Craigavon";https://en.wikipedia.org/wiki/Armagh,_Banbridge_and_Craigavon;district
+GB;BFS;NIR;Belfast;Belfast;https://en.wikipedia.org/wiki/Belfast;district
+GB;CCG;NIR;"Causeway Coast and Glens";"Causeway Coast and Glens";https://en.wikipedia.org/wiki/Causeway_Coast_and_Glens;district
+GB;DRS;NIR;"Derry and Strabane";"Derry and Strabane";https://en.wikipedia.org/wiki/Derry_and_Strabane;district
+GB;FMO;NIR;"Fermanagh and Omagh";"Fermanagh and Omagh";https://en.wikipedia.org/wiki/Fermanagh_and_Omagh;district
+GB;LBC;NIR;"Lisburn and Castlereagh";"Lisburn and Castlereagh";https://en.wikipedia.org/wiki/Lisburn_and_Castlereagh;district
+GB;MEA;NIR;"Mid and East Antrim";"Mid and East Antrim";https://en.wikipedia.org/wiki/Mid_and_East_Antrim;district
+GB;MUL;NIR;"Mid-Ulster District";"Mid Ulster";https://en.wikipedia.org/wiki/Mid-Ulster_District;district
+GB;NMD;NIR;"Newry, Mourne and Down";"Newry, Mourne and Down";https://en.wikipedia.org/wiki/Newry,_Mourne_and_Down;district
+GB;ABE;SCT;"Aberdeen City";"Aberdeen City";https://en.wikipedia.org/wiki/Aberdeen_City;"council area"
+GB;ABD;SCT;Aberdeenshire;Aberdeenshire;https://en.wikipedia.org/wiki/Aberdeenshire;"council area"
+GB;ANS;SCT;Angus;Angus;https://en.wikipedia.org/wiki/Angus;"council area"
+GB;AGB;SCT;"Argyll and Bute";"Argyll and Bute";https://en.wikipedia.org/wiki/Argyll_and_Bute;"council area"
+GB;CLK;SCT;Clackmannanshire;Clackmannanshire;https://en.wikipedia.org/wiki/Clackmannanshire;"council area"
+GB;DGY;SCT;"Dumfries and Galloway";"Dumfries and Galloway";https://en.wikipedia.org/wiki/Dumfries_and_Galloway;"council area"
+GB;DND;SCT;"Dundee City";"Dundee City";https://en.wikipedia.org/wiki/Dundee_City;"council area"
+GB;EAY;SCT;"East Ayrshire";"East Ayrshire";https://en.wikipedia.org/wiki/East_Ayrshire;"council area"
+GB;EDU;SCT;"East Dunbartonshire";"East Dunbartonshire";https://en.wikipedia.org/wiki/East_Dunbartonshire;"council area"
+GB;ELN;SCT;"East Lothian";"East Lothian";https://en.wikipedia.org/wiki/East_Lothian;"council area"
+GB;ERW;SCT;"East Renfrewshire";"East Renfrewshire";https://en.wikipedia.org/wiki/East_Renfrewshire;"council area"
+GB;EDH;SCT;"City of Edinburgh";"Edinburgh, City of";https://en.wikipedia.org/wiki/City_of_Edinburgh;"council area"
+GB;ELS;SCT;"Eilean Siar";"Eilean Siar";https://en.wikipedia.org/wiki/Eilean_Siar;"council area"
+GB;FAL;SCT;"Falkirk (council area)";Falkirk;https://en.wikipedia.org/wiki/Falkirk_(council_area);"council area"
+GB;FIF;SCT;Fife;Fife;https://en.wikipedia.org/wiki/Fife;"council area"
+GB;GLG;SCT;"Glasgow City";"Glasgow City";https://en.wikipedia.org/wiki/Glasgow_City;"council area"
+GB;HLD;SCT;"Highland (council area)";Highland;https://en.wikipedia.org/wiki/Highland_(council_area);"council area"
+GB;IVC;SCT;Inverclyde;Inverclyde;https://en.wikipedia.org/wiki/Inverclyde;"council area"
+GB;MLN;SCT;Midlothian;Midlothian;https://en.wikipedia.org/wiki/Midlothian;"council area"
+GB;MRY;SCT;Moray;Moray;https://en.wikipedia.org/wiki/Moray;"council area"
+GB;NAY;SCT;"North Ayrshire";"North Ayrshire";https://en.wikipedia.org/wiki/North_Ayrshire;"council area"
+GB;NLK;SCT;"North Lanarkshire";"North Lanarkshire";https://en.wikipedia.org/wiki/North_Lanarkshire;"council area"
+GB;ORK;SCT;"Orkney Islands";"Orkney Islands";https://en.wikipedia.org/wiki/Orkney_Islands;"council area"
+GB;PKN;SCT;"Perth and Kinross";"Perth and Kinross";https://en.wikipedia.org/wiki/Perth_and_Kinross;"council area"
+GB;RFW;SCT;Renfrewshire;Renfrewshire;https://en.wikipedia.org/wiki/Renfrewshire;"council area"
+GB;SCB;SCT;"The Scottish Borders";"Scottish Borders, The";https://en.wikipedia.org/wiki/The_Scottish_Borders;"council area"
+GB;ZET;SCT;"Shetland Islands";"Shetland Islands";https://en.wikipedia.org/wiki/Shetland_Islands;"council area"
+GB;SAY;SCT;"South Ayrshire";"South Ayrshire";https://en.wikipedia.org/wiki/South_Ayrshire;"council area"
+GB;SLK;SCT;"South Lanarkshire";"South Lanarkshire";https://en.wikipedia.org/wiki/South_Lanarkshire;"council area"
+GB;STG;SCT;"Stirling (council area)";Stirling;https://en.wikipedia.org/wiki/Stirling_(council_area);"council area"
+GB;WDU;SCT;"West Dunbartonshire";"West Dunbartonshire";https://en.wikipedia.org/wiki/West_Dunbartonshire;"council area"
+GB;WLN;SCT;"West Lothian";"West Lothian";https://en.wikipedia.org/wiki/West_Lothian;"council area"
+GB;BGW;WLS;"Blaenau Gwent";"Blaenau Gwent";https://en.wikipedia.org/wiki/Blaenau_Gwent;"unitary authority"
+GB;BGE;WLS;"Bridgend (county borough)";Bridgend;https://en.wikipedia.org/wiki/Bridgend_(county_borough);"unitary authority"
+GB;CAY;WLS;"Caerphilly (county borough)";Caerphilly;https://en.wikipedia.org/wiki/Caerphilly_(county_borough);"unitary authority"
+GB;CRF;WLS;Cardiff;Cardiff;https://en.wikipedia.org/wiki/Cardiff;"unitary authority"
+GB;CMN;WLS;Carmarthenshire;Carmarthenshire;https://en.wikipedia.org/wiki/Carmarthenshire;"unitary authority"
+GB;CGN;WLS;Ceredigion;Ceredigion;https://en.wikipedia.org/wiki/Ceredigion;"unitary authority"
+GB;CWY;WLS;"Conwy (county borough)";Conwy;https://en.wikipedia.org/wiki/Conwy_(county_borough);"unitary authority"
+GB;DEN;WLS;Denbighshire;Denbighshire;https://en.wikipedia.org/wiki/Denbighshire;"unitary authority"
+GB;FLN;WLS;Flintshire;Flintshire;https://en.wikipedia.org/wiki/Flintshire;"unitary authority"
+GB;GWN;WLS;Gwynedd;Gwynedd;https://en.wikipedia.org/wiki/Gwynedd;"unitary authority"
+GB;AGY;WLS;"Isle of Anglesey";"Isle of Anglesey";https://en.wikipedia.org/wiki/Isle_of_Anglesey;"unitary authority"
+GB;MTY;WLS;"Merthyr Tydfil";"Merthyr Tydfil";https://en.wikipedia.org/wiki/Merthyr_Tydfil;"unitary authority"
+GB;MON;WLS;Monmouthshire;Monmouthshire;https://en.wikipedia.org/wiki/Monmouthshire;"unitary authority"
+GB;NTL;WLS;"Neath Port Talbot";"Neath Port Talbot";https://en.wikipedia.org/wiki/Neath_Port_Talbot;"unitary authority"
+GB;NWP;WLS;"Newport, Wales";Newport;https://en.wikipedia.org/wiki/Newport,_Wales;"unitary authority"
+GB;PEM;WLS;Pembrokeshire;Pembrokeshire;https://en.wikipedia.org/wiki/Pembrokeshire;"unitary authority"
+GB;POW;WLS;Powys;Powys;https://en.wikipedia.org/wiki/Powys;"unitary authority"
+GB;RCT;WLS;"Rhondda, Cynon, Taff";"Rhondda, Cynon, Taff";https://en.wikipedia.org/wiki/Rhondda,_Cynon,_Taff;"unitary authority"
+GB;SWA;WLS;Swansea;Swansea;https://en.wikipedia.org/wiki/Swansea;"unitary authority"
+GB;TOF;WLS;Torfaen;Torfaen;https://en.wikipedia.org/wiki/Torfaen;"unitary authority"
+GB;VGL;WLS;"The Vale of Glamorgan";"Vale of Glamorgan, The";https://en.wikipedia.org/wiki/The_Vale_of_Glamorgan;"unitary authority"
+GB;WRX;WLS;"Wrexham (county borough)";Wrexham;https://en.wikipedia.org/wiki/Wrexham_(county_borough);"unitary authority"
+GE;BUS;AJ;Bat'umi;Bat'umi;https://en.wikipedia.org/wiki/Bat%27umi;city
+GE;CHI;—;"Chiat'ura (district)";Chiat'ura;https://en.wikipedia.org/wiki/Chiat%27ura_(district);"city territory (now municipality)"
+GE;GAG;AB;"Gagra (district)";Gagra;https://en.wikipedia.org/wiki/Gagra_(district);"city territory (now municipality)"
+GE;GOR;—;"Gori (Georgia)";Gori;https://en.wikipedia.org/wiki/Gori_(Georgia);city
+GE;KUT;—;Kutaisi;Kutaisi;https://en.wikipedia.org/wiki/Kutaisi;city
+GE;PTI;—;Poti;Poti;https://en.wikipedia.org/wiki/Poti;city
+GE;RUS;—;Rustavi;Rustavi;https://en.wikipedia.org/wiki/Rustavi;city
+GE;SUI;AB;Sokhumi;Sokhumi;https://en.wikipedia.org/wiki/Sokhumi;"city (now part of Sokhumi Municipality)"
+GE;TBS;—;T'bilisi;T'bilisi;https://en.wikipedia.org/wiki/T%27bilisi;city
+GE;TQI;—;"Tqibuli (district)";Tqibuli;https://en.wikipedia.org/wiki/Tqibuli_(district);"city territory (now municipality)"
+GE;TQV;AB;Tqvarch'eli;Tqvarch'eli;https://en.wikipedia.org/wiki/Tqvarch%27eli;city
+GE;TSQ;—;"Tsqaltubo district";Tsqaltubo;https://en.wikipedia.org/wiki/Tsqaltubo_district;"city territory (now municipality)"
+GE;ZUG;—;Zugdidi;Zugdidi;https://en.wikipedia.org/wiki/Zugdidi;"city city (now part of Zugdidi Municipality)"
+GE;01;—;"Abashis Raioni";"Abashis Raioni";https://en.wikipedia.org/wiki/Abashis_Raioni;"rayon (now municipality)"
+GE;02;—;"Adigenis Raioni";"Adigenis Raioni";https://en.wikipedia.org/wiki/Adigenis_Raioni;"rayon (now municipality)"
+GE;03;—;"Akhalgoris Raioni";"Akhalgoris Raioni";https://en.wikipedia.org/wiki/Akhalgoris_Raioni;"rayon (now municipality)"
+GE;04;—;"Akhalk'alak'is Raioni";"Akhalk'alak'is Raioni";https://en.wikipedia.org/wiki/Akhalk%27alak%27is_Raioni;"rayon (now municipality)"
+GE;05;—;"Akhalts'ikhis Raioni";"Akhalts'ikhis Raioni";https://en.wikipedia.org/wiki/Akhalts%27ikhis_Raioni;"rayon (now municipality)"
+GE;06;—;"Akhmetis Raioni";"Akhmetis Raioni";https://en.wikipedia.org/wiki/Akhmetis_Raioni;"rayon (now municipality)"
+GE;07;—;"Ambrolauris Raioni";"Ambrolauris Raioni";https://en.wikipedia.org/wiki/Ambrolauris_Raioni;"rayon (now municipality)"
+GE;08;—;"Aspindzis Raioni";"Aspindzis Raioni";https://en.wikipedia.org/wiki/Aspindzis_Raioni;"rayon (now municipality)"
+GE;09;—;"Baghdat'is Raioni";"Baghdat'is Raioni";https://en.wikipedia.org/wiki/Baghdat%27is_Raioni;"rayon (now municipality)"
+GE;10;—;"Bolnisis Raioni";"Bolnisis Raioni";https://en.wikipedia.org/wiki/Bolnisis_Raioni;"rayon (now municipality)"
+GE;11;—;"Borjomis Raioni";"Borjomis Raioni";https://en.wikipedia.org/wiki/Borjomis_Raioni;"rayon (now municipality)"
+GE;12;—;"Ch'khorotsqus Raioni";"Ch'khorotsqus Raioni";https://en.wikipedia.org/wiki/Ch%27khorotsqus_Raioni;"rayon (now municipality)"
+GE;13;—;"Ch'okhatauris Raioni";"Ch'okhatauris Raioni";https://en.wikipedia.org/wiki/Ch%27okhatauris_Raioni;rayon
+GE;14;—;"Dedop'listsqaros Raioni";"Dedop'listsqaros Raioni";https://en.wikipedia.org/wiki/Dedop%27listsqaros_Raioni;"rayon (now municipality)"
+GE;15;—;"Dmanisis Raioni";"Dmanisis Raioni";https://en.wikipedia.org/wiki/Dmanisis_Raioni;"rayon (now municipality)"
+GE;16;—;"Dushet'is Raioni";"Dushet'is Raioni";https://en.wikipedia.org/wiki/Dushet%27is_Raioni;"rayon (now municipality)"
+GE;17;AB;"Galis Raioni";"Galis Raioni";https://en.wikipedia.org/wiki/Galis_Raioni;"rayon (now municipality)"
+GE;18;—;"Gardabnis Raioni";"Gardabnis Raioni";https://en.wikipedia.org/wiki/Gardabnis_Raioni;"rayon (now municipality)"
+GE;19;—;"Goris Raioni";"Goris Raioni";https://en.wikipedia.org/wiki/Goris_Raioni;"rayon (now municipality)"
+GE;20;AB;"Gudaut'is Raioni";"Gudaut'is Raioni";https://en.wikipedia.org/wiki/Gudaut%27is_Raioni;rayon
+GE;21;AB;"Gulrip'shis Raioni";"Gulrip'shis Raioni";https://en.wikipedia.org/wiki/Gulrip%27shis_Raioni;rayon
+GE;22;—;"Gurjaanis Raioni";"Gurjaanis Raioni";https://en.wikipedia.org/wiki/Gurjaanis_Raioni;rayon
+GE;23;—;"Javis Raioni";"Javis Raioni";https://en.wikipedia.org/wiki/Javis_Raioni;rayon
+GE;24;—;"K'arelis Raioni";"K'arelis Raioni";https://en.wikipedia.org/wiki/K%27arelis_Raioni;rayon
+GE;25;—;"Kaspis Raioni";"Kaspis Raioni";https://en.wikipedia.org/wiki/Kaspis_Raioni;rayon
+GE;26;AJ;"K'edis Raioni";"K'edis Raioni";https://en.wikipedia.org/wiki/K%27edis_Raioni;rayon
+GE;27;—;"Kharagaulis Raioni";"Kharagaulis Raioni";https://en.wikipedia.org/wiki/Kharagaulis_Raioni;rayon
+GE;28;—;"Khashuris Raioni";"Khashuris Raioni";https://en.wikipedia.org/wiki/Khashuris_Raioni;rayon
+GE;29;AJ;"Khelvach'auris Raioni";"Khelvach'auris Raioni";https://en.wikipedia.org/wiki/Khelvach%27auris_Raioni;rayon
+GE;30;—;"Khobis Raioni";"Khobis Raioni";https://en.wikipedia.org/wiki/Khobis_Raioni;rayon
+GE;31;—;"Khonis Raioni";"Khonis Raioni";https://en.wikipedia.org/wiki/Khonis_Raioni;rayon
+GE;32;AJ;"Khulos Raioni";"Khulos Raioni";https://en.wikipedia.org/wiki/Khulos_Raioni;rayon
+GE;33;AJ;"K'obuletis Raioni";"K'obuletis Raioni";https://en.wikipedia.org/wiki/K%27obuletis_Raioni;rayon
+GE;34;—;"Lagodekhis Raioni";"Lagodekhis Raioni";https://en.wikipedia.org/wiki/Lagodekhis_Raioni;rayon
+GE;35;—;"Lanch'khut'is Raioni";"Lanch'khut'is Raioni";https://en.wikipedia.org/wiki/Lanch%27khut%27is_Raioni;rayon
+GE;36;—;"Lentekhis Raioni";"Lentekhis Raioni";https://en.wikipedia.org/wiki/Lentekhis_Raioni;rayon
+GE;37;—;"Marneulis Raioni";"Marneulis Raioni";https://en.wikipedia.org/wiki/Marneulis_Raioni;rayon
+GE;38;—;"Martvilis Raioni";"Martvilis Raioni";https://en.wikipedia.org/wiki/Martvilis_Raioni;rayon
+GE;39;—;"Mestiis Raioni";"Mestiis Raioni";https://en.wikipedia.org/wiki/Mestiis_Raioni;rayon
+GE;40;—;"Mts'khet'is Raioni";"Mts'khet'is Raioni";https://en.wikipedia.org/wiki/Mts%27khet%27is_Raioni;rayon
+GE;41;—;"Ninotsmindis Raioni";"Ninotsmindis Raioni";https://en.wikipedia.org/wiki/Ninotsmindis_Raioni;rayon
+GE;42;AB;"Och'amch'iris Raioni";"Och'amch'iris Raioni";https://en.wikipedia.org/wiki/Och%27amch%27iris_Raioni;rayon
+GE;43;—;"Onis Raioni";"Onis Raioni";https://en.wikipedia.org/wiki/Onis_Raioni;rayon
+GE;44;—;"Ozurget'is Raioni";"Ozurget'is Raioni";https://en.wikipedia.org/wiki/Ozurget%27is_Raioni;rayon
+GE;45;—;"Qazbegis Raioni";"Qazbegis Raioni";https://en.wikipedia.org/wiki/Qazbegis_Raioni;rayon
+GE;46;—;"Qvarlis Raioni";"Qvarlis Raioni";https://en.wikipedia.org/wiki/Qvarlis_Raioni;rayon
+GE;47;—;"Sach'kheris Raioni";"Sach'kheris Raioni";https://en.wikipedia.org/wiki/Sach%27kheris_Raioni;rayon
+GE;48;—;"Sagarejos Raioni";"Sagarejos Raioni";https://en.wikipedia.org/wiki/Sagarejos_Raioni;rayon
+GE;49;—;"Samtrediis Raioni";"Samtrediis Raioni";https://en.wikipedia.org/wiki/Samtrediis_Raioni;rayon
+GE;50;—;"Senakis Raioni";"Senakis Raioni";https://en.wikipedia.org/wiki/Senakis_Raioni;rayon
+GE;51;AJ;"Shuakhevis Raioni";"Shuakhevis Raioni";https://en.wikipedia.org/wiki/Shuakhevis_Raioni;rayon
+GE;52;—;"Sighnaghis Raioni";"Sighnaghis Raioni";https://en.wikipedia.org/wiki/Sighnaghis_Raioni;rayon
+GE;53;AB;"Sokhumis Raioni";"Sokhumis Raioni";https://en.wikipedia.org/wiki/Sokhumis_Raioni;rayon
+GE;54;—;"T'elavis Raioni";"T'elavis Raioni";https://en.wikipedia.org/wiki/T%27elavis_Raioni;rayon
+GE;55;—;"T'erjolis Raioni";"T'erjolis Raioni";https://en.wikipedia.org/wiki/T%27erjolis_Raioni;rayon
+GE;56;—;"T'et'ritsqaros Raioni";"T'et'ritsqaros Raioni";https://en.wikipedia.org/wiki/T%27et%27ritsqaros_Raioni;rayon
+GE;57;—;"T'ianet'is Raioni";"T'ianet'is Raioni";https://en.wikipedia.org/wiki/T%27ianet%27is_Raioni;rayon
+GE;58;—;"Ts'ageris Raioni";"Ts'ageris Raioni";https://en.wikipedia.org/wiki/Ts%27ageris_Raioni;rayon
+GE;59;—;"Tsalenjikhis Raioni";"Tsalenjikhis Raioni";https://en.wikipedia.org/wiki/Tsalenjikhis_Raioni;rayon
+GE;60;—;"Tsalkis Raioni";"Tsalkis Raioni";https://en.wikipedia.org/wiki/Tsalkis_Raioni;rayon
+GE;61;—;"Vanis Raioni";"Vanis Raioni";https://en.wikipedia.org/wiki/Vanis_Raioni;rayon
+GE;62;—;"Zestap'onis Raioni";"Zestap'onis Raioni";https://en.wikipedia.org/wiki/Zestap%27onis_Raioni;rayon
+GE;63;—;"Zugdidis Raioni";"Zugdidis Raioni";https://en.wikipedia.org/wiki/Zugdidis_Raioni;rayon
+GN;BE;N;"Beyla Prefecture";Beyla;https://en.wikipedia.org/wiki/Beyla_Prefecture;
+GN;BF;B;"Boffa Prefecture";Boffa;https://en.wikipedia.org/wiki/Boffa_Prefecture;
+GN;BK;B;"Boké Prefecture";Boké;https://en.wikipedia.org/wiki/Bok%C3%A9_Prefecture;
+GN;CO;D;"Coyah Prefecture";Coyah;https://en.wikipedia.org/wiki/Coyah_Prefecture;
+GN;DB;F;"Dabola Prefecture";Dabola;https://en.wikipedia.org/wiki/Dabola_Prefecture;
+GN;DL;M;"Dalaba Prefecture";Dalaba;https://en.wikipedia.org/wiki/Dalaba_Prefecture;
+GN;DI;F;"Dinguiraye Prefecture";Dinguiraye;https://en.wikipedia.org/wiki/Dinguiraye_Prefecture;
+GN;DU;D;"Dubréka Prefecture";Dubréka;https://en.wikipedia.org/wiki/Dubr%C3%A9ka_Prefecture;
+GN;FA;F;"Faranah Prefecture";Faranah;https://en.wikipedia.org/wiki/Faranah_Prefecture;
+GN;FO;D;"Forécariah Prefecture";Forécariah;https://en.wikipedia.org/wiki/For%C3%A9cariah_Prefecture;
+GN;FR;B;"Fria Prefecture";Fria;https://en.wikipedia.org/wiki/Fria_Prefecture;
+GN;GA;B;"Gaoual Prefecture";Gaoual;https://en.wikipedia.org/wiki/Gaoual_Prefecture;
+GN;GU;N;"Guékédou Prefecture";Guékédou;https://en.wikipedia.org/wiki/Gu%C3%A9k%C3%A9dou_Prefecture;
+GN;KA;K;"Kankan Prefecture";Kankan;https://en.wikipedia.org/wiki/Kankan_Prefecture;
+GN;KE;K;"Kérouané Prefecture";Kérouané;https://en.wikipedia.org/wiki/K%C3%A9rouan%C3%A9_Prefecture;
+GN;KD;D;"Kindia Prefecture";Kindia;https://en.wikipedia.org/wiki/Kindia_Prefecture;
+GN;KS;F;"Kissidougou Prefecture";Kissidougou;https://en.wikipedia.org/wiki/Kissidougou_Prefecture;
+GN;KB;L;"Koubia Prefecture";Koubia;https://en.wikipedia.org/wiki/Koubia_Prefecture;
+GN;KN;B;"Koundara Prefecture";Koundara;https://en.wikipedia.org/wiki/Koundara_Prefecture;
+GN;KO;K;"Kouroussa Prefecture";Kouroussa;https://en.wikipedia.org/wiki/Kouroussa_Prefecture;
+GN;LA;L;"Labé Prefecture";Labé;https://en.wikipedia.org/wiki/Lab%C3%A9_Prefecture;
+GN;LE;L;"Lélouma Prefecture";Lélouma;https://en.wikipedia.org/wiki/L%C3%A9louma_Prefecture;
+GN;LO;N;"Lola Prefecture";Lola;https://en.wikipedia.org/wiki/Lola_Prefecture;
+GN;MC;N;"Macenta Prefecture";Macenta;https://en.wikipedia.org/wiki/Macenta_Prefecture;
+GN;ML;L;"Mali Prefecture";Mali;https://en.wikipedia.org/wiki/Mali_Prefecture;
+GN;MM;M;"Mamou Prefecture";Mamou;https://en.wikipedia.org/wiki/Mamou_Prefecture;
+GN;MD;K;"Mandiana Prefecture";Mandiana;https://en.wikipedia.org/wiki/Mandiana_Prefecture;
+GN;NZ;N;"Nzérékoré Prefecture";Nzérékoré;https://en.wikipedia.org/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_Prefecture;
+GN;PI;M;"Pita Prefecture";Pita;https://en.wikipedia.org/wiki/Pita_Prefecture;
+GN;SI;K;"Siguiri Prefecture";Siguiri;https://en.wikipedia.org/wiki/Siguiri_Prefecture;
+GN;TE;D;"Télimélé Prefecture";Télimélé;https://en.wikipedia.org/wiki/T%C3%A9lim%C3%A9l%C3%A9_Prefecture;
+GN;TO;L;"Tougué Prefecture";Tougué;https://en.wikipedia.org/wiki/Tougu%C3%A9_Prefecture;
+GN;YO;N;"Yomou Prefecture";Yomou;https://en.wikipedia.org/wiki/Yomou_Prefecture;
+GQ;AN;I;"Annobón Province";Annobón;https://en.wikipedia.org/wiki/Annob%C3%B3n_Province;"7 provinces"
+GQ;BN;I;"Bioko Norte Province";"Bioko Norte";https://en.wikipedia.org/wiki/Bioko_Norte_Province;"7 provinces"
+GQ;BS;I;"Bioko Sur Province";"Bioko Sur";https://en.wikipedia.org/wiki/Bioko_Sur_Province;"7 provinces"
+GQ;CS;C;"Centro Sur Province";"Centro Sur";https://en.wikipedia.org/wiki/Centro_Sur_Province;"7 provinces"
+GQ;KN;C;"Kie-Ntem Province";Kié-Ntem;https://en.wikipedia.org/wiki/Kie-Ntem_Province;"7 provinces"
+GQ;LI;C;"Litoral Province (Equatorial Guinea)";Litoral;https://en.wikipedia.org/wiki/Litoral_Province_(Equatorial_Guinea);"7 provinces"
+GQ;WN;C;"Wele-Nzas Province";Wele-Nzas;https://en.wikipedia.org/wiki/Wele-Nzas_Province;"7 provinces"
+GR;13;G;"Achaïa Prefecture";Achaḯa;https://en.wikipedia.org/wiki/Acha%C3%AFa_Prefecture;department
+GR;01;G;"Aitolia kai Akarnania Prefecture";Aitoloakarnanía;https://en.wikipedia.org/wiki/Aitolia_kai_Akarnania_Prefecture;department
+GR;11;J;"Argolida Prefecture";Argolída;https://en.wikipedia.org/wiki/Argolida_Prefecture;department
+GR;12;J;"Arkadia Prefecture";Arkadía;https://en.wikipedia.org/wiki/Arkadia_Prefecture;department
+GR;31;D;"Arta Prefecture";Árta;https://en.wikipedia.org/wiki/Arta_Prefecture;department
+GR;A1;I;"Attiki Prefecture";Attikí;https://en.wikipedia.org/wiki/Attiki_Prefecture;department
+GR;64;B;"Chalkidiki Prefecture";Chalkidikí;https://en.wikipedia.org/wiki/Chalkidiki_Prefecture;department
+GR;94;M;"Chania Prefecture";Chaniá;https://en.wikipedia.org/wiki/Chania_Prefecture;department
+GR;85;K;"Chios Prefecture";Chíos;https://en.wikipedia.org/wiki/Chios_Prefecture;department
+GR;81;L;"Dodekanisos Prefecture";Dodekánisa;https://en.wikipedia.org/wiki/Dodekanisos_Prefecture;department
+GR;52;A;"Drama Prefecture";Dráma;https://en.wikipedia.org/wiki/Drama_Prefecture;department
+GR;71;A;"Evros Prefecture";Évros;https://en.wikipedia.org/wiki/Evros_Prefecture;department
+GR;05;H;"Evrytania Prefecture";Evrytanía;https://en.wikipedia.org/wiki/Evrytania_Prefecture;department
+GR;04;H;"Evvoia Prefecture";Évvoia;https://en.wikipedia.org/wiki/Evvoia_Prefecture;department
+GR;63;C;"Florina Prefecture";Flórina;https://en.wikipedia.org/wiki/Florina_Prefecture;department
+GR;07;H;"Fokida Prefecture";Fokída;https://en.wikipedia.org/wiki/Fokida_Prefecture;department
+GR;06;H;"Fthiotida Prefecture";Fthiótida;https://en.wikipedia.org/wiki/Fthiotida_Prefecture;department
+GR;51;C;"Grevena Prefecture";Grevená;https://en.wikipedia.org/wiki/Grevena_Prefecture;department
+GR;14;G;"Ileia Prefecture";Ileía;https://en.wikipedia.org/wiki/Ileia_Prefecture;department
+GR;53;B;"Imathia Prefecture";Imathía;https://en.wikipedia.org/wiki/Imathia_Prefecture;department
+GR;33;D;"Ioannina Prefecture";Ioánnina;https://en.wikipedia.org/wiki/Ioannina_Prefecture;department
+GR;91;M;"Irakleio Prefecture";Irakleío;https://en.wikipedia.org/wiki/Irakleio_Prefecture;department
+GR;41;E;"Karditsa Prefecture";Kardítsa;https://en.wikipedia.org/wiki/Karditsa_Prefecture;department
+GR;56;C;"Kastoria Prefecture";Kastoriá;https://en.wikipedia.org/wiki/Kastoria_Prefecture;department
+GR;55;A;"Kavala Prefecture";Kavála;https://en.wikipedia.org/wiki/Kavala_Prefecture;department
+GR;23;F;"Kefallonia Prefecture";Kefallinía;https://en.wikipedia.org/wiki/Kefallonia_Prefecture;department
+GR;22;F;"Kerkyra Prefecture";Kérkyra;https://en.wikipedia.org/wiki/Kerkyra_Prefecture;department
+GR;57;B;"Kilkis Prefecture";Kilkís;https://en.wikipedia.org/wiki/Kilkis_Prefecture;department
+GR;15;J;"Korinthia Prefecture";Korinthía;https://en.wikipedia.org/wiki/Korinthia_Prefecture;department
+GR;58;C;"Kozani Prefecture";Kozáni;https://en.wikipedia.org/wiki/Kozani_Prefecture;department
+GR;82;L;"Kyklades Prefecture";Kykládes;https://en.wikipedia.org/wiki/Kyklades_Prefecture;department
+GR;16;J;"Lakonia Prefecture";Lakonía;https://en.wikipedia.org/wiki/Lakonia_Prefecture;department
+GR;42;E;"Larisa Prefecture";Lárisa;https://en.wikipedia.org/wiki/Larisa_Prefecture;department
+GR;92;M;"Lasithi Prefecture";Lasíthi;https://en.wikipedia.org/wiki/Lasithi_Prefecture;department
+GR;24;F;"Lefkada Prefecture";Lefkáda;https://en.wikipedia.org/wiki/Lefkada_Prefecture;department
+GR;83;K;"Lesvos Prefecture";Lésvos;https://en.wikipedia.org/wiki/Lesvos_Prefecture;department
+GR;43;E;"Magnisia Prefecture";Magnisía;https://en.wikipedia.org/wiki/Magnisia_Prefecture;department
+GR;17;J;"Messinia Prefecture";Messinía;https://en.wikipedia.org/wiki/Messinia_Prefecture;department
+GR;59;B;"Pella Prefecture";Pélla;https://en.wikipedia.org/wiki/Pella_Prefecture;department
+GR;61;B;"Pieria Prefecture";Piería;https://en.wikipedia.org/wiki/Pieria_Prefecture;department
+GR;34;D;"Preveza Prefecture";Préveza;https://en.wikipedia.org/wiki/Preveza_Prefecture;department
+GR;93;M;"Rethymno Prefecture";Rethýmnis;https://en.wikipedia.org/wiki/Rethymno_Prefecture;department
+GR;73;A;"Rodopi Prefecture";Rodópi;https://en.wikipedia.org/wiki/Rodopi_Prefecture;department
+GR;84;K;"Samos Prefecture";Sámos;https://en.wikipedia.org/wiki/Samos_Prefecture;department
+GR;62;B;"Serres Prefecture";Sérres;https://en.wikipedia.org/wiki/Serres_Prefecture;department
+GR;32;D;"Thesprotia Prefecture";Thesprotía;https://en.wikipedia.org/wiki/Thesprotia_Prefecture;department
+GR;54;B;"Thessaloniki Prefecture";Thessaloníki;https://en.wikipedia.org/wiki/Thessaloniki_Prefecture;department
+GR;44;E;"Trikala Prefecture";Tríkala;https://en.wikipedia.org/wiki/Trikala_Prefecture;department
+GR;03;H;"Voiotia Prefecture";Voiotía;https://en.wikipedia.org/wiki/Voiotia_Prefecture;department
+GR;72;A;"Xanthi Prefecture";Xánthi;https://en.wikipedia.org/wiki/Xanthi_Prefecture;department
+GR;21;F;"Zakynthos Prefecture";Zákynthos;https://en.wikipedia.org/wiki/Zakynthos_Prefecture;department
+GR;69;—;"Agio Oros";"Ágion Óros";https://en.wikipedia.org/wiki/Agio_Oros;"self-governed part"
+GW;BS;—;Bissau;Bissau;https://en.wikipedia.org/wiki/Bissau;"autonomous sector"
+GW;BA;L;"Bafatá Region";Bafatá;https://en.wikipedia.org/wiki/Bafat%C3%A1_Region;region
+GW;BM;N;"Biombo Region";Biombo;https://en.wikipedia.org/wiki/Biombo_Region;region
+GW;BL;S;"Bolama Region";Bolama;https://en.wikipedia.org/wiki/Bolama_Region;region
+GW;CA;N;"Cacheu Region";Cacheu;https://en.wikipedia.org/wiki/Cacheu_Region;region
+GW;GA;L;"Gabú Region";Gabú;https://en.wikipedia.org/wiki/Gab%C3%BA_Region;region
+GW;OI;N;"Oio Region";Oio;https://en.wikipedia.org/wiki/Oio_Region;region
+GW;QU;S;"Quinara Region";Quinara;https://en.wikipedia.org/wiki/Quinara_Region;region
+GW;TO;S;"Tombali Region";Tombali;https://en.wikipedia.org/wiki/Tombali_Region;region
+ID;AC;SM;Aceh;Aceh;https://en.wikipedia.org/wiki/Aceh;"autonomous province"
+ID;BA;NU;Bali;Bali;https://en.wikipedia.org/wiki/Bali;province
+ID;BB;SM;"Kepulauan Bangka Belitung";"Kepulauan Bangka Belitung";https://en.wikipedia.org/wiki/Kepulauan_Bangka_Belitung;province
+ID;BT;JW;Banten;Banten;https://en.wikipedia.org/wiki/Banten;province
+ID;BE;SM;Bengkulu;Bengkulu;https://en.wikipedia.org/wiki/Bengkulu;province
+ID;GO;SL;"Gorontalo (province)";Gorontalo;https://en.wikipedia.org/wiki/Gorontalo_(province);province
+ID;JA;SM;Jambi;Jambi;https://en.wikipedia.org/wiki/Jambi;province
+ID;JB;JW;"Jawa Barat";"Jawa Barat";https://en.wikipedia.org/wiki/Jawa_Barat;province
+ID;JT;JW;"Jawa Tengah";"Jawa Tengah";https://en.wikipedia.org/wiki/Jawa_Tengah;province
+ID;JI;JW;"Jawa Timur";"Jawa Timur";https://en.wikipedia.org/wiki/Jawa_Timur;province
+ID;KB;KA;"Kalimantan Barat";"Kalimantan Barat";https://en.wikipedia.org/wiki/Kalimantan_Barat;province
+ID;KS;KA;"Kalimantan Selatan";"Kalimantan Selatan";https://en.wikipedia.org/wiki/Kalimantan_Selatan;province
+ID;KT;KA;"Kalimantan Tengah";"Kalimantan Tengah";https://en.wikipedia.org/wiki/Kalimantan_Tengah;province
+ID;KI;KA;"Kalimantan Timur";"Kalimantan Timur";https://en.wikipedia.org/wiki/Kalimantan_Timur;province
+ID;KU;KA;"Kalimantan Utara";"Kalimantan Utara";https://en.wikipedia.org/wiki/Kalimantan_Utara;province
+ID;KR;SM;"Kepulauan Riau";"Kepulauan Riau";https://en.wikipedia.org/wiki/Kepulauan_Riau;province
+ID;LA;SM;Lampung;Lampung;https://en.wikipedia.org/wiki/Lampung;province
+ID;MA;ML;"Maluku (province)";Maluku;https://en.wikipedia.org/wiki/Maluku_(province);province
+ID;MU;ML;"Maluku Utara";"Maluku Utara";https://en.wikipedia.org/wiki/Maluku_Utara;province
+ID;NB;NU;"Nusa Tenggara Barat";"Nusa Tenggara Barat";https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat;province
+ID;NT;NU;"Nusa Tenggara Timur";"Nusa Tenggara Timur";https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur;province
+ID;PA;PP;"Papua (province)";Papua;https://en.wikipedia.org/wiki/Papua_(province);province
+ID;PB;PP;"Papua Barat";"Papua Barat";https://en.wikipedia.org/wiki/Papua_Barat;province
+ID;RI;SM;Riau;Riau;https://en.wikipedia.org/wiki/Riau;province
+ID;SR;SL;"Sulawesi Barat";"Sulawesi Barat";https://en.wikipedia.org/wiki/Sulawesi_Barat;province
+ID;SN;SL;"Sulawesi Selatan";"Sulawesi Selatan";https://en.wikipedia.org/wiki/Sulawesi_Selatan;province
+ID;ST;SL;"Sulawesi Tengah";"Sulawesi Tengah";https://en.wikipedia.org/wiki/Sulawesi_Tengah;province
+ID;SG;SL;"Sulawesi Tenggara";"Sulawesi Tenggara";https://en.wikipedia.org/wiki/Sulawesi_Tenggara;province
+ID;SA;SL;"Sulawesi Utara";"Sulawesi Utara";https://en.wikipedia.org/wiki/Sulawesi_Utara;province
+ID;SB;SM;"Sumatera Barat";"Sumatera Barat";https://en.wikipedia.org/wiki/Sumatera_Barat;province
+ID;SS;SM;"Sumatera Selatan";"Sumatera Selatan";https://en.wikipedia.org/wiki/Sumatera_Selatan;province
+ID;SU;SM;"Sumatera Utara";"Sumatera Utara";https://en.wikipedia.org/wiki/Sumatera_Utara;province
+ID;JK;JW;"DKI Jakarta";"DKI Jakarta";https://en.wikipedia.org/wiki/DKI_Jakarta;"special district"
+ID;YO;JW;"Special Region of Yogyakarta";"DI Yogyakarta";https://en.wikipedia.org/wiki/Special_Region_of_Yogyakarta;"special region"
+IE;CW;L;"County Carlow";Carlow;https://en.wikipedia.org/wiki/County_Carlow;"26 counties"
+IE;CN;U;"County Cavan";Cavan;https://en.wikipedia.org/wiki/County_Cavan;"26 counties"
+IE;CE;M;"County Clare";Clare;https://en.wikipedia.org/wiki/County_Clare;"26 counties"
+IE;CO;M;"County Cork";Cork;https://en.wikipedia.org/wiki/County_Cork;"26 counties"
+IE;DL;U;"County Donegal";Donegal;https://en.wikipedia.org/wiki/County_Donegal;"26 counties"
+IE;D;L;"County Dublin";Dublin;https://en.wikipedia.org/wiki/County_Dublin;"26 counties"
+IE;G;C;"County Galway";Galway;https://en.wikipedia.org/wiki/County_Galway;"26 counties"
+IE;KY;M;"County Kerry";Kerry;https://en.wikipedia.org/wiki/County_Kerry;"26 counties"
+IE;KE;L;"County Kildare";Kildare;https://en.wikipedia.org/wiki/County_Kildare;"26 counties"
+IE;KK;L;"County Kilkenny";Kilkenny;https://en.wikipedia.org/wiki/County_Kilkenny;"26 counties"
+IE;LS;L;"County Laois";Laois;https://en.wikipedia.org/wiki/County_Laois;"26 counties"
+IE;LM;C;"County Leitrim";Leitrim;https://en.wikipedia.org/wiki/County_Leitrim;"26 counties"
+IE;LK;M;"County Limerick";Limerick;https://en.wikipedia.org/wiki/County_Limerick;"26 counties"
+IE;LD;L;"County Longford";Longford;https://en.wikipedia.org/wiki/County_Longford;"26 counties"
+IE;LH;L;"County Louth";Louth;https://en.wikipedia.org/wiki/County_Louth;"26 counties"
+IE;MO;C;"County Mayo";Mayo;https://en.wikipedia.org/wiki/County_Mayo;"26 counties"
+IE;MH;L;"County Meath";Meath;https://en.wikipedia.org/wiki/County_Meath;"26 counties"
+IE;MN;U;"County Monaghan";Monaghan;https://en.wikipedia.org/wiki/County_Monaghan;"26 counties"
+IE;OY;L;"County Offaly";Offaly;https://en.wikipedia.org/wiki/County_Offaly;"26 counties"
+IE;RN;C;"County Roscommon";Roscommon;https://en.wikipedia.org/wiki/County_Roscommon;"26 counties"
+IE;SO;C;"County Sligo";Sligo;https://en.wikipedia.org/wiki/County_Sligo;"26 counties"
+IE;TA;M;"County Tipperary";Tipperary;https://en.wikipedia.org/wiki/County_Tipperary;"26 counties"
+IE;WD;M;"County Waterford";Waterford;https://en.wikipedia.org/wiki/County_Waterford;"26 counties"
+IE;WH;L;"County Westmeath";Westmeath;https://en.wikipedia.org/wiki/County_Westmeath;"26 counties"
+IE;WX;L;"County Wexford";Wexford;https://en.wikipedia.org/wiki/County_Wexford;"26 counties"
+IE;WW;L;"County Wicklow";Wicklow;https://en.wikipedia.org/wiki/County_Wicklow;"26 counties"
+IT;AG;82;"Province of Agrigento";Agrigento;https://en.wikipedia.org/wiki/Province_of_Agrigento;"110 provinces"
+IT;AL;21;"Province of Alessandria";Alessandria;https://en.wikipedia.org/wiki/Province_of_Alessandria;"110 provinces"
+IT;AN;57;"Province of Ancona";Ancona;https://en.wikipedia.org/wiki/Province_of_Ancona;"110 provinces"
+IT;AO;23;"Province of Aosta";Aosta;https://en.wikipedia.org/wiki/Province_of_Aosta;"110 provinces"
+IT;AR;52;"Province of Arezzo";Arezzo;https://en.wikipedia.org/wiki/Province_of_Arezzo;"110 provinces"
+IT;AP;57;"Province of Ascoli Piceno";"Ascoli Piceno";https://en.wikipedia.org/wiki/Province_of_Ascoli_Piceno;"110 provinces"
+IT;AT;21;"Province of Asti";Asti;https://en.wikipedia.org/wiki/Province_of_Asti;"110 provinces"
+IT;AV;72;"Province of Avellino";Avellino;https://en.wikipedia.org/wiki/Province_of_Avellino;"110 provinces"
+IT;BA;75;"Metropolitan City of Bari";Bari;https://en.wikipedia.org/wiki/Metropolitan_City_of_Bari;"110 provinces"
+IT;BT;75;"Province of Barletta-Andria-Trani";Barletta-Andria-Trani;https://en.wikipedia.org/wiki/Province_of_Barletta-Andria-Trani;"110 provinces"
+IT;BL;34;"Province of Belluno";Belluno;https://en.wikipedia.org/wiki/Province_of_Belluno;"110 provinces"
+IT;BN;72;"Province of Benevento";Benevento;https://en.wikipedia.org/wiki/Province_of_Benevento;"110 provinces"
+IT;BG;25;"Province of Bergamo";Bergamo;https://en.wikipedia.org/wiki/Province_of_Bergamo;"110 provinces"
+IT;BI;21;"Province of Biella";Biella;https://en.wikipedia.org/wiki/Province_of_Biella;"110 provinces"
+IT;BO;45;"Metropolitan City of Bologna";Bologna;https://en.wikipedia.org/wiki/Metropolitan_City_of_Bologna;"110 provinces"
+IT;BZ;32;"South Tyrol";Bolzano;https://en.wikipedia.org/wiki/South_Tyrol;"110 provinces"
+IT;BS;25;"Province of Brescia";Brescia;https://en.wikipedia.org/wiki/Province_of_Brescia;"110 provinces"
+IT;BR;75;"Province of Brindisi";Brindisi;https://en.wikipedia.org/wiki/Province_of_Brindisi;"110 provinces"
+IT;CA;88;"Province of Cagliari";Cagliari;https://en.wikipedia.org/wiki/Province_of_Cagliari;"110 provinces"
+IT;CL;82;"Province of Caltanissetta";Caltanissetta;https://en.wikipedia.org/wiki/Province_of_Caltanissetta;"110 provinces"
+IT;CB;67;"Province of Campobasso";Campobasso;https://en.wikipedia.org/wiki/Province_of_Campobasso;"110 provinces"
+IT;CI;88;"Province of Carbonia-Iglesias";Carbonia-Iglesias;https://en.wikipedia.org/wiki/Province_of_Carbonia-Iglesias;"110 provinces"
+IT;CE;72;"Province of Caserta";Caserta;https://en.wikipedia.org/wiki/Province_of_Caserta;"110 provinces"
+IT;CT;82;"Metropolitan City of Catania";Catania;https://en.wikipedia.org/wiki/Metropolitan_City_of_Catania;"110 provinces"
+IT;CZ;78;"Province of Catanzaro";Catanzaro;https://en.wikipedia.org/wiki/Province_of_Catanzaro;"110 provinces"
+IT;CH;65;"Province of Chieti";Chieti;https://en.wikipedia.org/wiki/Province_of_Chieti;"110 provinces"
+IT;CO;25;"Province of Como";Como;https://en.wikipedia.org/wiki/Province_of_Como;"110 provinces"
+IT;CS;78;"Province of Cosenza";Cosenza;https://en.wikipedia.org/wiki/Province_of_Cosenza;"110 provinces"
+IT;CR;25;"Province of Cremona";Cremona;https://en.wikipedia.org/wiki/Province_of_Cremona;"110 provinces"
+IT;KR;78;"Province of Crotone";Crotone;https://en.wikipedia.org/wiki/Province_of_Crotone;"110 provinces"
+IT;CN;21;"Province of Cuneo";Cuneo;https://en.wikipedia.org/wiki/Province_of_Cuneo;"110 provinces"
+IT;EN;82;"Province of Enna";Enna;https://en.wikipedia.org/wiki/Province_of_Enna;"110 provinces"
+IT;FM;57;"Province of Fermo";Fermo;https://en.wikipedia.org/wiki/Province_of_Fermo;"110 provinces"
+IT;FE;45;"Province of Ferrara";Ferrara;https://en.wikipedia.org/wiki/Province_of_Ferrara;"110 provinces"
+IT;FI;52;"Metropolitan City of Florence";Firenze;https://en.wikipedia.org/wiki/Metropolitan_City_of_Florence;"110 provinces"
+IT;FG;75;"Province of Foggia";Foggia;https://en.wikipedia.org/wiki/Province_of_Foggia;"110 provinces"
+IT;FC;45;"Province of Forlì-Cesena";Forlì-Cesena;https://en.wikipedia.org/wiki/Province_of_Forl%C3%AC-Cesena;"110 provinces"
+IT;FR;62;"Province of Frosinone";Frosinone;https://en.wikipedia.org/wiki/Province_of_Frosinone;"110 provinces"
+IT;GE;42;"Province of Genova";Genova;https://en.wikipedia.org/wiki/Province_of_Genova;"110 provinces"
+IT;GO;36;"Province of Gorizia";Gorizia;https://en.wikipedia.org/wiki/Province_of_Gorizia;"110 provinces"
+IT;GR;52;"Province of Grosseto";Grosseto;https://en.wikipedia.org/wiki/Province_of_Grosseto;"110 provinces"
+IT;IM;42;"Province of Imperia";Imperia;https://en.wikipedia.org/wiki/Province_of_Imperia;"110 provinces"
+IT;IS;67;"Province of Isernia";Isernia;https://en.wikipedia.org/wiki/Province_of_Isernia;"110 provinces"
+IT;SP;42;"Province of La Spezia";"La Spezia";https://en.wikipedia.org/wiki/Province_of_La_Spezia;"110 provinces"
+IT;AQ;65;"Province of L'Aquila";L'Aquila;https://en.wikipedia.org/wiki/Province_of_L%27Aquila;"110 provinces"
+IT;LT;62;"Province of Latina";Latina;https://en.wikipedia.org/wiki/Province_of_Latina;"110 provinces"
+IT;LE;75;"Province of Lecce";Lecce;https://en.wikipedia.org/wiki/Province_of_Lecce;"110 provinces"
+IT;LC;25;"Province of Lecco";Lecco;https://en.wikipedia.org/wiki/Province_of_Lecco;"110 provinces"
+IT;LI;52;"Province of Livorno";Livorno;https://en.wikipedia.org/wiki/Province_of_Livorno;"110 provinces"
+IT;LO;25;"Province of Lodi";Lodi;https://en.wikipedia.org/wiki/Province_of_Lodi;"110 provinces"
+IT;LU;52;"Province of Lucca";Lucca;https://en.wikipedia.org/wiki/Province_of_Lucca;"110 provinces"
+IT;MC;57;"Province of Macerata";Macerata;https://en.wikipedia.org/wiki/Province_of_Macerata;"110 provinces"
+IT;MN;25;"Province of Mantova";Mantova;https://en.wikipedia.org/wiki/Province_of_Mantova;"110 provinces"
+IT;MS;52;"Province of Massa and Carrara";"Massa and Carrara";https://en.wikipedia.org/wiki/Province_of_Massa_and_Carrara;"110 provinces"
+IT;MT;77;"Province of Matera";Matera;https://en.wikipedia.org/wiki/Province_of_Matera;"110 provinces"
+IT;VS;88;"Province of Medio Campidano";"Medio Campidano";https://en.wikipedia.org/wiki/Province_of_Medio_Campidano;"110 provinces"
+IT;ME;82;"Metropolitan City of Messina";Messina;https://en.wikipedia.org/wiki/Metropolitan_City_of_Messina;"110 provinces"
+IT;MI;25;"Metropolitan City of Milan";Milano;https://en.wikipedia.org/wiki/Metropolitan_City_of_Milan;"110 provinces"
+IT;MO;45;"Province of Modena";Modena;https://en.wikipedia.org/wiki/Province_of_Modena;"110 provinces"
+IT;MB;25;"Province of Monza and Brianza";"Monza and Brianza";https://en.wikipedia.org/wiki/Province_of_Monza_and_Brianza;"110 provinces"
+IT;NA;72;"Metropolitan City of Naples";Napoli;https://en.wikipedia.org/wiki/Metropolitan_City_of_Naples;"110 provinces"
+IT;NO;21;"Province of Novara";Novara;https://en.wikipedia.org/wiki/Province_of_Novara;"110 provinces"
+IT;NU;88;"Province of Nuoro";Nuoro;https://en.wikipedia.org/wiki/Province_of_Nuoro;"110 provinces"
+IT;OG;88;"Province of Ogliastra";Ogliastra;https://en.wikipedia.org/wiki/Province_of_Ogliastra;"110 provinces"
+IT;OT;88;"Province of Olbia-Tempio";Olbia-Tempio;https://en.wikipedia.org/wiki/Province_of_Olbia-Tempio;"110 provinces"
+IT;OR;88;"Province of Oristano";Oristano;https://en.wikipedia.org/wiki/Province_of_Oristano;"110 provinces"
+IT;PD;34;"Province of Padua";Padova;https://en.wikipedia.org/wiki/Province_of_Padua;"110 provinces"
+IT;PA;82;"Metropolitan City of Palermo";Palermo;https://en.wikipedia.org/wiki/Metropolitan_City_of_Palermo;"110 provinces"
+IT;PR;45;"Province of Parma";Parma;https://en.wikipedia.org/wiki/Province_of_Parma;"110 provinces"
+IT;PV;25;"Province of Pavia";Pavia;https://en.wikipedia.org/wiki/Province_of_Pavia;"110 provinces"
+IT;PG;55;"Province of Perugia";Perugia;https://en.wikipedia.org/wiki/Province_of_Perugia;"110 provinces"
+IT;PU;57;"Province of Pesaro and Urbino";"Pesaro and Urbino";https://en.wikipedia.org/wiki/Province_of_Pesaro_and_Urbino;"110 provinces"
+IT;PE;65;"Province of Pescara";Pescara;https://en.wikipedia.org/wiki/Province_of_Pescara;"110 provinces"
+IT;PC;45;"Province of Piacenza";Piacenza;https://en.wikipedia.org/wiki/Province_of_Piacenza;"110 provinces"
+IT;PI;52;"Province of Pisa";Pisa;https://en.wikipedia.org/wiki/Province_of_Pisa;"110 provinces"
+IT;PT;52;"Province of Pistoia";Pistoia;https://en.wikipedia.org/wiki/Province_of_Pistoia;"110 provinces"
+IT;PN;36;"Province of Pordenone";Pordenone;https://en.wikipedia.org/wiki/Province_of_Pordenone;"110 provinces"
+IT;PZ;77;"Province of Potenza";Potenza;https://en.wikipedia.org/wiki/Province_of_Potenza;"110 provinces"
+IT;PO;52;"Province of Prato";Prato;https://en.wikipedia.org/wiki/Province_of_Prato;"110 provinces"
+IT;RG;82;"Province of Ragusa";Ragusa;https://en.wikipedia.org/wiki/Province_of_Ragusa;"110 provinces"
+IT;RA;45;"Province of Ravenna";Ravenna;https://en.wikipedia.org/wiki/Province_of_Ravenna;"110 provinces"
+IT;RC;78;"Metropolitan City of Reggio Calabria";"Reggio Calabria";https://en.wikipedia.org/wiki/Metropolitan_City_of_Reggio_Calabria;"110 provinces"
+IT;RE;45;"Province of Reggio Emilia";"Reggio Emilia";https://en.wikipedia.org/wiki/Province_of_Reggio_Emilia;"110 provinces"
+IT;RI;62;"Province of Rieti";Rieti;https://en.wikipedia.org/wiki/Province_of_Rieti;"110 provinces"
+IT;RN;45;"Province of Rimini";Rimini;https://en.wikipedia.org/wiki/Province_of_Rimini;"110 provinces"
+IT;RM;62;"Metropolitan City of Rome";Roma;https://en.wikipedia.org/wiki/Metropolitan_City_of_Rome;"110 provinces"
+IT;RO;34;"Province of Rovigo";Rovigo;https://en.wikipedia.org/wiki/Province_of_Rovigo;"110 provinces"
+IT;SA;72;"Province of Salerno";Salerno;https://en.wikipedia.org/wiki/Province_of_Salerno;"110 provinces"
+IT;SS;88;"Province of Sassari";Sassari;https://en.wikipedia.org/wiki/Province_of_Sassari;"110 provinces"
+IT;SV;42;"Province of Savona";Savona;https://en.wikipedia.org/wiki/Province_of_Savona;"110 provinces"
+IT;SI;52;"Province of Siena";Siena;https://en.wikipedia.org/wiki/Province_of_Siena;"110 provinces"
+IT;SR;82;"Province of Siracusa";Siracusa;https://en.wikipedia.org/wiki/Province_of_Siracusa;"110 provinces"
+IT;SO;25;"Province of Sondrio";Sondrio;https://en.wikipedia.org/wiki/Province_of_Sondrio;"110 provinces"
+IT;TA;75;"Province of Taranto";Taranto;https://en.wikipedia.org/wiki/Province_of_Taranto;"110 provinces"
+IT;TE;65;"Province of Teramo";Teramo;https://en.wikipedia.org/wiki/Province_of_Teramo;"110 provinces"
+IT;TR;55;"Province of Terni";Terni;https://en.wikipedia.org/wiki/Province_of_Terni;"110 provinces"
+IT;TO;21;"Metropolitan City of Turin";Torino;https://en.wikipedia.org/wiki/Metropolitan_City_of_Turin;"110 provinces"
+IT;TP;82;"Province of Trapani";Trapani;https://en.wikipedia.org/wiki/Province_of_Trapani;"110 provinces"
+IT;TN;32;Trentino;Trento;https://en.wikipedia.org/wiki/Trentino;"110 provinces"
+IT;TV;34;"Province of Treviso";Treviso;https://en.wikipedia.org/wiki/Province_of_Treviso;"110 provinces"
+IT;TS;36;"Province of Trieste";Trieste;https://en.wikipedia.org/wiki/Province_of_Trieste;"110 provinces"
+IT;UD;36;"Province of Udine";Udine;https://en.wikipedia.org/wiki/Province_of_Udine;"110 provinces"
+IT;VA;25;"Province of Varese";Varese;https://en.wikipedia.org/wiki/Province_of_Varese;"110 provinces"
+IT;VE;34;"Metropolitan City of Venice";Venezia;https://en.wikipedia.org/wiki/Metropolitan_City_of_Venice;"110 provinces"
+IT;VB;21;"Province of Verbano-Cusio-Ossola";Verbano-Cusio-Ossola;https://en.wikipedia.org/wiki/Province_of_Verbano-Cusio-Ossola;"110 provinces"
+IT;VC;21;"Province of Vercelli";Vercelli;https://en.wikipedia.org/wiki/Province_of_Vercelli;"110 provinces"
+IT;VR;34;"Province of Verona";Verona;https://en.wikipedia.org/wiki/Province_of_Verona;"110 provinces"
+IT;VV;78;"Province of Vibo Valentia";"Vibo Valentia";https://en.wikipedia.org/wiki/Province_of_Vibo_Valentia;"110 provinces"
+IT;VI;34;"Province of Vicenza";Vicenza;https://en.wikipedia.org/wiki/Province_of_Vicenza;"110 provinces"
+IT;VT;62;"Province of Viterbo";Viterbo;https://en.wikipedia.org/wiki/Province_of_Viterbo;"110 provinces"
+KN;01;K;"Christ Church Nichola Town Parish";"Christ Church Nichola Town";https://en.wikipedia.org/wiki/Christ_Church_Nichola_Town_Parish;"14 parishes"
+KN;02;K;"Saint Anne Sandy Point Parish";"Saint Anne Sandy Point";https://en.wikipedia.org/wiki/Saint_Anne_Sandy_Point_Parish;"14 parishes"
+KN;03;K;"Saint George Basseterre Parish";"Saint George Basseterre";https://en.wikipedia.org/wiki/Saint_George_Basseterre_Parish;"14 parishes"
+KN;04;N;"Saint George Gingerland Parish";"Saint George Gingerland";https://en.wikipedia.org/wiki/Saint_George_Gingerland_Parish;"14 parishes"
+KN;05;N;"Saint James Windward Parish";"Saint James Windward";https://en.wikipedia.org/wiki/Saint_James_Windward_Parish;"14 parishes"
+KN;06;K;"Saint John Capisterre Parish";"Saint John Capisterre";https://en.wikipedia.org/wiki/Saint_John_Capisterre_Parish;"14 parishes"
+KN;07;N;"Saint John Figtree Parish";"Saint John Figtree";https://en.wikipedia.org/wiki/Saint_John_Figtree_Parish;"14 parishes"
+KN;08;K;"Saint Mary Cayon Parish";"Saint Mary Cayon";https://en.wikipedia.org/wiki/Saint_Mary_Cayon_Parish;"14 parishes"
+KN;09;K;"Saint Paul Capisterre Parish";"Saint Paul Capisterre";https://en.wikipedia.org/wiki/Saint_Paul_Capisterre_Parish;"14 parishes"
+KN;10;N;"Saint Paul Charlestown Parish";"Saint Paul Charlestown";https://en.wikipedia.org/wiki/Saint_Paul_Charlestown_Parish;"14 parishes"
+KN;11;K;"Saint Peter Basseterre Parish";"Saint Peter Basseterre";https://en.wikipedia.org/wiki/Saint_Peter_Basseterre_Parish;"14 parishes"
+KN;12;N;"Saint Thomas Lowland Parish";"Saint Thomas Lowland";https://en.wikipedia.org/wiki/Saint_Thomas_Lowland_Parish;"14 parishes"
+KN;13;K;"Saint Thomas Middle Island Parish";"Saint Thomas Middle Island";https://en.wikipedia.org/wiki/Saint_Thomas_Middle_Island_Parish;"14 parishes"
+KN;15;K;"Trinity Palmetto Point Parish";"Trinity Palmetto Point";https://en.wikipedia.org/wiki/Trinity_Palmetto_Point_Parish;"14 parishes"
+MA;AGD;13;"Prefecture of Agadir-Ida-Outanane";Agadir-Ida-Outanane;https://en.wikipedia.org/wiki/Prefecture_of_Agadir-Ida-Outanane;prefecture
+MA;AOU;16;"Prefecture of Aousserd";Aousserd;https://en.wikipedia.org/wiki/Prefecture_of_Aousserd;prefecture
+MA;ASZ;14;"Province of Assa-Zag";Assa-Zag;https://en.wikipedia.org/wiki/Province_of_Assa-Zag;province
+MA;AZI;12;"Province of Azilal";Azilal;https://en.wikipedia.org/wiki/Province_of_Azilal;province
+MA;BEM;12;"Province of Beni Mellal";"Beni Mellal";https://en.wikipedia.org/wiki/Province_of_Beni_Mellal;province
+MA;BER;04;"Province of Berkane";Berkane;https://en.wikipedia.org/wiki/Province_of_Berkane;province
+MA;BES;09;"Province of Ben Slimane";"Ben Slimane";https://en.wikipedia.org/wiki/Province_of_Ben_Slimane;province
+MA;BOD;15;"Province of Boujdour";Boujdour;https://en.wikipedia.org/wiki/Province_of_Boujdour;province
+MA;BOM;05;"Province of Boulemane";Boulemane;https://en.wikipedia.org/wiki/Province_of_Boulemane;province
+MA;CAS;08;"Prefecture of Casablanca";Casablanca;https://en.wikipedia.org/wiki/Prefecture_of_Casablanca;prefecture
+MA;CHE;01;"Province of Chefchaouen";Chefchaouen;https://en.wikipedia.org/wiki/Province_of_Chefchaouen;province
+MA;CHI;11;"Province of Chichaoua";Chichaoua;https://en.wikipedia.org/wiki/Province_of_Chichaoua;province
+MA;CHT;13;"Province of Chtouka-Ait Baha";"Chtouka-Ait Baha";https://en.wikipedia.org/wiki/Province_of_Chtouka-Ait_Baha;province
+MA;ERR;06;"Province of Errachidia";Errachidia;https://en.wikipedia.org/wiki/Province_of_Errachidia;province
+MA;ESI;11;"Province of Essaouira";Essaouira;https://en.wikipedia.org/wiki/Province_of_Essaouira;province
+MA;ESM;14;"Province of Es Smara";"Es Smara";https://en.wikipedia.org/wiki/Province_of_Es_Smara;province
+MA;FES;05;"Prefecture of Fez";Fès-Dar-Dbibegh;https://en.wikipedia.org/wiki/Prefecture_of_Fez;prefecture
+MA;FIG;04;"Province of Figuig";Figuig;https://en.wikipedia.org/wiki/Province_of_Figuig;province
+MA;GUE;14;"Province of Guelmim";Guelmim;https://en.wikipedia.org/wiki/Province_of_Guelmim;province
+MA;HAJ;06;"Province of El Hajeb";"El Hajeb";https://en.wikipedia.org/wiki/Province_of_El_Hajeb;province
+MA;HAO;11;"Province of Al Haouz";"Al Haouz";https://en.wikipedia.org/wiki/Province_of_Al_Haouz;province
+MA;HOC;03;"Province of Al Hoceïma";"Al Hoceïma";https://en.wikipedia.org/wiki/Province_of_Al_Hoce%C3%AFma;province
+MA;IFR;06;"Province of Ifrane";Ifrane;https://en.wikipedia.org/wiki/Province_of_Ifrane;province
+MA;JDI;10;"Province of El Jadida";"El Jadida";https://en.wikipedia.org/wiki/Province_of_El_Jadida;province
+MA;JRA;04;"Province of Jrada";Jrada;https://en.wikipedia.org/wiki/Province_of_Jrada;province
+MA;KEN;02;"Province of Kénitra";Kénitra;https://en.wikipedia.org/wiki/Province_of_K%C3%A9nitra;province
+MA;KES;11;"Province of Kelaat es Sraghna";"Kelaat es Sraghna";https://en.wikipedia.org/wiki/Province_of_Kelaat_es_Sraghna;province
+MA;KHE;07;"Province of Khémisset";Khemisset;https://en.wikipedia.org/wiki/Province_of_Kh%C3%A9misset;province
+MA;KHN;06;"Province of Khénifra";Khenifra;https://en.wikipedia.org/wiki/Province_of_Kh%C3%A9nifra;province
+MA;KHO;09;"Province of Khouribga";Khouribga;https://en.wikipedia.org/wiki/Province_of_Khouribga;province
+MA;LAA;15;"Province of Laâyoune";Laâyoune;https://en.wikipedia.org/wiki/Province_of_La%C3%A2youne;province
+MA;LAR;01;"Province of Larache";Larache;https://en.wikipedia.org/wiki/Province_of_Larache;province
+MA;MED;08;"Province of Médiouna";Médiouna;https://en.wikipedia.org/wiki/Province_of_M%C3%A9diouna;province
+MA;MOU;05;"Province of Moulay Yacoub";"Moulay Yacoub";https://en.wikipedia.org/wiki/Province_of_Moulay_Yacoub;province
+MA;NAD;04;"Province of Nador";Nador;https://en.wikipedia.org/wiki/Province_of_Nador;province
+MA;NOU;08;"Province of Nouaceur";Nouaceur;https://en.wikipedia.org/wiki/Province_of_Nouaceur;province
+MA;OUA;13;"Province of Ouarzazate";Ouarzazate;https://en.wikipedia.org/wiki/Province_of_Ouarzazate;province
+MA;OUD;16;"Province of Oued ed Dahab";"Oued ed Dahab";https://en.wikipedia.org/wiki/Province_of_Oued_ed_Dahab;province
+MA;SAF;10;"Province of Safi";Safi;https://en.wikipedia.org/wiki/Province_of_Safi;province
+MA;SEF;05;"Province of Sefrou";Sefrou;https://en.wikipedia.org/wiki/Province_of_Sefrou;province
+MA;SET;09;"Province of Settat";Settat;https://en.wikipedia.org/wiki/Province_of_Settat;province
+MA;SIK;02;"Province of Sidi Kacem";"Sidi Kacem";https://en.wikipedia.org/wiki/Province_of_Sidi_Kacem;province
+MA;TAI;04;"Province of Taourirt";Taourirt;https://en.wikipedia.org/wiki/Province_of_Taourirt;province
+MA;TAO;03;"Province of Taounate";Taounate;https://en.wikipedia.org/wiki/Province_of_Taounate;province
+MA;TAR;13;"Province of Taroudannt";Taroudannt;https://en.wikipedia.org/wiki/Province_of_Taroudannt;province
+MA;TAT;14;"Province of Tata";Tata;https://en.wikipedia.org/wiki/Province_of_Tata;province
+MA;TAZ;03;"Province of Taza";Taza;https://en.wikipedia.org/wiki/Province_of_Taza;province
+MA;TIZ;13;"Province of Tiznit";Tiznit;https://en.wikipedia.org/wiki/Province_of_Tiznit;province
+MA;TNT;14;"Province of Tan-Tan";Tan-Tan;https://en.wikipedia.org/wiki/Province_of_Tan-Tan;province
+MA;ZAG;13;"Province of Zagora";Zagora;https://en.wikipedia.org/wiki/Province_of_Zagora;province
+MA;FAH;01;"Prefecture of Fahs-Beni Makada";"Fahs-Beni Makada";https://en.wikipedia.org/wiki/Prefecture_of_Fahs-Beni_Makada;prefecture
+MA;INE;13;"Prefecture of Inezgane-Ait Melloul";"Inezgane-Ait Melloul";https://en.wikipedia.org/wiki/Prefecture_of_Inezgane-Ait_Melloul;prefecture
+MA;MMD;11;"Prefecture of Marrakech-Medina";Marrakech-Medina;https://en.wikipedia.org/wiki/Prefecture_of_Marrakech-Medina;prefecture
+MA;MMN;11;"Prefecture of Marrakech-Menara";Marrakech-Menara;https://en.wikipedia.org/wiki/Prefecture_of_Marrakech-Menara;prefecture
+MA;MEK;06;"Prefecture of Meknès";Meknès;https://en.wikipedia.org/wiki/Prefecture_of_Mekn%C3%A8s;prefecture
+MA;MOH;08;"Prefecture of Mohammadia";Mohammadia;https://en.wikipedia.org/wiki/Prefecture_of_Mohammadia;prefecture
+MA;OUJ;04;"Prefecture of Oujda-Angad";Oujda-Angad;https://en.wikipedia.org/wiki/Prefecture_of_Oujda-Angad;prefecture
+MA;RAB;07;"Prefecture of Rabat";Rabat;https://en.wikipedia.org/wiki/Prefecture_of_Rabat;prefecture
+MA;SAL;07;"Prefecture of Salé";Salé;https://en.wikipedia.org/wiki/Prefecture_of_Sal%C3%A9;prefecture
+MA;SKH;07;"Prefecture of Skhirate-Témara";Skhirate-Témara;https://en.wikipedia.org/wiki/Prefecture_of_Skhirate-T%C3%A9mara;prefecture
+MA;SYB;11;"Prefecture of Sidi Youssef Ben Ali";"Sidi Youssef Ben Ali";https://en.wikipedia.org/wiki/Prefecture_of_Sidi_Youssef_Ben_Ali;prefecture
+MA;TET;01;"Prefecture of Tétouan";Tétouan;https://en.wikipedia.org/wiki/Prefecture_of_T%C3%A9touan;prefecture
+MA;TNG;01;"Prefecture of Tanger-Assilah";Tanger-Assilah;https://en.wikipedia.org/wiki/Prefecture_of_Tanger-Assilah;prefecture
+MH;ALL;L;"Ailinglaplap Atoll";Ailinglaplap;https://en.wikipedia.org/wiki/Ailinglaplap_Atoll;"24 municipalities"
+MH;ALK;T;"Ailuk Atoll";Ailuk;https://en.wikipedia.org/wiki/Ailuk_Atoll;"24 municipalities"
+MH;ARN;T;"Arno Atoll";Arno;https://en.wikipedia.org/wiki/Arno_Atoll;"24 municipalities"
+MH;AUR;T;"Aur Atoll";Aur;https://en.wikipedia.org/wiki/Aur_Atoll;"24 municipalities"
+MH;KIL;L;"Kili Island";"Bikini and Kili";https://en.wikipedia.org/wiki/Kili_Island;"24 municipalities"
+MH;EBO;L;"Ebon Atoll";Ebon;https://en.wikipedia.org/wiki/Ebon_Atoll;"24 municipalities"
+MH;ENI;L;"Enewetak Atoll";"Enewetak and Ujelang";https://en.wikipedia.org/wiki/Enewetak_Atoll;"24 municipalities"
+MH;JAB;L;"Jabat Island";Jabat;https://en.wikipedia.org/wiki/Jabat_Island;"24 municipalities"
+MH;JAL;L;"Jaluit Atoll";Jaluit;https://en.wikipedia.org/wiki/Jaluit_Atoll;"24 municipalities"
+MH;KWA;L;"Kwajalein Atoll";Kwajalein;https://en.wikipedia.org/wiki/Kwajalein_Atoll;"24 municipalities"
+MH;LAE;L;"Lae Atoll";Lae;https://en.wikipedia.org/wiki/Lae_Atoll;"24 municipalities"
+MH;LIB;L;"Lib Island";Lib;https://en.wikipedia.org/wiki/Lib_Island;"24 municipalities"
+MH;LIK;T;"Likiep Atoll";Likiep;https://en.wikipedia.org/wiki/Likiep_Atoll;"24 municipalities"
+MH;MAJ;T;"Majuro Atoll";Majuro;https://en.wikipedia.org/wiki/Majuro_Atoll;"24 municipalities"
+MH;MAL;T;"Maloelap Atoll";Maloelap;https://en.wikipedia.org/wiki/Maloelap_Atoll;"24 municipalities"
+MH;MEJ;T;"Mejit Island";Mejit;https://en.wikipedia.org/wiki/Mejit_Island;"24 municipalities"
+MH;MIL;T;"Mili Atoll";Mili;https://en.wikipedia.org/wiki/Mili_Atoll;"24 municipalities"
+MH;NMK;L;"Namdrik Atoll";Namdrik;https://en.wikipedia.org/wiki/Namdrik_Atoll;"24 municipalities"
+MH;NMU;L;"Namu Atoll";Namu;https://en.wikipedia.org/wiki/Namu_Atoll;"24 municipalities"
+MH;RON;L;"Rongelap Atoll";Rongelap;https://en.wikipedia.org/wiki/Rongelap_Atoll;"24 municipalities"
+MH;UJA;L;"Ujae Atoll";Ujae;https://en.wikipedia.org/wiki/Ujae_Atoll;"24 municipalities"
+MH;UTI;T;"Utirik Atoll";Utrik;https://en.wikipedia.org/wiki/Utirik_Atoll;"24 municipalities"
+MH;WTH;L;"Wotho Atoll";Wotho;https://en.wikipedia.org/wiki/Wotho_Atoll;"24 municipalities"
+MH;WTJ;T;"Wotje Atoll";Wotje;https://en.wikipedia.org/wiki/Wotje_Atoll;"24 municipalities"
+MK;01;"A ! †";"Aerodrom Municipality (Macedonia)";Aerodrom;https://en.wikipedia.org/wiki/Aerodrom_Municipality_(Macedonia);
+MK;09;"A ! †";"Butel Municipality";Butel;https://en.wikipedia.org/wiki/Butel_Municipality;
+MK;77;"A ! †";"Centar Municipality (Macedonia)";Centar;https://en.wikipedia.org/wiki/Centar_Municipality_(Macedonia);
+MK;79;"A ! †";"Čair Municipality";Čair;https://en.wikipedia.org/wiki/%C4%8Cair_Municipality;
+MK;28;"B !";"Drugovo Municipality";Drugovo;https://en.wikipedia.org/wiki/Drugovo_Municipality;
+MK;17;"A ! †";"Gazi Baba Municipality";"Gazi Baba";https://en.wikipedia.org/wiki/Gazi_Baba_Municipality;
+MK;29;"A ! †";"Gjorče Petrov Municipality";"Gjorče Petrov";https://en.wikipedia.org/wiki/Gjor%C4%8De_Petrov_Municipality;
+MK;38;"A ! †";"Karpoš Municipality";Karpoš;https://en.wikipedia.org/wiki/Karpo%C5%A1_Municipality;
+MK;39;"A ! †";"Kisela Voda Municipality";"Kisela Voda";https://en.wikipedia.org/wiki/Kisela_Voda_Municipality;
+MK;57;"B !";"Oslomej Municipality";Oslomej;https://en.wikipedia.org/wiki/Oslomej_Municipality;
+MK;68;"A ! †";"Saraj Municipality";Saraj;https://en.wikipedia.org/wiki/Saraj_Municipality;
+MK;84;"A ! †";"Šuto Orizari Municipality";"Šuto Orizari";https://en.wikipedia.org/wiki/%C5%A0uto_Orizari_Municipality;
+MK;15;"B !";"Vraneštica Municipality";Vraneštica;https://en.wikipedia.org/wiki/Vrane%C5%A1tica_Municipality;
+MK;31;"B !";"Zajas Municipality";Zajas;https://en.wikipedia.org/wiki/Zajas_Municipality;
+MV;02;NC;"Alif Alif Atoll";"Alifu Alifu";https://en.wikipedia.org/wiki/Alif_Alif_Atoll;
+MV;00;NC;"Alif Dhaal Atoll";"Alifu Dhaalu";https://en.wikipedia.org/wiki/Alif_Dhaal_Atoll;
+MV;20;NO;"Baa Atoll";Baa;https://en.wikipedia.org/wiki/Baa_Atoll;
+MV;17;CE;"Dhaalu Atoll";Dhaalu;https://en.wikipedia.org/wiki/Dhaalu_Atoll;
+MV;14;CE;"Faafu Atoll";Faafu;https://en.wikipedia.org/wiki/Faafu_Atoll;
+MV;27;SC;"Gaaf Alif Atoll";"Gaafu Alifu";https://en.wikipedia.org/wiki/Gaaf_Alif_Atoll;
+MV;28;SC;"Gaafu Dhaalu Atoll";"Gaafu Dhaalu";https://en.wikipedia.org/wiki/Gaafu_Dhaalu_Atoll;
+MV;29;SU;"Gnaviyani Atoll";Gnaviyani;https://en.wikipedia.org/wiki/Gnaviyani_Atoll;
+MV;07;UN;"Haa Alif Atoll";"Haa Alifu";https://en.wikipedia.org/wiki/Haa_Alif_Atoll;
+MV;23;UN;"Haa Dhaalu Atoll";"Haa Dhaalu";https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll;
+MV;26;NC;"Kaafu Atoll";Kaafu;https://en.wikipedia.org/wiki/Kaafu_Atoll;
+MV;05;US;"Laamu Atoll";Laamu;https://en.wikipedia.org/wiki/Laamu_Atoll;
+MV;03;NO;"Lhaviyani Atoll";Lhaviyani;https://en.wikipedia.org/wiki/Lhaviyani_Atoll;
+MV;12;CE;"Meemu Atoll";Meemu;https://en.wikipedia.org/wiki/Meemu_Atoll;
+MV;25;NO;"Noonu Atoll";Noonu;https://en.wikipedia.org/wiki/Noonu_Atoll;
+MV;13;NO;"Raa Atoll";Raa;https://en.wikipedia.org/wiki/Raa_Atoll;
+MV;01;SU;"Seenu Atoll";Seenu;https://en.wikipedia.org/wiki/Seenu_Atoll;
+MV;24;UN;"Shaviyani Atoll";Shaviyani;https://en.wikipedia.org/wiki/Shaviyani_Atoll;
+MV;08;US;"Thaa Atoll";Thaa;https://en.wikipedia.org/wiki/Thaa_Atoll;
+MV;04;NC;"Vaavu Atoll";Vaavu;https://en.wikipedia.org/wiki/Vaavu_Atoll;
+MW;BA;S;"Balaka District";Balaka;https://en.wikipedia.org/wiki/Balaka_District;"28 districts"
+MW;BL;S;"Blantyre District";Blantyre;https://en.wikipedia.org/wiki/Blantyre_District;"28 districts"
+MW;CK;S;"Chikwawa District";Chikwawa;https://en.wikipedia.org/wiki/Chikwawa_District;"28 districts"
+MW;CR;S;"Chiradzulu District";Chiradzulu;https://en.wikipedia.org/wiki/Chiradzulu_District;"28 districts"
+MW;CT;N;"Chitipa District";Chitipa;https://en.wikipedia.org/wiki/Chitipa_District;"28 districts"
+MW;DE;C;"Dedza District";Dedza;https://en.wikipedia.org/wiki/Dedza_District;"28 districts"
+MW;DO;C;"Dowa District";Dowa;https://en.wikipedia.org/wiki/Dowa_District;"28 districts"
+MW;KR;N;"Karonga District";Karonga;https://en.wikipedia.org/wiki/Karonga_District;"28 districts"
+MW;KS;C;"Kasungu District";Kasungu;https://en.wikipedia.org/wiki/Kasungu_District;"28 districts"
+MW;LK;N;"Likoma District";Likoma;https://en.wikipedia.org/wiki/Likoma_District;"28 districts"
+MW;LI;C;"Lilongwe District";Lilongwe;https://en.wikipedia.org/wiki/Lilongwe_District;"28 districts"
+MW;MH;S;"Machinga District";Machinga;https://en.wikipedia.org/wiki/Machinga_District;"28 districts"
+MW;MG;S;"Mangochi District";Mangochi;https://en.wikipedia.org/wiki/Mangochi_District;"28 districts"
+MW;MC;C;"Mchinji District";Mchinji;https://en.wikipedia.org/wiki/Mchinji_District;"28 districts"
+MW;MU;S;"Mulanje District";Mulanje;https://en.wikipedia.org/wiki/Mulanje_District;"28 districts"
+MW;MW;S;"Mwanza District";Mwanza;https://en.wikipedia.org/wiki/Mwanza_District;"28 districts"
+MW;MZ;N;"Mzimba District";Mzimba;https://en.wikipedia.org/wiki/Mzimba_District;"28 districts"
+MW;NE;S;"Neno District";Neno;https://en.wikipedia.org/wiki/Neno_District;"28 districts"
+MW;NB;N;"Nkhata Bay District";"Nkhata Bay";https://en.wikipedia.org/wiki/Nkhata_Bay_District;"28 districts"
+MW;NK;C;"Nkhotakota District";Nkhotakota;https://en.wikipedia.org/wiki/Nkhotakota_District;"28 districts"
+MW;NS;S;"Nsanje District";Nsanje;https://en.wikipedia.org/wiki/Nsanje_District;"28 districts"
+MW;NU;C;"Ntcheu District";Ntcheu;https://en.wikipedia.org/wiki/Ntcheu_District;"28 districts"
+MW;NI;C;"Ntchisi District";Ntchisi;https://en.wikipedia.org/wiki/Ntchisi_District;"28 districts"
+MW;PH;S;"Phalombe District";Phalombe;https://en.wikipedia.org/wiki/Phalombe_District;"28 districts"
+MW;RU;N;"Rumphi District";Rumphi;https://en.wikipedia.org/wiki/Rumphi_District;"28 districts"
+MW;SA;C;"Salima District";Salima;https://en.wikipedia.org/wiki/Salima_District;"28 districts"
+MW;TH;S;"Thyolo District";Thyolo;https://en.wikipedia.org/wiki/Thyolo_District;"28 districts"
+MW;ZO;S;"Zomba District";Zomba;https://en.wikipedia.org/wiki/Zomba_District;"28 districts"
+NP;BA;1;"Bagmati Zone";Bagmati;https://en.wikipedia.org/wiki/Bagmati_Zone;"14 zones"
+NP;BH;2;"Bheri Zone";Bheri;https://en.wikipedia.org/wiki/Bheri_Zone;"14 zones"
+NP;DH;3;"Dhawalagiri Zone";Dhawalagiri;https://en.wikipedia.org/wiki/Dhawalagiri_Zone;"14 zones"
+NP;GA;3;"Gandaki Zone";Gandaki;https://en.wikipedia.org/wiki/Gandaki_Zone;"14 zones"
+NP;JA;1;"Janakpur Zone";Janakpur;https://en.wikipedia.org/wiki/Janakpur_Zone;"14 zones"
+NP;KA;2;"Karnali Zone";Karnali;https://en.wikipedia.org/wiki/Karnali_Zone;"14 zones"
+NP;KO;4;"Kosi Zone";Kosi;https://en.wikipedia.org/wiki/Kosi_Zone;"14 zones"
+NP;LU;3;"Lumbini Zone";Lumbini;https://en.wikipedia.org/wiki/Lumbini_Zone;"14 zones"
+NP;MA;5;"Mahakali Zone";Mahakali;https://en.wikipedia.org/wiki/Mahakali_Zone;"14 zones"
+NP;ME;4;"Mechi Zone";Mechi;https://en.wikipedia.org/wiki/Mechi_Zone;"14 zones"
+NP;NA;1;"Narayani Zone";Narayani;https://en.wikipedia.org/wiki/Narayani_Zone;"14 zones"
+NP;RA;2;"Rapti Zone";Rapti;https://en.wikipedia.org/wiki/Rapti_Zone;"14 zones"
+NP;SA;4;"Sagarmatha Zone";Sagarmatha;https://en.wikipedia.org/wiki/Sagarmatha_Zone;"14 zones"
+NP;SE;5;"Seti Zone";Seti;https://en.wikipedia.org/wiki/Seti_Zone;"14 zones"
+PH;ABR;15;"Abra (province)";Abra;https://en.wikipedia.org/wiki/Abra_(province);"81 provinces"
+PH;AGN;13;"Agusan del Norte";"Agusan del Norte";https://en.wikipedia.org/wiki/Agusan_del_Norte;"81 provinces"
+PH;AGS;13;"Agusan del Sur";"Agusan del Sur";https://en.wikipedia.org/wiki/Agusan_del_Sur;"81 provinces"
+PH;AKL;06;Aklan;Aklan;https://en.wikipedia.org/wiki/Aklan;"81 provinces"
+PH;ALB;05;Albay;Albay;https://en.wikipedia.org/wiki/Albay;"81 provinces"
+PH;ANT;06;"Antique (province)";Antique;https://en.wikipedia.org/wiki/Antique_(province);"81 provinces"
+PH;APA;15;Apayao;Apayao;https://en.wikipedia.org/wiki/Apayao;"81 provinces"
+PH;AUR;03;"Aurora (province)";Aurora;https://en.wikipedia.org/wiki/Aurora_(province);"81 provinces"
+PH;BAS;"09  [note 1]";Basilan;Basilan;https://en.wikipedia.org/wiki/Basilan;"81 provinces"
+PH;BAN;03;Bataan;Bataan;https://en.wikipedia.org/wiki/Bataan;"81 provinces"
+PH;BTN;02;Batanes;Batanes;https://en.wikipedia.org/wiki/Batanes;"81 provinces"
+PH;BTG;40;Batangas;Batangas;https://en.wikipedia.org/wiki/Batangas;"81 provinces"
+PH;BEN;15;Benguet;Benguet;https://en.wikipedia.org/wiki/Benguet;"81 provinces"
+PH;BIL;08;Biliran;Biliran;https://en.wikipedia.org/wiki/Biliran;"81 provinces"
+PH;BOH;07;Bohol;Bohol;https://en.wikipedia.org/wiki/Bohol;"81 provinces"
+PH;BUK;10;Bukidnon;Bukidnon;https://en.wikipedia.org/wiki/Bukidnon;"81 provinces"
+PH;BUL;03;Bulacan;Bulacan;https://en.wikipedia.org/wiki/Bulacan;"81 provinces"
+PH;CAG;02;Cagayan;Cagayan;https://en.wikipedia.org/wiki/Cagayan;"81 provinces"
+PH;CAN;05;"Camarines Norte";"Camarines Norte";https://en.wikipedia.org/wiki/Camarines_Norte;"81 provinces"
+PH;CAS;05;"Camarines Sur";"Camarines Sur";https://en.wikipedia.org/wiki/Camarines_Sur;"81 provinces"
+PH;CAM;10;Camiguin;Camiguin;https://en.wikipedia.org/wiki/Camiguin;"81 provinces"
+PH;CAP;06;Capiz;Capiz;https://en.wikipedia.org/wiki/Capiz;"81 provinces"
+PH;CAT;05;Catanduanes;Catanduanes;https://en.wikipedia.org/wiki/Catanduanes;"81 provinces"
+PH;CAV;40;Cavite;Cavite;https://en.wikipedia.org/wiki/Cavite;"81 provinces"
+PH;CEB;07;Cebu;Cebu;https://en.wikipedia.org/wiki/Cebu;"81 provinces"
+PH;COM;11;"Compostela Valley";"Compostela Valley";https://en.wikipedia.org/wiki/Compostela_Valley;"81 provinces"
+PH;NCO;12;Cotabato;Cotabato;https://en.wikipedia.org/wiki/Cotabato;"81 provinces"
+PH;DAV;11;"Davao del Norte";"Davao del Norte";https://en.wikipedia.org/wiki/Davao_del_Norte;"81 provinces"
+PH;DAS;11;"Davao del Sur";"Davao del Sur";https://en.wikipedia.org/wiki/Davao_del_Sur;"81 provinces"
+PH;DVO;11;"Davao Occidental";"Davao Occidental";https://en.wikipedia.org/wiki/Davao_Occidental;"81 provinces"
+PH;DAO;11;"Davao Oriental";"Davao Oriental";https://en.wikipedia.org/wiki/Davao_Oriental;"81 provinces"
+PH;DIN;13;"Dinagat Islands";"Dinagat Islands";https://en.wikipedia.org/wiki/Dinagat_Islands;"81 provinces"
+PH;EAS;08;"Eastern Samar";"Eastern Samar";https://en.wikipedia.org/wiki/Eastern_Samar;"81 provinces"
+PH;GUI;06;Guimaras;Guimaras;https://en.wikipedia.org/wiki/Guimaras;"81 provinces"
+PH;IFU;15;Ifugao;Ifugao;https://en.wikipedia.org/wiki/Ifugao;"81 provinces"
+PH;ILN;01;"Ilocos Norte";"Ilocos Norte";https://en.wikipedia.org/wiki/Ilocos_Norte;"81 provinces"
+PH;ILS;01;"Ilocos Sur";"Ilocos Sur";https://en.wikipedia.org/wiki/Ilocos_Sur;"81 provinces"
+PH;ILI;06;Iloilo;Iloilo;https://en.wikipedia.org/wiki/Iloilo;"81 provinces"
+PH;ISA;02;"Isabela (province)";Isabela;https://en.wikipedia.org/wiki/Isabela_(province);"81 provinces"
+PH;KAL;15;"Kalinga (province)";Kalinga;https://en.wikipedia.org/wiki/Kalinga_(province);"81 provinces"
+PH;LUN;01;"La Union";"La Union";https://en.wikipedia.org/wiki/La_Union;"81 provinces"
+PH;LAG;40;"Laguna (province)";Laguna;https://en.wikipedia.org/wiki/Laguna_(province);"81 provinces"
+PH;LAN;"12  [note 2]";"Lanao del Norte";"Lanao del Norte";https://en.wikipedia.org/wiki/Lanao_del_Norte;"81 provinces"
+PH;LAS;14;"Lanao del Sur";"Lanao del Sur";https://en.wikipedia.org/wiki/Lanao_del_Sur;"81 provinces"
+PH;LEY;08;"Leyte (province)";Leyte;https://en.wikipedia.org/wiki/Leyte_(province);"81 provinces"
+PH;MAG;14;Maguindanao;Maguindanao;https://en.wikipedia.org/wiki/Maguindanao;"81 provinces"
+PH;MAD;41;Marinduque;Marinduque;https://en.wikipedia.org/wiki/Marinduque;"81 provinces"
+PH;MAS;05;Masbate;Masbate;https://en.wikipedia.org/wiki/Masbate;"81 provinces"
+PH;MDC;41;"Mindoro Occidental";"Mindoro Occidental";https://en.wikipedia.org/wiki/Mindoro_Occidental;"81 provinces"
+PH;MDR;41;"Mindoro Oriental";"Mindoro Oriental";https://en.wikipedia.org/wiki/Mindoro_Oriental;"81 provinces"
+PH;MSC;10;"Misamis Occidental";"Misamis Occidental";https://en.wikipedia.org/wiki/Misamis_Occidental;"81 provinces"
+PH;MSR;10;"Misamis Oriental";"Misamis Oriental";https://en.wikipedia.org/wiki/Misamis_Oriental;"81 provinces"
+PH;MOU;15;"Mountain Province";"Mountain Province";https://en.wikipedia.org/wiki/Mountain_Province;"81 provinces"
+PH;NEC;18;"Negros Occidental";"Negros Occidental";https://en.wikipedia.org/wiki/Negros_Occidental;"81 provinces"
+PH;NER;18;"Negros Oriental";"Negros Oriental";https://en.wikipedia.org/wiki/Negros_Oriental;"81 provinces"
+PH;NSA;08;"Northern Samar";"Northern Samar";https://en.wikipedia.org/wiki/Northern_Samar;"81 provinces"
+PH;NUE;03;"Nueva Ecija";"Nueva Ecija";https://en.wikipedia.org/wiki/Nueva_Ecija;"81 provinces"
+PH;NUV;02;"Nueva Vizcaya";"Nueva Vizcaya";https://en.wikipedia.org/wiki/Nueva_Vizcaya;"81 provinces"
+PH;PLW;41;Palawan;Palawan;https://en.wikipedia.org/wiki/Palawan;"81 provinces"
+PH;PAM;03;Pampanga;Pampanga;https://en.wikipedia.org/wiki/Pampanga;"81 provinces"
+PH;PAN;01;Pangasinan;Pangasinan;https://en.wikipedia.org/wiki/Pangasinan;"81 provinces"
+PH;QUE;40;Quezon;Quezon;https://en.wikipedia.org/wiki/Quezon;"81 provinces"
+PH;QUI;02;Quirino;Quirino;https://en.wikipedia.org/wiki/Quirino;"81 provinces"
+PH;RIZ;40;Rizal;Rizal;https://en.wikipedia.org/wiki/Rizal;"81 provinces"
+PH;ROM;41;Romblon;Romblon;https://en.wikipedia.org/wiki/Romblon;"81 provinces"
+PH;WSA;08;Samar;Samar;https://en.wikipedia.org/wiki/Samar;"81 provinces"
+PH;SAR;"11  [note 3]";Sarangani;Sarangani;https://en.wikipedia.org/wiki/Sarangani;"81 provinces"
+PH;SIG;07;Siquijor;Siquijor;https://en.wikipedia.org/wiki/Siquijor;"81 provinces"
+PH;SOR;05;Sorsogon;Sorsogon;https://en.wikipedia.org/wiki/Sorsogon;"81 provinces"
+PH;SCO;"11  [note 4]";"South Cotabato";"South Cotabato";https://en.wikipedia.org/wiki/South_Cotabato;"81 provinces"
+PH;SLE;08;"Southern Leyte";"Southern Leyte";https://en.wikipedia.org/wiki/Southern_Leyte;"81 provinces"
+PH;SUK;12;"Sultan Kudarat";"Sultan Kudarat";https://en.wikipedia.org/wiki/Sultan_Kudarat;"81 provinces"
+PH;SLU;14;"Sulu (province)";Sulu;https://en.wikipedia.org/wiki/Sulu_(province);"81 provinces"
+PH;SUN;13;"Surigao del Norte";"Surigao del Norte";https://en.wikipedia.org/wiki/Surigao_del_Norte;"81 provinces"
+PH;SUR;13;"Surigao del Sur";"Surigao del Sur";https://en.wikipedia.org/wiki/Surigao_del_Sur;"81 provinces"
+PH;TAR;03;Tarlac;Tarlac;https://en.wikipedia.org/wiki/Tarlac;"81 provinces"
+PH;TAW;14;Tawi-Tawi;Tawi-Tawi;https://en.wikipedia.org/wiki/Tawi-Tawi;"81 provinces"
+PH;ZMB;03;Zambales;Zambales;https://en.wikipedia.org/wiki/Zambales;"81 provinces"
+PH;ZAN;09;"Zamboanga del Norte";"Zamboanga del Norte";https://en.wikipedia.org/wiki/Zamboanga_del_Norte;"81 provinces"
+PH;ZAS;09;"Zamboanga del Sur";"Zamboanga del Sur";https://en.wikipedia.org/wiki/Zamboanga_del_Sur;"81 provinces"
+PH;ZSI;09;"Zamboanga Sibugay";"Zamboanga Sibugay";https://en.wikipedia.org/wiki/Zamboanga_Sibugay;"81 provinces"
+PS;BTH;"West Bank";"Bethlehem Governorate";Bethlehem;https://en.wikipedia.org/wiki/Bethlehem_Governorate;
+PS;DEB;"Gaza Strip";"Deir al-Balah Governorate";"Deir El Balah";https://en.wikipedia.org/wiki/Deir_al-Balah_Governorate;
+PS;GZA;"Gaza Strip";"Gaza Governorate";Gaza;https://en.wikipedia.org/wiki/Gaza_Governorate;
+PS;HBN;"West Bank";"Hebron Governorate";Hebron;https://en.wikipedia.org/wiki/Hebron_Governorate;
+PS;JEN;"West Bank";"Jenin Governorate";Jenin;https://en.wikipedia.org/wiki/Jenin_Governorate;
+PS;JRH;"West Bank";"Jericho Governorate";"Jericho and Al Aghwar";https://en.wikipedia.org/wiki/Jericho_Governorate;
+PS;JEM;"West Bank";"Jerusalem Governorate";Jerusalem;https://en.wikipedia.org/wiki/Jerusalem_Governorate;
+PS;KYS;"Gaza Strip";"Khan Yunis Governorate";"Khan Yunis";https://en.wikipedia.org/wiki/Khan_Yunis_Governorate;
+PS;NBS;"West Bank";"Nablus Governorate";Nablus;https://en.wikipedia.org/wiki/Nablus_Governorate;
+PS;NGZ;"Gaza Strip";"North Gaza Governorate";"North Gaza";https://en.wikipedia.org/wiki/North_Gaza_Governorate;
+PS;QQA;"West Bank";"Qalqilya Governorate";Qalqilya;https://en.wikipedia.org/wiki/Qalqilya_Governorate;
+PS;RFH;"Gaza Strip";"Rafah Governorate";Rafah;https://en.wikipedia.org/wiki/Rafah_Governorate;
+PS;RBH;"West Bank";"Ramallah and al-Bireh Governorate";Ramallah;https://en.wikipedia.org/wiki/Ramallah_and_al-Bireh_Governorate;
+PS;SLT;"West Bank";"Salfit Governorate";Salfit;https://en.wikipedia.org/wiki/Salfit_Governorate;
+PS;TBS;"West Bank";"Tubas Governorate";Tubas;https://en.wikipedia.org/wiki/Tubas_Governorate;
+PS;TKM;"West Bank";"Tulkarm Governorate";Tulkarm;https://en.wikipedia.org/wiki/Tulkarm_Governorate;
+RS;00;—;Beograd;Beograd;https://en.wikipedia.org/wiki/Beograd;city
+RS;14;—;"Borski okrug";"Borski okrug";https://en.wikipedia.org/wiki/Borski_okrug;district
+RS;11;—;"Braničevski okrug";"Braničevski okrug";https://en.wikipedia.org/wiki/Brani%C4%8Devski_okrug;district
+RS;23;—;"Jablanički okrug";"Jablanički okrug";https://en.wikipedia.org/wiki/Jablani%C4%8Dki_okrug;district
+RS;06;VO;"Južnobački okrug";"Južnobački okrug";https://en.wikipedia.org/wiki/Ju%C5%BEnoba%C4%8Dki_okrug;district
+RS;04;VO;"Južnobanatski okrug";"Južnobanatski okrug";https://en.wikipedia.org/wiki/Ju%C5%BEnobanatski_okrug;district
+RS;09;—;"Kolubarski okrug";"Kolubarski okrug";https://en.wikipedia.org/wiki/Kolubarski_okrug;district
+RS;25;KM;"Kosovski okrug";"Kosovski okrug";https://en.wikipedia.org/wiki/Kosovski_okrug;district
+RS;28;KM;"Kosovsko-Mitrovački okrug (Serbia)";"Kosovsko-Mitrovački okrug";https://en.wikipedia.org/wiki/Kosovsko-Mitrova%C4%8Dki_okrug_(Serbia);district
+RS;29;KM;"Kosovsko-Pomoravski okrug";"Kosovsko-Pomoravski okrug";https://en.wikipedia.org/wiki/Kosovsko-Pomoravski_okrug;district
+RS;08;—;"Mačvanski okrug";"Mačvanski okrug";https://en.wikipedia.org/wiki/Ma%C4%8Dvanski_okrug;district
+RS;17;—;"Moravički okrug";"Moravički okrug";https://en.wikipedia.org/wiki/Moravi%C4%8Dki_okrug;district
+RS;20;—;"Nišavski okrug";"Nišavski okrug";https://en.wikipedia.org/wiki/Ni%C5%A1avski_okrug;district
+RS;24;—;"Pčinjski okrug";"Pčinjski okrug";https://en.wikipedia.org/wiki/P%C4%8Dinjski_okrug;district
+RS;26;KM;"Pećki okrug (Serbia)";"Pećki okrug";https://en.wikipedia.org/wiki/Pe%C4%87ki_okrug_(Serbia);district
+RS;22;—;"Pirotski okrug";"Pirotski okrug";https://en.wikipedia.org/wiki/Pirotski_okrug;district
+RS;10;—;"Podunavski okrug";"Podunavski okrug";https://en.wikipedia.org/wiki/Podunavski_okrug;district
+RS;13;—;"Pomoravski okrug";"Pomoravski okrug";https://en.wikipedia.org/wiki/Pomoravski_okrug;district
+RS;27;KM;"Prizrenski okrug (Serbia)";"Prizrenski okrug";https://en.wikipedia.org/wiki/Prizrenski_okrug_(Serbia);district
+RS;19;—;"Rasinski okrug";"Rasinski okrug";https://en.wikipedia.org/wiki/Rasinski_okrug;district
+RS;18;—;"Raški okrug";"Raški okrug";https://en.wikipedia.org/wiki/Ra%C5%A1ki_okrug;district
+RS;01;VO;"Severnobački okrug";"Severnobački okrug";https://en.wikipedia.org/wiki/Severnoba%C4%8Dki_okrug;district
+RS;03;VO;"Severnobanatski okrug";"Severnobanatski okrug";https://en.wikipedia.org/wiki/Severnobanatski_okrug;district
+RS;02;VO;"Srednjebanatski okrug";"Srednjebanatski okrug";https://en.wikipedia.org/wiki/Srednjebanatski_okrug;district
+RS;07;VO;"Sremski okrug";"Sremski okrug";https://en.wikipedia.org/wiki/Sremski_okrug;district
+RS;12;—;"Šumadijski okrug";"Šumadijski okrug";https://en.wikipedia.org/wiki/%C5%A0umadijski_okrug;district
+RS;21;—;"Toplički okrug";"Toplički okrug";https://en.wikipedia.org/wiki/Topli%C4%8Dki_okrug;district
+RS;15;—;"Zaječarski okrug";"Zaječarski okrug";https://en.wikipedia.org/wiki/Zaje%C4%8Darski_okrug;district
+RS;05;VO;"Zapadnobački okrug";"Zapadnobački okrug";https://en.wikipedia.org/wiki/Zapadnoba%C4%8Dki_okrug;district
+RS;16;—;"Zlatiborski okrug";"Zlatiborski okrug";https://en.wikipedia.org/wiki/Zlatiborski_okrug;district
+UG;317;N;"Abim District";Abim;https://en.wikipedia.org/wiki/Abim_District;district
+UG;301;N;"Adjumani District";Adjumani;https://en.wikipedia.org/wiki/Adjumani_District;district
+UG;322;N;"Agago District";Agago;https://en.wikipedia.org/wiki/Agago_District;district
+UG;323;N;"Alebtong District";Alebtong;https://en.wikipedia.org/wiki/Alebtong_District;district
+UG;314;N;"Amolatar District";Amolatar;https://en.wikipedia.org/wiki/Amolatar_District;district
+UG;324;N;"Amudat District";Amudat;https://en.wikipedia.org/wiki/Amudat_District;district
+UG;216;E;"Amuria District";Amuria;https://en.wikipedia.org/wiki/Amuria_District;district
+UG;319;N;"Amuru District";Amuru;https://en.wikipedia.org/wiki/Amuru_District;district
+UG;302;N;"Apac District";Apac;https://en.wikipedia.org/wiki/Apac_District;district
+UG;303;N;"Arua District";Arua;https://en.wikipedia.org/wiki/Arua_District;district
+UG;217;E;"Budaka District";Budaka;https://en.wikipedia.org/wiki/Budaka_District;district
+UG;223;E;"Bududa District";Bududa;https://en.wikipedia.org/wiki/Bududa_District;district
+UG;201;E;"Bugiri District";Bugiri;https://en.wikipedia.org/wiki/Bugiri_District;district
+UG;325;N;"Buhweju District";Buhweju;https://en.wikipedia.org/wiki/Buhweju_District;district
+UG;117;C;"Buikwe District";Buikwe;https://en.wikipedia.org/wiki/Buikwe_District;district
+UG;224;E;"Bukedea District";Bukedea;https://en.wikipedia.org/wiki/Bukedea_District;district
+UG;118;C;"Bukomansimbi District";Bukomansibi;https://en.wikipedia.org/wiki/Bukomansimbi_District;district
+UG;218;E;"Bukwa District";Bukwa;https://en.wikipedia.org/wiki/Bukwa_District;district
+UG;225;E;"Bulambuli District";Bulambuli;https://en.wikipedia.org/wiki/Bulambuli_District;district
+UG;419;W;"Buliisa District";Buliisa;https://en.wikipedia.org/wiki/Buliisa_District;district
+UG;401;W;"Bundibugyo District";Bundibugyo;https://en.wikipedia.org/wiki/Bundibugyo_District;district
+UG;402;W;"Bushenyi District";Bushenyi;https://en.wikipedia.org/wiki/Bushenyi_District;district
+UG;202;E;"Busia District";Busia;https://en.wikipedia.org/wiki/Busia_District;district
+UG;219;E;"Butaleja District";Butaleja;https://en.wikipedia.org/wiki/Butaleja_District;district
+UG;119;C;"Butambala District";Butambala;https://en.wikipedia.org/wiki/Butambala_District;district
+UG;120;C;"Buvuma District";Buvuma;https://en.wikipedia.org/wiki/Buvuma_District;district
+UG;226;E;"Buyende District";Buyende;https://en.wikipedia.org/wiki/Buyende_District;district
+UG;318;N;"Dokolo District";Dokolo;https://en.wikipedia.org/wiki/Dokolo_District;district
+UG;121;C;"Gomba District";Gomba;https://en.wikipedia.org/wiki/Gomba_District;district
+UG;304;N;"Gulu District";Gulu;https://en.wikipedia.org/wiki/Gulu_District;district
+UG;403;W;"Hoima District";Hoima;https://en.wikipedia.org/wiki/Hoima_District;district
+UG;416;W;"Ibanda District";Ibanda;https://en.wikipedia.org/wiki/Ibanda_District;district
+UG;203;E;"Iganga District";Iganga;https://en.wikipedia.org/wiki/Iganga_District;district
+UG;417;W;"Isingiro District";Isingiro;https://en.wikipedia.org/wiki/Isingiro_District;district
+UG;204;E;"Jinja District";Jinja;https://en.wikipedia.org/wiki/Jinja_District;district
+UG;315;N;"Kaabong District";Kaabong;https://en.wikipedia.org/wiki/Kaabong_District;district
+UG;404;W;"Kabale District";Kabale;https://en.wikipedia.org/wiki/Kabale_District;district
+UG;405;W;"Kabarole District";Kabarole;https://en.wikipedia.org/wiki/Kabarole_District;district
+UG;213;E;"Kaberamaido District";Kaberamaido;https://en.wikipedia.org/wiki/Kaberamaido_District;district
+UG;101;C;"Kalangala District";Kalangala;https://en.wikipedia.org/wiki/Kalangala_District;district
+UG;220;E;"Kaliro District";Kaliro;https://en.wikipedia.org/wiki/Kaliro_District;district
+UG;122;C;"Kalungu District";Kalungu;https://en.wikipedia.org/wiki/Kalungu_District;district
+UG;102;C;"Kampala District";Kampala;https://en.wikipedia.org/wiki/Kampala_District;city
+UG;205;E;"Kamuli District";Kamuli;https://en.wikipedia.org/wiki/Kamuli_District;district
+UG;413;W;"Kamwenge District";Kamwenge;https://en.wikipedia.org/wiki/Kamwenge_District;district
+UG;414;W;"Kanungu District";Kanungu;https://en.wikipedia.org/wiki/Kanungu_District;district
+UG;206;E;"Kapchorwa District";Kapchorwa;https://en.wikipedia.org/wiki/Kapchorwa_District;district
+UG;406;W;"Kasese District";Kasese;https://en.wikipedia.org/wiki/Kasese_District;district
+UG;207;E;"Katakwi District";Katakwi;https://en.wikipedia.org/wiki/Katakwi_District;district
+UG;112;C;"Kayunga District";Kayunga;https://en.wikipedia.org/wiki/Kayunga_District;district
+UG;407;W;"Kibaale District";Kibaale;https://en.wikipedia.org/wiki/Kibaale_District;district
+UG;103;C;"Kiboga District";Kiboga;https://en.wikipedia.org/wiki/Kiboga_District;district
+UG;227;E;"Kibuku District";Kibuku;https://en.wikipedia.org/wiki/Kibuku_District;district
+UG;418;W;"Kiruhura District";Kiruhura;https://en.wikipedia.org/wiki/Kiruhura_District;district
+UG;420;W;"Kiryandongo District";Kiryandongo;https://en.wikipedia.org/wiki/Kiryandongo_District;district
+UG;408;W;"Kisoro District";Kisoro;https://en.wikipedia.org/wiki/Kisoro_District;district
+UG;305;N;"Kitgum District";Kitgum;https://en.wikipedia.org/wiki/Kitgum_District;district
+UG;316;N;"Koboko District";Koboko;https://en.wikipedia.org/wiki/Koboko_District;district
+UG;326;N;"Kole District";Kole;https://en.wikipedia.org/wiki/Kole_District;district
+UG;306;N;"Kotido District";Kotido;https://en.wikipedia.org/wiki/Kotido_District;district
+UG;208;E;"Kumi District";Kumi;https://en.wikipedia.org/wiki/Kumi_District;district
+UG;228;E;"Kween District";Kween;https://en.wikipedia.org/wiki/Kween_District;district
+UG;123;C;"Kyankwanzi District";Kyankwanzi;https://en.wikipedia.org/wiki/Kyankwanzi_District;district
+UG;421;W;"Kyegegwa District";Kyegegwa;https://en.wikipedia.org/wiki/Kyegegwa_District;district
+UG;415;W;"Kyenjojo District";Kyenjojo;https://en.wikipedia.org/wiki/Kyenjojo_District;district
+UG;327;N;"Lamwo District";Lamwo;https://en.wikipedia.org/wiki/Lamwo_District;district
+UG;307;N;"Lira District";Lira;https://en.wikipedia.org/wiki/Lira_District;district
+UG;229;E;"Luuka District";Luuka;https://en.wikipedia.org/wiki/Luuka_District;district
+UG;104;C;"Luwero District";Luwero;https://en.wikipedia.org/wiki/Luwero_District;district
+UG;124;C;"Lwengo District";Lwengo;https://en.wikipedia.org/wiki/Lwengo_District;district
+UG;116;C;"Lyantonde District";Lyantonde;https://en.wikipedia.org/wiki/Lyantonde_District;district
+UG;221;E;"Manafwa District";Manafwa;https://en.wikipedia.org/wiki/Manafwa_District;district
+UG;320;N;"Maracha District";Maracha;https://en.wikipedia.org/wiki/Maracha_District;district
+UG;105;C;"Masaka District";Masaka;https://en.wikipedia.org/wiki/Masaka_District;district
+UG;409;W;"Masindi District";Masindi;https://en.wikipedia.org/wiki/Masindi_District;district
+UG;214;E;"Mayuge District";Mayuge;https://en.wikipedia.org/wiki/Mayuge_District;district
+UG;209;E;"Mbale District";Mbale;https://en.wikipedia.org/wiki/Mbale_District;district
+UG;410;W;"Mbarara District";Mbarara;https://en.wikipedia.org/wiki/Mbarara_District;district
+UG;422;W;"Mitooma District";Mitooma;https://en.wikipedia.org/wiki/Mitooma_District;district
+UG;114;C;"Mityana District";Mityana;https://en.wikipedia.org/wiki/Mityana_District;district
+UG;308;N;"Moroto District";Moroto;https://en.wikipedia.org/wiki/Moroto_District;district
+UG;309;N;"Moyo District";Moyo;https://en.wikipedia.org/wiki/Moyo_District;district
+UG;106;C;"Mpigi District";Mpigi;https://en.wikipedia.org/wiki/Mpigi_District;district
+UG;107;C;"Mubende District";Mubende;https://en.wikipedia.org/wiki/Mubende_District;district
+UG;108;C;"Mukono District";Mukono;https://en.wikipedia.org/wiki/Mukono_District;district
+UG;311;N;"Nakapiripirit District";Nakapiripirit;https://en.wikipedia.org/wiki/Nakapiripirit_District;district
+UG;115;C;"Nakaseke District";Nakaseke;https://en.wikipedia.org/wiki/Nakaseke_District;district
+UG;109;C;"Nakasongola District";Nakasongola;https://en.wikipedia.org/wiki/Nakasongola_District;district
+UG;230;E;"Namayingo District";Namayingo;https://en.wikipedia.org/wiki/Namayingo_District;district
+UG;222;E;"Namutumba District";Namutumba;https://en.wikipedia.org/wiki/Namutumba_District;district
+UG;328;N;"Napak District";Napak;https://en.wikipedia.org/wiki/Napak_District;district
+UG;310;N;"Nebbi District";Nebbi;https://en.wikipedia.org/wiki/Nebbi_District;district
+UG;231;E;"Ngora District";Ngora;https://en.wikipedia.org/wiki/Ngora_District;district
+UG;423;W;"Ntoroko District";Ntoroko;https://en.wikipedia.org/wiki/Ntoroko_District;district
+UG;411;W;"Ntungamo District";Ntungamo;https://en.wikipedia.org/wiki/Ntungamo_District;district
+UG;329;N;"Nwoya District";Nwoya;https://en.wikipedia.org/wiki/Nwoya_District;district
+UG;330;N;"Otuke District";Otuke;https://en.wikipedia.org/wiki/Otuke_District;district
+UG;321;N;"Oyam District";Oyam;https://en.wikipedia.org/wiki/Oyam_District;district
+UG;312;N;"Pader District";Pader;https://en.wikipedia.org/wiki/Pader_District;district
+UG;210;E;"Pallisa District";Pallisa;https://en.wikipedia.org/wiki/Pallisa_District;district
+UG;110;C;"Rakai District";Rakai;https://en.wikipedia.org/wiki/Rakai_District;district
+UG;424;W;"Rubirizi District";Rubirizi;https://en.wikipedia.org/wiki/Rubirizi_District;district
+UG;412;W;"Rukungiri District";Rukungiri;https://en.wikipedia.org/wiki/Rukungiri_District;district
+UG;111;C;"Sembabule District";Sembabule;https://en.wikipedia.org/wiki/Sembabule_District;district
+UG;232;E;"Serere District";Serere;https://en.wikipedia.org/wiki/Serere_District;district
+UG;425;W;"Sheema District";Sheema;https://en.wikipedia.org/wiki/Sheema_District;district
+UG;215;E;"Sironko District";Sironko;https://en.wikipedia.org/wiki/Sironko_District;district
+UG;211;E;"Soroti District";Soroti;https://en.wikipedia.org/wiki/Soroti_District;district
+UG;212;E;"Tororo District";Tororo;https://en.wikipedia.org/wiki/Tororo_District;district
+UG;113;C;"Wakiso District";Wakiso;https://en.wikipedia.org/wiki/Wakiso_District;district
+UG;313;N;"Yumbe District";Yumbe;https://en.wikipedia.org/wiki/Yumbe_District;district
+UG;331;N;"Zombo District";Zombo;https://en.wikipedia.org/wiki/Zombo_District;district

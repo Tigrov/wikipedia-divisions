@@ -1,0 +1,17 @@
+{
+    "name": "tigrov/wikipedia-divisions",
+    "description": "Parser for country divisions from Wikipedia.",
+    "keywords": ["wikipedia", "region", "state", "province", "division", "subdivision"],
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/tigrov/wikipedia-divisions"
+    },
+    "authors": [
+        {
+            "name": "Sergei Tigrov",
+            "email": "rrr-r@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
