@@ -32,6 +32,7 @@ foreach ($countryLinks as $countryCode => $isoData) {
      * @var simple_html_dom_node $table
      * @var simple_html_dom_node[] $trNodes
      * @var simple_html_dom_node[] $tdNodes
+     * @var simple_html_dom_node $codeNode
      * @var simple_html_dom_node $typeNode
      * @var simple_html_dom_node $url
      */
@@ -50,7 +51,9 @@ foreach ($countryLinks as $countryCode => $isoData) {
 
         foreach ($trNodes as $tr) {
             $tdNodes = $tr->childNodes();
-            list(, $isoCode) = explode('-', $tdNodes[0]->text());
+            $codeNode = $tdNodes[0]->find('[style*=monospace]') ?: $tdNodes[0];
+
+            list(, $isoCode) = explode('-', $codeNode->text());
 
             $row = [$countryCode, $isoCode];
 
@@ -86,19 +89,24 @@ foreach ($countryLinks as $countryCode => $isoData) {
 
         foreach ($trNodes as $tr) {
             $tdNodes = $tr->childNodes();
-            $parentIso = $tdNodes[$parentIndex]->text();
+            $codeNode = $tdNodes[$parentIndex]->find('[style*=monospace]') ?: $tdNodes[$parentIndex];
+            $parentIso = $codeNode->text();
             if (strpos($parentIso, '-')) {
                 list(, $parentIso) = explode('-', $parentIso);
             }
-            list(, $isoCode) = explode('-', $tdNodes[0]->text());
+
+            $codeNode = $tdNodes[0]->find('[style*=monospace]') ?: $tdNodes[0];
+            list(, $isoCode) = explode('-', $codeNode->text());
 
             $row = [$countryCode, $isoCode, $parentIso];
 
             if ($url = $tr->find('a[title]', 0)) {
+                RemoveHidden($url);
                 $row[] = $url->title;
                 $row[] = $url->text();
                 $row[] = 'https://en.wikipedia.org' . $url->href;
             } else {
+                RemoveHidden($tdNodes[1]);
                 $name = $tdNodes[1]->text();
                 $row[] = $name;
                 $row[] = $name;
@@ -179,6 +187,18 @@ function GetTypeIndex($node) {
     }
 
     return null;
+}
+
+/**
+ * @param simple_html_dom_node $node
+ */
+function RemoveHidden($node) {
+    /**
+     * @var simple_html_dom_node $hidden
+     */
+    if ($hidden = $node->find('[style=display:none;]')) {
+        $hidden->outertext = '';
+    }
 }
 
 /**

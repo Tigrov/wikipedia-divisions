@@ -404,12 +404,12 @@ CF;KB;Gribingui;Gribingui;https://en.wikipedia.org/wiki/Gribingui;"economic pref
 CF;SE;"Sangha (economic prefecture)";Sangha;https://en.wikipedia.org/wiki/Sangha_(economic_prefecture);"economic prefecture"
 CG;BZV;Brazzaville;Brazzaville;https://en.wikipedia.org/wiki/Brazzaville;department
 CG;11;"Bouenza Department";Bouenza;https://en.wikipedia.org/wiki/Bouenza_Department;department
-CG;"08 ! CG";"Cuvette Department";Cuvette;https://en.wikipedia.org/wiki/Cuvette_Department;department
+CG;"8";"Cuvette Department";Cuvette;https://en.wikipedia.org/wiki/Cuvette_Department;department
 CG;15;"Cuvette-Ouest Department";Cuvette-Ouest;https://en.wikipedia.org/wiki/Cuvette-Ouest_Department;department
-CG;"05 ! CG";"Kouilou Department";Kouilou;https://en.wikipedia.org/wiki/Kouilou_Department;department
-CG;"02 ! CG";"Lékoumou Department";Lékoumou;https://en.wikipedia.org/wiki/L%C3%A9koumou_Department;department
-CG;"07 ! CG";"Likouala Department";Likouala;https://en.wikipedia.org/wiki/Likouala_Department;department
-CG;"09 ! CG";"Niari Department";Niari;https://en.wikipedia.org/wiki/Niari_Department;department
+CG;"5";"Kouilou Department";Kouilou;https://en.wikipedia.org/wiki/Kouilou_Department;department
+CG;"2";"Lékoumou Department";Lékoumou;https://en.wikipedia.org/wiki/L%C3%A9koumou_Department;department
+CG;"7";"Likouala Department";Likouala;https://en.wikipedia.org/wiki/Likouala_Department;department
+CG;"9";"Niari Department";Niari;https://en.wikipedia.org/wiki/Niari_Department;department
 CG;14;"Plateaux Department (Congo)";Plateaux;https://en.wikipedia.org/wiki/Plateaux_Department_(Congo);department
 CG;16;"Pointe-Noire Department";Pointe-Noire;https://en.wikipedia.org/wiki/Pointe-Noire_Department;department
 CG;12;"Pool Department";Pool;https://en.wikipedia.org/wiki/Pool_Department;department
@@ -1278,15 +1278,15 @@ KG;O;"Osh Region";Osh;https://en.wikipedia.org/wiki/Osh_Region;region
 KG;T;"Talas Region";Talas;https://en.wikipedia.org/wiki/Talas_Region;region
 KG;Y;"Ysyk-Köl Region";Ysyk-Köl;https://en.wikipedia.org/wiki/Ysyk-K%C3%B6l_Region;region
 KH;12;"Phnom Penh";"Phnom Penh";https://en.wikipedia.org/wiki/Phnom_Penh;"autonomous municipality"
-KH;"02 ! KH";"Baat Dambang Province";"Baat Dambang";https://en.wikipedia.org/wiki/Baat_Dambang_Province;province
-KH;"01 ! KH";"Banteay Mean Chey Province";"Banteay Mean Chey";https://en.wikipedia.org/wiki/Banteay_Mean_Chey_Province;province
-KH;"03 ! KH";"Kampong Chaam Province";"Kampong Chaam";https://en.wikipedia.org/wiki/Kampong_Chaam_Province;province
-KH;"04 ! KH";"Kampong Chhnang Province";"Kampong Chhnang";https://en.wikipedia.org/wiki/Kampong_Chhnang_Province;province
-KH;"05 ! KH";"Kampong Spueu Province";"Kampong Spueu";https://en.wikipedia.org/wiki/Kampong_Spueu_Province;province
-KH;"06 ! KH";"Kampong Thum Province";"Kampong Thum";https://en.wikipedia.org/wiki/Kampong_Thum_Province;province
-KH;"07 ! KH";"Kampot Province";Kampot;https://en.wikipedia.org/wiki/Kampot_Province;province
-KH;"08 ! KH";"Kandaal Province";Kandaal;https://en.wikipedia.org/wiki/Kandaal_Province;province
-KH;"09 ! KH";"Kaoh Kong Province";"Kaoh Kong";https://en.wikipedia.org/wiki/Kaoh_Kong_Province;province
+KH;"2";"Baat Dambang Province";"Baat Dambang";https://en.wikipedia.org/wiki/Baat_Dambang_Province;province
+KH;"1";"Banteay Mean Chey Province";"Banteay Mean Chey";https://en.wikipedia.org/wiki/Banteay_Mean_Chey_Province;province
+KH;"3";"Kampong Chaam Province";"Kampong Chaam";https://en.wikipedia.org/wiki/Kampong_Chaam_Province;province
+KH;"4";"Kampong Chhnang Province";"Kampong Chhnang";https://en.wikipedia.org/wiki/Kampong_Chhnang_Province;province
+KH;"5";"Kampong Spueu Province";"Kampong Spueu";https://en.wikipedia.org/wiki/Kampong_Spueu_Province;province
+KH;"6";"Kampong Thum Province";"Kampong Thum";https://en.wikipedia.org/wiki/Kampong_Thum_Province;province
+KH;"7";"Kampot Province";Kampot;https://en.wikipedia.org/wiki/Kampot_Province;province
+KH;"8";"Kandaal Province";Kandaal;https://en.wikipedia.org/wiki/Kandaal_Province;province
+KH;"9";"Kaoh Kong Province";"Kaoh Kong";https://en.wikipedia.org/wiki/Kaoh_Kong_Province;province
 KH;10;"Kracheh Province";Kracheh;https://en.wikipedia.org/wiki/Kracheh_Province;province
 KH;23;"Krong Kaeb";"Krong Kaeb";https://en.wikipedia.org/wiki/Krong_Kaeb;province
 KH;24;"Krong Pailin";"Krong Pailin";https://en.wikipedia.org/wiki/Krong_Pailin;province
@@ -1800,7 +1800,7 @@ MM;15;"Mon State";Mon;https://en.wikipedia.org/wiki/Mon_State;state
 MM;16;"Rakhine State";Rakhine;https://en.wikipedia.org/wiki/Rakhine_State;state
 MM;17;"Shan State";Shan;https://en.wikipedia.org/wiki/Shan_State;state
 MM;18;"Naypyidaw Union Territory";"Nay Pyi Taw";https://en.wikipedia.org/wiki/Naypyidaw_Union_Territory;"union territory"
-MN;"001 ! MN";Ulaanbaatar;Ulaanbaatar;https://en.wikipedia.org/wiki/Ulaanbaatar;"capital city"
+MN;1;Ulaanbaatar;Ulaanbaatar;https://en.wikipedia.org/wiki/Ulaanbaatar;"capital city"
 MN;073;"Arhangay Province";Arhangay;https://en.wikipedia.org/wiki/Arhangay_Province;province
 MN;069;"Bayanhongor Province";Bayanhongor;https://en.wikipedia.org/wiki/Bayanhongor_Province;province
 MN;071;"Bayan-Ölgiy Province";Bayan-Ölgiy;https://en.wikipedia.org/wiki/Bayan-%C3%96lgiy_Province;province
@@ -2308,19 +2308,19 @@ PY;16;"Departamento de Alto Paraguay";;https://en.wikipedia.org/wiki/File:Bander
 PY;10;"Departamento de Alto Paraná";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Alto_Parana.jpg;department
 PY;13;"Departamento de Amambay";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Amambay.JPG;department
 PY;19;"Departamento de Boquerón";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Boquer%C3%B3n.svg;department
-PY;"05 ! PY";"Departamento de Caaguazú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Caaguaz%C3%BA.JPG;department
-PY;"06 ! PY";"Departamento de Caazapá";;https://en.wikipedia.org/wiki/File:Flag_of_Caazap%C3%A1_Department.svg;department
+PY;"5";"Departamento de Caaguazú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Caaguaz%C3%BA.JPG;department
+PY;"6";"Departamento de Caazapá";;https://en.wikipedia.org/wiki/File:Flag_of_Caazap%C3%A1_Department.svg;department
 PY;14;"Departamento de Canindeyú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Canindey%C3%BA.JPG;department
 PY;11;"Departamento Central";;https://en.wikipedia.org/wiki/File:Cenflag.PNG;department
-PY;"01 ! PY";"Departamento de Concepción";;https://en.wikipedia.org/wiki/File:Flag_of_Concepci%C3%B3n_Department.svg;department
-PY;"03 ! PY";"Departamento de Cordillera";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Cordillera.JPG;department
-PY;"04 ! PY";"Departamento de Guairá";;https://en.wikipedia.org/wiki/File:Flag_of_Guair%C3%A1_Department.svg;department
-PY;"07 ! PY";"Departamento de Itapúa";;https://en.wikipedia.org/wiki/File:Itapflag.PNG;department
-PY;"08 ! PY";"Departamento de Misiones";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Misiones.JPG;department
+PY;"1";"Departamento de Concepción";;https://en.wikipedia.org/wiki/File:Flag_of_Concepci%C3%B3n_Department.svg;department
+PY;"3";"Departamento de Cordillera";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Cordillera.JPG;department
+PY;"4";"Departamento de Guairá";;https://en.wikipedia.org/wiki/File:Flag_of_Guair%C3%A1_Department.svg;department
+PY;"7";"Departamento de Itapúa";;https://en.wikipedia.org/wiki/File:Itapflag.PNG;department
+PY;"8";"Departamento de Misiones";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Misiones.JPG;department
 PY;12;"Departamento de Ñeembucú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_%C3%91eembuc%C3%BA.JPG;department
-PY;"09 ! PY";"Departamento de Paraguarí";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Paraguar%C3%AD.JPG;department
+PY;"9";"Departamento de Paraguarí";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Paraguar%C3%AD.JPG;department
 PY;15;"Departamento de Presidente Hayes";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Presidente_Hayes.JPG;department
-PY;"02 ! PY";"Departamento de San Pedro";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_San_Pedro.JPG;department
+PY;"2";"Departamento de San Pedro";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_San_Pedro.JPG;department
 QA;DA;"Ad Dawḩah";"Ad Dawḩah";https://en.wikipedia.org/wiki/Ad_Daw%E1%B8%A9ah;municipalities
 QA;KH;"Al Khawr (municipality)";"Al Khawr wa adh Dhakhīrah";https://en.wikipedia.org/wiki/Al_Khawr_(municipality);municipalities
 QA;WA;"Al Wakrah";"Al Wakrah";https://en.wikipedia.org/wiki/Al_Wakrah;municipalities
