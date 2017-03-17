@@ -816,28 +816,6 @@ FM;TRK;"Chuuk State";Chuuk;https://en.wikipedia.org/wiki/Chuuk_State;states
 FM;KSA;Kosrae;Kosrae;https://en.wikipedia.org/wiki/Kosrae;states
 FM;PNI;"Pohnpei State";Pohnpei;https://en.wikipedia.org/wiki/Pohnpei_State;states
 FM;YAP;"Yap State";Yap;https://en.wikipedia.org/wiki/Yap_State;states
-FR;A;Alsace;Alsace;https://en.wikipedia.org/wiki/Alsace;"metropolitan regions"
-FR;B;Aquitaine;Aquitaine;https://en.wikipedia.org/wiki/Aquitaine;"metropolitan regions"
-FR;C;Auvergne;Auvergne;https://en.wikipedia.org/wiki/Auvergne;"metropolitan regions"
-FR;P;"Lower Normandy";Basse-Normandie;https://en.wikipedia.org/wiki/Lower_Normandy;"metropolitan regions"
-FR;D;Burgundy;Bourgogne;https://en.wikipedia.org/wiki/Burgundy;"metropolitan regions"
-FR;E;Brittany;Bretagne;https://en.wikipedia.org/wiki/Brittany;"metropolitan regions"
-FR;F;"Centre-Val de Loire";Centre;https://en.wikipedia.org/wiki/Centre-Val_de_Loire;"metropolitan regions"
-FR;G;Champagne-Ardenne;Champagne-Ardenne;https://en.wikipedia.org/wiki/Champagne-Ardenne;"metropolitan regions"
-FR;H;Corsica;Corse;https://en.wikipedia.org/wiki/Corsica;"metropolitan regions"
-FR;I;Franche-Comté;Franche-Comté;https://en.wikipedia.org/wiki/Franche-Comt%C3%A9;"metropolitan regions"
-FR;Q;"Upper Normandy";Haute-Normandie;https://en.wikipedia.org/wiki/Upper_Normandy;"metropolitan regions"
-FR;J;Île-de-France;Île-de-France;https://en.wikipedia.org/wiki/%C3%8Ele-de-France;"metropolitan regions"
-FR;K;Languedoc-Roussillon;Languedoc-Roussillon;https://en.wikipedia.org/wiki/Languedoc-Roussillon;"metropolitan regions"
-FR;L;Limousin;Limousin;https://en.wikipedia.org/wiki/Limousin;"metropolitan regions"
-FR;M;"Lorraine (region)";Lorraine;https://en.wikipedia.org/wiki/Lorraine_(region);"metropolitan regions"
-FR;N;Midi-Pyrénées;Midi-Pyrénées;https://en.wikipedia.org/wiki/Midi-Pyr%C3%A9n%C3%A9es;"metropolitan regions"
-FR;O;Nord-Pas-de-Calais;Nord-Pas-de-Calais;https://en.wikipedia.org/wiki/Nord-Pas-de-Calais;"metropolitan regions"
-FR;R;"Pays de la Loire";"Pays de la Loire";https://en.wikipedia.org/wiki/Pays_de_la_Loire;"metropolitan regions"
-FR;S;Picardy;Picardie;https://en.wikipedia.org/wiki/Picardy;"metropolitan regions"
-FR;T;Poitou-Charentes;Poitou-Charentes;https://en.wikipedia.org/wiki/Poitou-Charentes;"metropolitan regions"
-FR;U;"Provence-Alpes-Côte d'Azur";"Provence-Alpes-Côte d'Azur";https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur;"metropolitan regions"
-FR;V;Rhône-Alpes;Rhône-Alpes;https://en.wikipedia.org/wiki/Rh%C3%B4ne-Alpes;"metropolitan regions"
 GA;1;"Estuaire Province";Estuaire;https://en.wikipedia.org/wiki/Estuaire_Province;provinces
 GA;2;"Haut-Ogooué Province";Haut-Ogooué;https://en.wikipedia.org/wiki/Haut-Ogoou%C3%A9_Province;provinces
 GA;3;"Moyen-Ogooué Province";Moyen-Ogooué;https://en.wikipedia.org/wiki/Moyen-Ogoou%C3%A9_Province;provinces
@@ -3504,3 +3482,16 @@ ZW;MV;"Masvingo Province";Masvingo;https://en.wikipedia.org/wiki/Masvingo_Provin
 ZW;MN;"Matabeleland North Province";"Matabeleland North";https://en.wikipedia.org/wiki/Matabeleland_North_Province;provinces
 ZW;MS;"Matabeleland South Province";"Matabeleland South";https://en.wikipedia.org/wiki/Matabeleland_South_Province;provinces
 ZW;MI;"Midlands Province";Midlands;https://en.wikipedia.org/wiki/Midlands_Province;provinces
+FR;ARA;"Auvergne-Rhône-Alpes";"Auvergne-Rhône-Alpes";https://fr.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes;"metropolitan region"
+FR;BFC;"Bourgogne-Franche-Comté";"Bourgogne-Franche-Comté";https://fr.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9;"metropolitan region"
+FR;BRE;Bretagne;Bretagne;https://fr.wikipedia.org/wiki/Bretagne;"metropolitan region"
+FR;CVL;"Centre-Val de Loire";"Centre-Val de Loire";https://fr.wikipedia.org/wiki/Centre-Val_de_Loire;"metropolitan region"
+FR;COR;Corse;Corse;https://fr.wikipedia.org/wiki/Corse;"metropolitan region"
+FR;GES;"Grand Est";"Grand Est";https://fr.wikipedia.org/wiki/Grand_Est;"metropolitan region"
+FR;HDF;Hauts-de-France;Hauts-de-France;https://fr.wikipedia.org/wiki/Hauts-de-France;"metropolitan region"
+FR;IDF;Île-de-France;Île-de-France;https://fr.wikipedia.org/wiki/%C3%8Ele-de-France;"metropolitan region"
+FR;NOR;Normandie;Normandie;https://fr.wikipedia.org/wiki/Normandie;"metropolitan region"
+FR;NAQ;Nouvelle-Aquitaine;Nouvelle-Aquitaine;https://fr.wikipedia.org/wiki/Nouvelle-Aquitaine;"metropolitan region"
+FR;OCC;"Occitanie (région administrative)";Occitanie;https://fr.wikipedia.org/wiki/Occitanie_(r%C3%A9gion_administrative);"metropolitan region"
+FR;PDL;"Pays de la Loire";"Pays de la Loire";https://fr.wikipedia.org/wiki/Pays_de_la_Loire;"metropolitan region"
+FR;PAC;"Provence-Alpes-Côte d'Azur";"Provence-Alpes-Côte d'Azur";https://fr.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur;"metropolitan region"
