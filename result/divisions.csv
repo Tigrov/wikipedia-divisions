@@ -2303,24 +2303,24 @@ PW;227;Ngeremlengui;Ngeremlengui;https://en.wikipedia.org/wiki/Ngeremlengui;stat
 PW;228;Ngiwal;Ngiwal;https://en.wikipedia.org/wiki/Ngiwal;states
 PW;350;Peleliu;Peleliu;https://en.wikipedia.org/wiki/Peleliu;states
 PW;370;Sonsorol;Sonsorol;https://en.wikipedia.org/wiki/Sonsorol;states
-PY;ASU;Asunción;;https://en.wikipedia.org/wiki/File:Bandera_de_Asunci%C3%B3n_(Paraguay).png;capital
-PY;16;"Departamento de Alto Paraguay";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_AltoParaguay.JPG;department
-PY;10;"Departamento de Alto Paraná";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Alto_Parana.jpg;department
-PY;13;"Departamento de Amambay";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Amambay.JPG;department
-PY;19;"Departamento de Boquerón";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Boquer%C3%B3n.svg;department
-PY;"5";"Departamento de Caaguazú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Caaguaz%C3%BA.JPG;department
-PY;"6";"Departamento de Caazapá";;https://en.wikipedia.org/wiki/File:Flag_of_Caazap%C3%A1_Department.svg;department
-PY;14;"Departamento de Canindeyú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Canindey%C3%BA.JPG;department
-PY;11;"Departamento Central";;https://en.wikipedia.org/wiki/File:Cenflag.PNG;department
-PY;"1";"Departamento de Concepción";;https://en.wikipedia.org/wiki/File:Flag_of_Concepci%C3%B3n_Department.svg;department
-PY;"3";"Departamento de Cordillera";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Cordillera.JPG;department
-PY;"4";"Departamento de Guairá";;https://en.wikipedia.org/wiki/File:Flag_of_Guair%C3%A1_Department.svg;department
-PY;"7";"Departamento de Itapúa";;https://en.wikipedia.org/wiki/File:Itapflag.PNG;department
-PY;"8";"Departamento de Misiones";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Misiones.JPG;department
-PY;12;"Departamento de Ñeembucú";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_%C3%91eembuc%C3%BA.JPG;department
-PY;"9";"Departamento de Paraguarí";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Paraguar%C3%AD.JPG;department
-PY;15;"Departamento de Presidente Hayes";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_Presidente_Hayes.JPG;department
-PY;"2";"Departamento de San Pedro";;https://en.wikipedia.org/wiki/File:Bandera_del_Departamento_de_San_Pedro.JPG;department
+PY;ASU;Asunción;Asunción;https://en.wikipedia.org/wiki/Asunci%C3%B3n;capital
+PY;16;"Departamento de Alto Paraguay";Alto Paraguay;https://en.wikipedia.org/wiki/Alto_Paraguay;department
+PY;10;"Departamento de Alto Paraná";Alto Paraná;https://en.wikipedia.org/wiki/Alto_Paran%C3%A1_Department;department
+PY;13;"Departamento de Amambay";Amambay;https://en.wikipedia.org/wiki/Amambay;department
+PY;19;"Departamento de Boquerón";Boquerón;https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department;department
+PY;"5";"Departamento de Caaguazú";Caaguazú;https://en.wikipedia.org/wiki/Caaguaz%C3%BA_Department;department
+PY;"6";"Departamento de Caazapá";Caazapá;https://en.wikipedia.org/wiki/Caazap%C3%A1_Department;department
+PY;14;"Departamento de Canindeyú";Canindeyú;https://en.wikipedia.org/wiki/Canindey%C3%BA;department
+PY;11;"Departamento Central";Central;https://en.wikipedia.org/wiki/Central_Department;department
+PY;"1";"Departamento de Concepción";Concepción;https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_(Paraguay);department
+PY;"3";"Departamento de Cordillera";Cordillera;https://en.wikipedia.org/wiki/Cordillera_Department;department
+PY;"4";"Departamento de Guairá";Guairá;https://en.wikipedia.org/wiki/Guair%C3%A1_Department;department
+PY;"7";"Departamento de Itapúa";Itapúa;https://en.wikipedia.org/wiki/Itap%C3%BAa;department
+PY;"8";"Departamento de Misiones";Misiones;https://en.wikipedia.org/wiki/Misiones_Department;department
+PY;12;"Departamento de Ñeembucú";Ñeembucú;https://en.wikipedia.org/wiki/%C3%91eembuc%C3%BA;department
+PY;"9";"Departamento de Paraguarí";Paraguarí;https://en.wikipedia.org/wiki/Paraguar%C3%AD_Department;department
+PY;15;"Departamento de Presidente Hayes";Presidente Hayes;https://en.wikipedia.org/wiki/Presidente_Hayes;department
+PY;"2";"Departamento de San Pedro";San Pedro;https://en.wikipedia.org/wiki/San_Pedro_Department,_Paraguay;department
 QA;DA;"Ad Dawḩah";"Ad Dawḩah";https://en.wikipedia.org/wiki/Ad_Daw%E1%B8%A9ah;municipalities
 QA;KH;"Al Khawr (municipality)";"Al Khawr wa adh Dhakhīrah";https://en.wikipedia.org/wiki/Al_Khawr_(municipality);municipalities
 QA;WA;"Al Wakrah";"Al Wakrah";https://en.wikipedia.org/wiki/Al_Wakrah;municipalities
@@ -3417,9 +3417,9 @@ VU;SAM;"Sanma Province";Sanma;https://en.wikipedia.org/wiki/Sanma_Province;provi
 VU;SEE;"Shéfa Province";Shéfa;https://en.wikipedia.org/wiki/Sh%C3%A9fa_Province;provinces
 VU;TAE;"Taféa Province";Taféa;https://en.wikipedia.org/wiki/Taf%C3%A9a_Province;provinces
 VU;TOB;"Torba Province";Torba;https://en.wikipedia.org/wiki/Torba_Province;provinces
-WF;AL;Alo;Alo;;"administrative precincts"
-WF;SG;Sigave;Sigave;;"administrative precincts"
-WF;UV;Uvea;Uvea;;"administrative precincts"
+WF;AL;Alo;Alo;https://en.wikipedia.org/wiki/Alo_(Wallis_and_Futuna);"administrative precincts"
+WF;SG;Sigave;Sigave;https://en.wikipedia.org/wiki/Sigave;"administrative precincts"
+WF;UV;Uvea;Uvea;https://en.wikipedia.org/wiki/Uvea_(Wallis_and_Futuna);"administrative precincts"
 WS;AA;A'ana;A'ana;https://en.wikipedia.org/wiki/A%27ana;districts
 WS;AL;Aiga-i-le-Tai;Aiga-i-le-Tai;https://en.wikipedia.org/wiki/Aiga-i-le-Tai;districts
 WS;AT;"Atua (district)";Atua;https://en.wikipedia.org/wiki/Atua_(district);districts

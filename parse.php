@@ -57,7 +57,7 @@ foreach ($countryLinks as $countryCode => $isoData) {
 
             $row = [$countryCode, $isoCode];
 
-            if ($url = $tr->find('a[title]', 0)) {
+            if ($url = GetUrl($tr)) {
                 $row[] = $url->title;
                 $row[] = $url->text();
                 $row[] = 'https://en.wikipedia.org' . $url->href;
@@ -100,7 +100,7 @@ foreach ($countryLinks as $countryCode => $isoData) {
 
             $row = [$countryCode, $isoCode, $parentIso];
 
-            if ($url = $tr->find('a[title]', 0)) {
+            if ($url = GetUrl($tr)) {
                 RemoveHidden($url);
                 $row[] = $url->title;
                 $row[] = $url->text();
@@ -184,6 +184,22 @@ function GetTypeIndex($node) {
 
     if ($type) {
         return $type->get_index();
+    }
+
+    return null;
+}
+
+/**
+ * @param simple_html_dom_node $node
+ * @return null|simple_html_dom_node
+ */
+function GetUrl($node) {
+    if ($urls = $node->find('a[title]')) {
+        foreach ($urls as $url) {
+            if ($url->class != 'image') {
+                return $url;
+            }
+        }
     }
 
     return null;
