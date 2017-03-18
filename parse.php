@@ -5,7 +5,7 @@
  * To execute run the command in shell `php parse.php`
  * The result will be saved in files `result/divisions.csv` and `result/subdivisions.csv`
  *
- * @link https://github.com/tigrov/whois
+ * @link https://github.com/tigrov/wikipedia-divisions
  * @author Sergei Tigrov <rrr-r@ya.ru>
  */
 
