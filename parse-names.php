@@ -17,7 +17,7 @@ define('CSV_DELIMITER', ';');
 // CSV file headers
 $namesHeader = ['ISO-3166-1', 'ISO-3166-2', 'language_code', 'value', 'wikipedia'];
 
-$namesCsv = fopen(RESULT_DIR . DIRECTORY_SEPARATOR . 'names.csv', 'w+');
+$namesCsv = fopen(RESULT_DIR . DIRECTORY_SEPARATOR . 'names.csv', 'w');
 $divisionsCsv = fopen(RESULT_DIR . DIRECTORY_SEPARATOR . 'divisions.csv', 'r');
 
 fputcsv($namesCsv, $namesHeader, CSV_DELIMITER);
@@ -66,7 +66,8 @@ function GetNames($node) {
             $list = [];
             foreach ($links as $link) {
                 $langCode = $link->lang ?: $link->hreflang;
-                list($name) = explode(' – ', $link->title, 2);
+                list($name) = explode(' — ', $link->title, 2);
+                list($name) = explode(' – ', $name, 2);
                 list($name) = explode(',', $name, 2);
                 $name = preg_replace('~\([^)]*\)~S', '', $name);
                 $list[$langCode] = [

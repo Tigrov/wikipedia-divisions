@@ -1,4 +1,4 @@
-ISO-3166-1;ISO-3166-2;Name1;Name2;Type;Wikipedia
+ISO-3166-1;ISO-3166-2;Name1;Name2;Wikipedia;Type
 AD;07;"Andorra la Vella";"Andorra la Vella";https://en.wikipedia.org/wiki/Andorra_la_Vella;parishes
 AD;02;Canillo;Canillo;https://en.wikipedia.org/wiki/Canillo;parishes
 AD;03;Encamp;Encamp;https://en.wikipedia.org/wiki/Encamp;parishes
@@ -375,16 +375,31 @@ CA;NT;"Northwest Territories";"Northwest Territories";https://en.wikipedia.org/w
 CA;NU;Nunavut;Nunavut;https://en.wikipedia.org/wiki/Nunavut;territory
 CA;YT;Yukon;Yukon;https://en.wikipedia.org/wiki/Yukon;territory
 CD;KN;Kinshasa;Kinshasa;https://en.wikipedia.org/wiki/Kinshasa;city
-CD;BN;"Bandundu Province";Bandundu;https://en.wikipedia.org/wiki/Bandundu_Province;province
-CD;BC;Bas-Congo;Bas-Congo;https://en.wikipedia.org/wiki/Bas-Congo;province
+CD;BC;"Kongo Central";"Kongo Central";https://en.wikipedia.org/wiki/Kongo_Central;province
 CD;EQ;Équateur;Équateur;https://en.wikipedia.org/wiki/%C3%89quateur;province
-CD;KW;Kasai-Occidental;Kasai-Occidental;https://en.wikipedia.org/wiki/Kasai-Occidental;province
-CD;KE;Kasai-Oriental;Kasai-Oriental;https://en.wikipedia.org/wiki/Kasai-Oriental;province
-CD;KA;"Katanga Province";Katanga;https://en.wikipedia.org/wiki/Katanga_Province;province
+CD;KE;Kasai-Oriental;Kasaï-Oriental;https://en.wikipedia.org/wiki/Kasai-Oriental;province
 CD;MA;Maniema;Maniema;https://en.wikipedia.org/wiki/Maniema;province
 CD;NK;"North Kivu";Nord-Kivu;https://en.wikipedia.org/wiki/North_Kivu;province
-CD;OR;"Orientale Province";Orientale;https://en.wikipedia.org/wiki/Orientale_Province;province
 CD;SK;"South Kivu";Sud-Kivu;https://en.wikipedia.org/wiki/South_Kivu;province
+CD;BU;Bas-Uele;Bas-Uélé;https://en.wikipedia.org/wiki/Bas-Uele;province
+CD;HK;"Haut-Katanga Province";Haut-Katanga;https://en.wikipedia.org/wiki/Haut-Katanga_Province;province
+CD;HL;Haut-Lomami;Haut-Lomami;https://en.wikipedia.org/wiki/Haut-Lomami;province
+CD;HU;Haut-Uele;Haut-Uélé;https://en.wikipedia.org/wiki/Haut-Uele;province
+CD;IT;"Ituri Province";Ituri;https://en.wikipedia.org/wiki/Ituri_Province;province
+CD;KC;Kasaï-Central;"Kasaï Central";https://en.wikipedia.org/wiki/Kasa%C3%AF-Central;province
+CD;KG;Kwango;Kwango;https://en.wikipedia.org/wiki/Kwango;province
+CD;KL;"Kwilu Province";Kwilu;https://en.wikipedia.org/wiki/Kwilu_Province;province
+CD;KS;"Kasai Province";Kasaï;https://en.wikipedia.org/wiki/Kasai_Province;province
+CD;LO;"Lomami Province";Lomami;https://en.wikipedia.org/wiki/Lomami_Province;province
+CD;LU;"Lualaba Province";Lualaba;https://en.wikipedia.org/wiki/Lualaba_Province;province
+CD;MN;"Mai-Ndombe Province";Mai-Ndombe;https://en.wikipedia.org/wiki/Mai-Ndombe_Province;province
+CD;MO;Mongala;Mongala;https://en.wikipedia.org/wiki/Mongala;province
+CD;NU;Nord-Ubangi;Nord-Ubangi;https://en.wikipedia.org/wiki/Nord-Ubangi;province
+CD;SA;Sankuru;Sankuru;https://en.wikipedia.org/wiki/Sankuru;province
+CD;SU;Sud-Ubangi;Sud-Ubangi;https://en.wikipedia.org/wiki/Sud-Ubangi;province
+CD;TA;"Tanganyika Province";Tanganyika;https://en.wikipedia.org/wiki/Tanganyika_Province;province
+CD;TO;Tshopo;Tshopo;https://en.wikipedia.org/wiki/Tshopo;province
+CD;TU;Tshuapa;Tshuapa;https://en.wikipedia.org/wiki/Tshuapa;province
 CF;BGF;Bangui;Bangui;https://en.wikipedia.org/wiki/Bangui;commune
 CF;BB;Bamingui-Bangoran;Bamingui-Bangoran;https://en.wikipedia.org/wiki/Bamingui-Bangoran;prefecture
 CF;BK;Basse-Kotto;Basse-Kotto;https://en.wikipedia.org/wiki/Basse-Kotto;prefecture
@@ -404,12 +419,12 @@ CF;KB;Gribingui;Gribingui;https://en.wikipedia.org/wiki/Gribingui;"economic pref
 CF;SE;"Sangha (economic prefecture)";Sangha;https://en.wikipedia.org/wiki/Sangha_(economic_prefecture);"economic prefecture"
 CG;BZV;Brazzaville;Brazzaville;https://en.wikipedia.org/wiki/Brazzaville;department
 CG;11;"Bouenza Department";Bouenza;https://en.wikipedia.org/wiki/Bouenza_Department;department
-CG;"8";"Cuvette Department";Cuvette;https://en.wikipedia.org/wiki/Cuvette_Department;department
+CG;8;"Cuvette Department";Cuvette;https://en.wikipedia.org/wiki/Cuvette_Department;department
 CG;15;"Cuvette-Ouest Department";Cuvette-Ouest;https://en.wikipedia.org/wiki/Cuvette-Ouest_Department;department
-CG;"5";"Kouilou Department";Kouilou;https://en.wikipedia.org/wiki/Kouilou_Department;department
-CG;"2";"Lékoumou Department";Lékoumou;https://en.wikipedia.org/wiki/L%C3%A9koumou_Department;department
-CG;"7";"Likouala Department";Likouala;https://en.wikipedia.org/wiki/Likouala_Department;department
-CG;"9";"Niari Department";Niari;https://en.wikipedia.org/wiki/Niari_Department;department
+CG;5;"Kouilou Department";Kouilou;https://en.wikipedia.org/wiki/Kouilou_Department;department
+CG;2;"Lékoumou Department";Lékoumou;https://en.wikipedia.org/wiki/L%C3%A9koumou_Department;department
+CG;7;"Likouala Department";Likouala;https://en.wikipedia.org/wiki/Likouala_Department;department
+CG;9;"Niari Department";Niari;https://en.wikipedia.org/wiki/Niari_Department;department
 CG;14;"Plateaux Department (Congo)";Plateaux;https://en.wikipedia.org/wiki/Plateaux_Department_(Congo);department
 CG;16;"Pointe-Noire Department";Pointe-Noire;https://en.wikipedia.org/wiki/Pointe-Noire_Department;department
 CG;12;"Pool Department";Pool;https://en.wikipedia.org/wiki/Pool_Department;department
@@ -816,6 +831,19 @@ FM;TRK;"Chuuk State";Chuuk;https://en.wikipedia.org/wiki/Chuuk_State;states
 FM;KSA;Kosrae;Kosrae;https://en.wikipedia.org/wiki/Kosrae;states
 FM;PNI;"Pohnpei State";Pohnpei;https://en.wikipedia.org/wiki/Pohnpei_State;states
 FM;YAP;"Yap State";Yap;https://en.wikipedia.org/wiki/Yap_State;states
+FR;ARA;Auvergne-Rhône-Alpes;Auvergne-Rhône-Alpes;https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes;"metropolitan regions"
+FR;BFC;Bourgogne-Franche-Comté;Bourgogne-Franche-Comté;https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9;"metropolitan regions"
+FR;BRE;"Brittany (administrative region)";Bretagne;https://en.wikipedia.org/wiki/Brittany_(administrative_region);"metropolitan regions"
+FR;CVL;"Centre-Val de Loire";"Centre-Val de Loire";https://en.wikipedia.org/wiki/Centre-Val_de_Loire;"metropolitan regions"
+FR;COR;Corse;Corse;https://en.wikipedia.org/wiki/Corse;"metropolitan regions"
+FR;GES;"Grand Est";"Grand Est";https://en.wikipedia.org/wiki/Grand_Est;"metropolitan regions"
+FR;HDF;Hauts-de-France;Hauts-de-France;https://en.wikipedia.org/wiki/Hauts-de-France;"metropolitan regions"
+FR;IDF;Île-de-France;Île-de-France;https://en.wikipedia.org/wiki/%C3%8Ele-de-France;"metropolitan regions"
+FR;NOR;Normandy;Normandie;https://en.wikipedia.org/wiki/Normandy;"metropolitan regions"
+FR;NAQ;Nouvelle-Aquitaine;Nouvelle-Aquitaine;https://en.wikipedia.org/wiki/Nouvelle-Aquitaine;"metropolitan regions"
+FR;OCC;Occitanie;Occitanie;https://en.wikipedia.org/wiki/Occitanie;"metropolitan regions"
+FR;PDL;"Pays de la Loire";"Pays de la Loire";https://en.wikipedia.org/wiki/Pays_de_la_Loire;"metropolitan regions"
+FR;PAC;"Provence-Alpes-Côte d'Azur";"Provence-Alpes-Côte d'Azur";https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur;"metropolitan regions"
 GA;1;"Estuaire Province";Estuaire;https://en.wikipedia.org/wiki/Estuaire_Province;provinces
 GA;2;"Haut-Ogooué Province";Haut-Ogooué;https://en.wikipedia.org/wiki/Haut-Ogoou%C3%A9_Province;provinces
 GA;3;"Moyen-Ogooué Province";Moyen-Ogooué;https://en.wikipedia.org/wiki/Moyen-Ogoou%C3%A9_Province;provinces
@@ -1278,15 +1306,15 @@ KG;O;"Osh Region";Osh;https://en.wikipedia.org/wiki/Osh_Region;region
 KG;T;"Talas Region";Talas;https://en.wikipedia.org/wiki/Talas_Region;region
 KG;Y;"Ysyk-Köl Region";Ysyk-Köl;https://en.wikipedia.org/wiki/Ysyk-K%C3%B6l_Region;region
 KH;12;"Phnom Penh";"Phnom Penh";https://en.wikipedia.org/wiki/Phnom_Penh;"autonomous municipality"
-KH;"2";"Baat Dambang Province";"Baat Dambang";https://en.wikipedia.org/wiki/Baat_Dambang_Province;province
-KH;"1";"Banteay Mean Chey Province";"Banteay Mean Chey";https://en.wikipedia.org/wiki/Banteay_Mean_Chey_Province;province
-KH;"3";"Kampong Chaam Province";"Kampong Chaam";https://en.wikipedia.org/wiki/Kampong_Chaam_Province;province
-KH;"4";"Kampong Chhnang Province";"Kampong Chhnang";https://en.wikipedia.org/wiki/Kampong_Chhnang_Province;province
-KH;"5";"Kampong Spueu Province";"Kampong Spueu";https://en.wikipedia.org/wiki/Kampong_Spueu_Province;province
-KH;"6";"Kampong Thum Province";"Kampong Thum";https://en.wikipedia.org/wiki/Kampong_Thum_Province;province
-KH;"7";"Kampot Province";Kampot;https://en.wikipedia.org/wiki/Kampot_Province;province
-KH;"8";"Kandaal Province";Kandaal;https://en.wikipedia.org/wiki/Kandaal_Province;province
-KH;"9";"Kaoh Kong Province";"Kaoh Kong";https://en.wikipedia.org/wiki/Kaoh_Kong_Province;province
+KH;2;"Baat Dambang Province";"Baat Dambang";https://en.wikipedia.org/wiki/Baat_Dambang_Province;province
+KH;1;"Banteay Mean Chey Province";"Banteay Mean Chey";https://en.wikipedia.org/wiki/Banteay_Mean_Chey_Province;province
+KH;3;"Kampong Chaam Province";"Kampong Chaam";https://en.wikipedia.org/wiki/Kampong_Chaam_Province;province
+KH;4;"Kampong Chhnang Province";"Kampong Chhnang";https://en.wikipedia.org/wiki/Kampong_Chhnang_Province;province
+KH;5;"Kampong Spueu Province";"Kampong Spueu";https://en.wikipedia.org/wiki/Kampong_Spueu_Province;province
+KH;6;"Kampong Thum Province";"Kampong Thum";https://en.wikipedia.org/wiki/Kampong_Thum_Province;province
+KH;7;"Kampot Province";Kampot;https://en.wikipedia.org/wiki/Kampot_Province;province
+KH;8;"Kandaal Province";Kandaal;https://en.wikipedia.org/wiki/Kandaal_Province;province
+KH;9;"Kaoh Kong Province";"Kaoh Kong";https://en.wikipedia.org/wiki/Kaoh_Kong_Province;province
 KH;10;"Kracheh Province";Kracheh;https://en.wikipedia.org/wiki/Kracheh_Province;province
 KH;23;"Krong Kaeb";"Krong Kaeb";https://en.wikipedia.org/wiki/Krong_Kaeb;province
 KH;24;"Krong Pailin";"Krong Pailin";https://en.wikipedia.org/wiki/Krong_Pailin;province
@@ -1922,14 +1950,26 @@ MU;PW;"Plaines Wilhems District";"Plaines Wilhems";https://en.wikipedia.org/wiki
 MU;PL;"Port Louis District";"Port Louis";https://en.wikipedia.org/wiki/Port_Louis_District;district
 MU;RR;"Rivière du Rempart District";"Rivière du Rempart";https://en.wikipedia.org/wiki/Rivi%C3%A8re_du_Rempart_District;district
 MU;SA;"Savanne District";Savanne;https://en.wikipedia.org/wiki/Savanne_District;district
-MV;MLE;"Male (Maldives)";Male;https://en.wikipedia.org/wiki/Male_(Maldives);capital
-MV;CE;"Central Province (Maldives)";Central;https://en.wikipedia.org/wiki/Central_Province_(Maldives);province
-MV;NO;"North Province (Maldives)";North;https://en.wikipedia.org/wiki/North_Province_(Maldives);province
-MV;NC;"North Central Province (Maldives)";"North Central";https://en.wikipedia.org/wiki/North_Central_Province_(Maldives);province
-MV;SU;"South Province (Maldives)";South;https://en.wikipedia.org/wiki/South_Province_(Maldives);province
-MV;SC;"South Central Province";"South Central";https://en.wikipedia.org/wiki/South_Central_Province;province
-MV;UN;"Upper North Province";"Upper North";https://en.wikipedia.org/wiki/Upper_North_Province;province
-MV;US;"Upper South Province";"Upper South";https://en.wikipedia.org/wiki/Upper_South_Province;province
+MV;02;"Alif Alif Atoll";"Alifu Alifu";https://en.wikipedia.org/wiki/Alif_Alif_Atoll;provinces
+MV;00;"Alif Dhaal Atoll";"Alifu Dhaalu";https://en.wikipedia.org/wiki/Alif_Dhaal_Atoll;provinces
+MV;20;"Baa Atoll";Baa;https://en.wikipedia.org/wiki/Baa_Atoll;provinces
+MV;17;"Dhaalu Atoll";Dhaalu;https://en.wikipedia.org/wiki/Dhaalu_Atoll;provinces
+MV;14;"Faafu Atoll";Faafu;https://en.wikipedia.org/wiki/Faafu_Atoll;provinces
+MV;27;"Gaaf Alif Atoll";"Gaafu Alifu";https://en.wikipedia.org/wiki/Gaaf_Alif_Atoll;provinces
+MV;28;"Gaafu Dhaalu Atoll";"Gaafu Dhaalu";https://en.wikipedia.org/wiki/Gaafu_Dhaalu_Atoll;provinces
+MV;29;"Gnaviyani Atoll";Gnaviyani;https://en.wikipedia.org/wiki/Gnaviyani_Atoll;provinces
+MV;07;"Haa Alif Atoll";"Haa Alifu";https://en.wikipedia.org/wiki/Haa_Alif_Atoll;provinces
+MV;23;"Haa Dhaalu Atoll";"Haa Dhaalu";https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll;provinces
+MV;26;"Kaafu Atoll";Kaafu;https://en.wikipedia.org/wiki/Kaafu_Atoll;provinces
+MV;05;"Laamu Atoll";Laamu;https://en.wikipedia.org/wiki/Laamu_Atoll;provinces
+MV;03;"Lhaviyani Atoll";Lhaviyani;https://en.wikipedia.org/wiki/Lhaviyani_Atoll;provinces
+MV;12;"Meemu Atoll";Meemu;https://en.wikipedia.org/wiki/Meemu_Atoll;provinces
+MV;25;"Noonu Atoll";Noonu;https://en.wikipedia.org/wiki/Noonu_Atoll;provinces
+MV;13;"Raa Atoll";Raa;https://en.wikipedia.org/wiki/Raa_Atoll;provinces
+MV;01;"Seenu Atoll";Seenu;https://en.wikipedia.org/wiki/Seenu_Atoll;provinces
+MV;24;"Shaviyani Atoll";Shaviyani;https://en.wikipedia.org/wiki/Shaviyani_Atoll;provinces
+MV;08;"Thaa Atoll";Thaa;https://en.wikipedia.org/wiki/Thaa_Atoll;provinces
+MV;04;"Vaavu Atoll";Vaavu;https://en.wikipedia.org/wiki/Vaavu_Atoll;provinces
 MW;C;"Central Region (Malawi)";"Central Region";https://en.wikipedia.org/wiki/Central_Region_(Malawi);regions
 MW;N;"Northern Region (Malawi)";"Northern Region";https://en.wikipedia.org/wiki/Northern_Region_(Malawi);regions
 MW;S;"Southern Region (Malawi)";"Southern Region";https://en.wikipedia.org/wiki/Southern_Region_(Malawi);regions
@@ -2251,22 +2291,8 @@ PL;SK;Świętokrzyskie;Świętokrzyskie;https://en.wikipedia.org/wiki/%C5%9Awi%C
 PL;WN;Warmińsko-mazurskie;Warmińsko-mazurskie;https://en.wikipedia.org/wiki/Warmi%C5%84sko-mazurskie;provinces
 PL;WP;Wielkopolskie;Wielkopolskie;https://en.wikipedia.org/wiki/Wielkopolskie;provinces
 PL;ZP;Zachodniopomorskie;Zachodniopomorskie;https://en.wikipedia.org/wiki/Zachodniopomorskie;provinces
-PS;BTH;"Bethlehem Governorate";Bethlehem;https://en.wikipedia.org/wiki/Bethlehem_Governorate;governorates
-PS;DEB;"Deir al-Balah Governorate";"Deir El Balah";https://en.wikipedia.org/wiki/Deir_al-Balah_Governorate;governorates
-PS;GZA;"Gaza Governorate";Gaza;https://en.wikipedia.org/wiki/Gaza_Governorate;governorates
-PS;HBN;"Hebron Governorate";Hebron;https://en.wikipedia.org/wiki/Hebron_Governorate;governorates
-PS;JEN;"Jenin Governorate";Jenin;https://en.wikipedia.org/wiki/Jenin_Governorate;governorates
-PS;JRH;"Jericho Governorate";"Jericho and Al Aghwar";https://en.wikipedia.org/wiki/Jericho_Governorate;governorates
-PS;JEM;"Jerusalem Governorate";Jerusalem;https://en.wikipedia.org/wiki/Jerusalem_Governorate;governorates
-PS;KYS;"Khan Yunis Governorate";"Khan Yunis";https://en.wikipedia.org/wiki/Khan_Yunis_Governorate;governorates
-PS;NBS;"Nablus Governorate";Nablus;https://en.wikipedia.org/wiki/Nablus_Governorate;governorates
-PS;NGZ;"North Gaza Governorate";"North Gaza";https://en.wikipedia.org/wiki/North_Gaza_Governorate;governorates
-PS;QQA;"Qalqilya Governorate";Qalqilya;https://en.wikipedia.org/wiki/Qalqilya_Governorate;governorates
-PS;RFH;"Rafah Governorate";Rafah;https://en.wikipedia.org/wiki/Rafah_Governorate;governorates
-PS;RBH;"Ramallah and al-Bireh Governorate";Ramallah;https://en.wikipedia.org/wiki/Ramallah_and_al-Bireh_Governorate;governorates
-PS;SLT;"Salfit Governorate";Salfit;https://en.wikipedia.org/wiki/Salfit_Governorate;governorates
-PS;TBS;"Tubas Governorate";Tubas;https://en.wikipedia.org/wiki/Tubas_Governorate;governorates
-PS;TKM;"Tulkarm Governorate";Tulkarm;https://en.wikipedia.org/wiki/Tulkarm_Governorate;governorates
+PS;GZZ;"Gaza Strip";"Gaza Strip";https://en.wikipedia.org/wiki/Gaza_Strip;governorates
+PS;WBK;"West Bank";"West Bank";https://en.wikipedia.org/wiki/West_Bank;governorates
 PT;01;"Aveiro District";Aveiro;https://en.wikipedia.org/wiki/Aveiro_District;district
 PT;02;"Beja District";Beja;https://en.wikipedia.org/wiki/Beja_District;district
 PT;03;"Braga District";Braga;https://en.wikipedia.org/wiki/Braga_District;district
@@ -2304,23 +2330,23 @@ PW;228;Ngiwal;Ngiwal;https://en.wikipedia.org/wiki/Ngiwal;states
 PW;350;Peleliu;Peleliu;https://en.wikipedia.org/wiki/Peleliu;states
 PW;370;Sonsorol;Sonsorol;https://en.wikipedia.org/wiki/Sonsorol;states
 PY;ASU;Asunción;Asunción;https://en.wikipedia.org/wiki/Asunci%C3%B3n;capital
-PY;16;"Departamento de Alto Paraguay";Alto Paraguay;https://en.wikipedia.org/wiki/Alto_Paraguay;department
-PY;10;"Departamento de Alto Paraná";Alto Paraná;https://en.wikipedia.org/wiki/Alto_Paran%C3%A1_Department;department
-PY;13;"Departamento de Amambay";Amambay;https://en.wikipedia.org/wiki/Amambay;department
-PY;19;"Departamento de Boquerón";Boquerón;https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department;department
-PY;"5";"Departamento de Caaguazú";Caaguazú;https://en.wikipedia.org/wiki/Caaguaz%C3%BA_Department;department
-PY;"6";"Departamento de Caazapá";Caazapá;https://en.wikipedia.org/wiki/Caazap%C3%A1_Department;department
-PY;14;"Departamento de Canindeyú";Canindeyú;https://en.wikipedia.org/wiki/Canindey%C3%BA;department
-PY;11;"Departamento Central";Central;https://en.wikipedia.org/wiki/Central_Department;department
-PY;"1";"Departamento de Concepción";Concepción;https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_(Paraguay);department
-PY;"3";"Departamento de Cordillera";Cordillera;https://en.wikipedia.org/wiki/Cordillera_Department;department
-PY;"4";"Departamento de Guairá";Guairá;https://en.wikipedia.org/wiki/Guair%C3%A1_Department;department
-PY;"7";"Departamento de Itapúa";Itapúa;https://en.wikipedia.org/wiki/Itap%C3%BAa;department
-PY;"8";"Departamento de Misiones";Misiones;https://en.wikipedia.org/wiki/Misiones_Department;department
-PY;12;"Departamento de Ñeembucú";Ñeembucú;https://en.wikipedia.org/wiki/%C3%91eembuc%C3%BA;department
-PY;"9";"Departamento de Paraguarí";Paraguarí;https://en.wikipedia.org/wiki/Paraguar%C3%AD_Department;department
-PY;15;"Departamento de Presidente Hayes";Presidente Hayes;https://en.wikipedia.org/wiki/Presidente_Hayes;department
-PY;"2";"Departamento de San Pedro";San Pedro;https://en.wikipedia.org/wiki/San_Pedro_Department,_Paraguay;department
+PY;16;"Alto Paraguay";"Alto Paraguay";https://en.wikipedia.org/wiki/Alto_Paraguay;department
+PY;10;"Alto Paraná Department";"Alto Paraná";https://en.wikipedia.org/wiki/Alto_Paran%C3%A1_Department;department
+PY;13;Amambay;Amambay;https://en.wikipedia.org/wiki/Amambay;department
+PY;19;"Boquerón Department";Boquerón;https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department;department
+PY;5;"Caaguazú Department";Caaguazú;https://en.wikipedia.org/wiki/Caaguaz%C3%BA_Department;department
+PY;6;"Caazapá Department";Caazapá;https://en.wikipedia.org/wiki/Caazap%C3%A1_Department;department
+PY;14;Canindeyú;Canindeyú;https://en.wikipedia.org/wiki/Canindey%C3%BA;department
+PY;11;"Central Department";Central;https://en.wikipedia.org/wiki/Central_Department;department
+PY;1;"Concepción Department (Paraguay)";Concepción;https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_(Paraguay);department
+PY;3;"Cordillera Department";Cordillera;https://en.wikipedia.org/wiki/Cordillera_Department;department
+PY;4;"Guairá Department";Guairá;https://en.wikipedia.org/wiki/Guair%C3%A1_Department;department
+PY;7;Itapúa;Itapúa;https://en.wikipedia.org/wiki/Itap%C3%BAa;department
+PY;8;"Misiones Department";Misiones;https://en.wikipedia.org/wiki/Misiones_Department;department
+PY;12;Ñeembucú;Ñeembucú;https://en.wikipedia.org/wiki/%C3%91eembuc%C3%BA;department
+PY;9;"Paraguarí Department";Paraguarí;https://en.wikipedia.org/wiki/Paraguar%C3%AD_Department;department
+PY;15;"Presidente Hayes";"Presidente Hayes";https://en.wikipedia.org/wiki/Presidente_Hayes;department
+PY;2;"San Pedro Department, Paraguay";"San Pedro";https://en.wikipedia.org/wiki/San_Pedro_Department,_Paraguay;department
 QA;DA;"Ad Dawḩah";"Ad Dawḩah";https://en.wikipedia.org/wiki/Ad_Daw%E1%B8%A9ah;municipalities
 QA;KH;"Al Khawr (municipality)";"Al Khawr wa adh Dhakhīrah";https://en.wikipedia.org/wiki/Al_Khawr_(municipality);municipalities
 QA;WA;"Al Wakrah";"Al Wakrah";https://en.wikipedia.org/wiki/Al_Wakrah;municipalities
@@ -2766,6 +2792,7 @@ SI;191;"Municipality of Žetale";Žetale;https://en.wikipedia.org/wiki/Municipal
 SI;147;"Municipality of Žiri";Žiri;https://en.wikipedia.org/wiki/Municipality_of_%C5%BDiri;communes
 SI;192;"Municipality of Žirovnica";Žirovnica;https://en.wikipedia.org/wiki/Municipality_of_%C5%BDirovnica;communes
 SI;193;"Municipality of Žužemberk";Žužemberk;https://en.wikipedia.org/wiki/Municipality_of_%C5%BDu%C5%BEemberk;communes
+SI;213;"Municipality of Ankaran";Ankaran;https://en.wikipedia.org/wiki/Municipality_of_Ankaran;communes
 SK;BC;"Banská Bystrica Region";"Banskobystrický kraj";https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica_Region;regions
 SK;BL;"Bratislava Region";"Bratislavský kraj";https://en.wikipedia.org/wiki/Bratislava_Region;regions
 SK;KI;"Košice Region";"Košický kraj";https://en.wikipedia.org/wiki/Ko%C5%A1ice_Region;regions
@@ -2983,6 +3010,7 @@ TJ;DU;Dushanbe;Dushanbe;https://en.wikipedia.org/wiki/Dushanbe;"capital territor
 TJ;GB;"Gorno-Badakhshan Autonomous Province";"Kŭhistoni Badakhshon";https://en.wikipedia.org/wiki/Gorno-Badakhshan_Autonomous_Province;"autonomous region"
 TJ;KT;"Khatlon Province";Khatlon;https://en.wikipedia.org/wiki/Khatlon_Province;region
 TJ;SU;"Sughd Province";Sughd;https://en.wikipedia.org/wiki/Sughd_Province;region
+TJ;RA;"Districts of Republican Subordination";"Nohiyahoi Tobei Jumhurí";https://en.wikipedia.org/wiki/Districts_of_Republican_Subordination;"Districts Under Republic Administration"
 TL;AL;"Aileu District";Aileu;https://en.wikipedia.org/wiki/Aileu_District;districts
 TL;AN;"Ainaro District";Ainaro;https://en.wikipedia.org/wiki/Ainaro_District;districts
 TL;BA;"Baucau District";Baucau;https://en.wikipedia.org/wiki/Baucau_District;districts
@@ -3417,9 +3445,9 @@ VU;SAM;"Sanma Province";Sanma;https://en.wikipedia.org/wiki/Sanma_Province;provi
 VU;SEE;"Shéfa Province";Shéfa;https://en.wikipedia.org/wiki/Sh%C3%A9fa_Province;provinces
 VU;TAE;"Taféa Province";Taféa;https://en.wikipedia.org/wiki/Taf%C3%A9a_Province;provinces
 VU;TOB;"Torba Province";Torba;https://en.wikipedia.org/wiki/Torba_Province;provinces
-WF;AL;Alo;Alo;https://en.wikipedia.org/wiki/Alo_(Wallis_and_Futuna);"administrative precincts"
+WF;AL;"Alo (Wallis and Futuna)";Alo;https://en.wikipedia.org/wiki/Alo_(Wallis_and_Futuna);"administrative precincts"
 WF;SG;Sigave;Sigave;https://en.wikipedia.org/wiki/Sigave;"administrative precincts"
-WF;UV;Uvea;Uvea;https://en.wikipedia.org/wiki/Uvea_(Wallis_and_Futuna);"administrative precincts"
+WF;UV;"Uvea (Wallis and Futuna)";Uvea;https://en.wikipedia.org/wiki/Uvea_(Wallis_and_Futuna);"administrative precincts"
 WS;AA;A'ana;A'ana;https://en.wikipedia.org/wiki/A%27ana;districts
 WS;AL;Aiga-i-le-Tai;Aiga-i-le-Tai;https://en.wikipedia.org/wiki/Aiga-i-le-Tai;districts
 WS;AT;"Atua (district)";Atua;https://en.wikipedia.org/wiki/Atua_(district);districts
@@ -3482,16 +3510,3 @@ ZW;MV;"Masvingo Province";Masvingo;https://en.wikipedia.org/wiki/Masvingo_Provin
 ZW;MN;"Matabeleland North Province";"Matabeleland North";https://en.wikipedia.org/wiki/Matabeleland_North_Province;provinces
 ZW;MS;"Matabeleland South Province";"Matabeleland South";https://en.wikipedia.org/wiki/Matabeleland_South_Province;provinces
 ZW;MI;"Midlands Province";Midlands;https://en.wikipedia.org/wiki/Midlands_Province;provinces
-FR;ARA;"Auvergne-Rhône-Alpes";"Auvergne-Rhône-Alpes";https://fr.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes;"metropolitan region"
-FR;BFC;"Bourgogne-Franche-Comté";"Bourgogne-Franche-Comté";https://fr.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9;"metropolitan region"
-FR;BRE;Bretagne;Bretagne;https://fr.wikipedia.org/wiki/Bretagne;"metropolitan region"
-FR;CVL;"Centre-Val de Loire";"Centre-Val de Loire";https://fr.wikipedia.org/wiki/Centre-Val_de_Loire;"metropolitan region"
-FR;COR;Corse;Corse;https://fr.wikipedia.org/wiki/Corse;"metropolitan region"
-FR;GES;"Grand Est";"Grand Est";https://fr.wikipedia.org/wiki/Grand_Est;"metropolitan region"
-FR;HDF;Hauts-de-France;Hauts-de-France;https://fr.wikipedia.org/wiki/Hauts-de-France;"metropolitan region"
-FR;IDF;Île-de-France;Île-de-France;https://fr.wikipedia.org/wiki/%C3%8Ele-de-France;"metropolitan region"
-FR;NOR;Normandie;Normandie;https://fr.wikipedia.org/wiki/Normandie;"metropolitan region"
-FR;NAQ;Nouvelle-Aquitaine;Nouvelle-Aquitaine;https://fr.wikipedia.org/wiki/Nouvelle-Aquitaine;"metropolitan region"
-FR;OCC;"Occitanie (région administrative)";Occitanie;https://fr.wikipedia.org/wiki/Occitanie_(r%C3%A9gion_administrative);"metropolitan region"
-FR;PDL;"Pays de la Loire";"Pays de la Loire";https://fr.wikipedia.org/wiki/Pays_de_la_Loire;"metropolitan region"
-FR;PAC;"Provence-Alpes-Côte d'Azur";"Provence-Alpes-Côte d'Azur";https://fr.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur;"metropolitan region"

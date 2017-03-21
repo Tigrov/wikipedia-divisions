@@ -42,38 +42,35 @@ foreach ($countryLinks as $countryCode => $isoData) {
     $html = file_get_html('https://en.wikipedia.org' . $isoData['url'], null, null, null);
 
     // Parse divisions
-    // Skip France, see below
-    if ($countryCode != 'FR') {
-        $table = $html->find('table[class=wikitable sortable]', 0);
-        $trNodes = $table->find('tr');
-        $typeIndex = GetTypeIndex($trNodes[0]);
-        unset($trNodes[0]);
+    $table = $html->find('table[class=wikitable sortable]', 0);
+    $trNodes = $table->find('tr');
+    $typeIndex = GetTypeIndex($trNodes[0]);
+    unset($trNodes[0]);
 
-        foreach ($trNodes as $tr) {
-            $tdNodes = $tr->childNodes();
-            $codeNode = $tdNodes[0]->find('[style*=monospace]') ?: $tdNodes[0];
+    foreach ($trNodes as $tr) {
+        $tdNodes = $tr->childNodes();
+        $codeNode = $tdNodes[0]->find('[style*=monospace]', 0) ?: $tdNodes[0];
 
-            list(, $isoCode) = explode('-', $codeNode->text());
+        list(, $isoCode) = explode('-', $codeNode->text());
 
-            $row = [$countryCode, $isoCode];
+        $row = [$countryCode, $isoCode];
 
-            if ($url = GetUrl($tr)) {
-                $row[] = $url->title;
-                $row[] = $url->text();
-                $row[] = 'https://en.wikipedia.org' . $url->href;
-            } else {
-                $name = $tdNodes[1]->text();
-                $row[] = $name;
-                $row[] = $name;
-                $row[] = '';
-            }
-
-            $row[] = $typeIndex ? $tdNodes[$typeIndex]->text() : $isoData['type'];
-
-            $row = array_map('trim', $row);
-
-            fputcsv($divisionsCsv, $row, CSV_DELIMITER);
+        if ($url = GetUrl($tr)) {
+            $row[] = $url->title;
+            $row[] = $url->text();
+            $row[] = 'https://en.wikipedia.org' . $url->href;
+        } else {
+            $name = $tdNodes[1]->text();
+            $row[] = $name;
+            $row[] = $name;
+            $row[] = '';
         }
+
+        $row[] = $typeIndex ? $tdNodes[$typeIndex]->text() : $isoData['type'];
+
+        $row = array_map('trim', $row);
+
+        fputcsv($divisionsCsv, $row, CSV_DELIMITER);
     }
 
     // Parse subdivisions
@@ -89,13 +86,13 @@ foreach ($countryLinks as $countryCode => $isoData) {
 
         foreach ($trNodes as $tr) {
             $tdNodes = $tr->childNodes();
-            $codeNode = $tdNodes[$parentIndex]->find('[style*=monospace]') ?: $tdNodes[$parentIndex];
+            $codeNode = $tdNodes[$parentIndex]->find('[style*=monospace]', 0) ?: $tdNodes[$parentIndex];
             $parentIso = $codeNode->text();
             if (strpos($parentIso, '-')) {
                 list(, $parentIso) = explode('-', $parentIso);
             }
 
-            $codeNode = $tdNodes[0]->find('[style*=monospace]') ?: $tdNodes[0];
+            $codeNode = $tdNodes[0]->find('[style*=monospace]', 0) ?: $tdNodes[0];
             list(, $isoCode) = explode('-', $codeNode->text());
 
             $row = [$countryCode, $isoCode, $parentIso];
@@ -120,13 +117,6 @@ foreach ($countryLinks as $countryCode => $isoData) {
             fputcsv($subdivisionsCsv, $row, CSV_DELIMITER);
         }
     }
-}
-
-// Add France divisions (since January 1 2016)
-foreach (GetFranceDivisions() as $isoCode => $isoDate) {
-    $row = ['FR', $isoCode, $isoDate['name'], isset($isoDate['name2']) ? $isoDate['name2'] : $isoDate['name'], $isoDate['url'], 'metropolitan region'];
-
-    fputcsv($divisionsCsv, $row, CSV_DELIMITER);
 }
 
 fclose($divisionsCsv);
@@ -210,32 +200,11 @@ function GetUrl($node) {
  */
 function RemoveHidden($node) {
     /**
-     * @var simple_html_dom_node $hidden
+     * @var simple_html_dom_node[] $hiddenNodes
      */
-    if ($hidden = $node->find('[style=display:none;]')) {
-        $hidden->outertext = '';
+    if ($hiddenNodes = $node->find('[style=display:none;]')) {
+        foreach ($hiddenNodes as $hidden) {
+            $hidden->outertext = '';
+        }
     }
-}
-
-/**
- * France divisions since January 1, 2016
- *
- * @return array
- */
-function GetFranceDivisions() {
-    return [
-        'ARA' => ['url' => 'https://fr.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes', 'name' => 'Auvergne-Rhône-Alpes'],
-        'BFC' => ['url' => 'https://fr.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9', 'name' => 'Bourgogne-Franche-Comté'],
-        'BRE' => ['url' => 'https://fr.wikipedia.org/wiki/Bretagne', 'name' => 'Bretagne'],
-        'CVL' => ['url' => 'https://fr.wikipedia.org/wiki/Centre-Val_de_Loire', 'name' => 'Centre-Val de Loire'],
-        'COR' => ['url' => 'https://fr.wikipedia.org/wiki/Corse', 'name' => 'Corse'],
-        'GES' => ['url' => 'https://fr.wikipedia.org/wiki/Grand_Est', 'name' => 'Grand Est'],
-        'HDF' => ['url' => 'https://fr.wikipedia.org/wiki/Hauts-de-France', 'name' => 'Hauts-de-France'],
-        'IDF' => ['url' => 'https://fr.wikipedia.org/wiki/%C3%8Ele-de-France', 'name' => 'Île-de-France'],
-        'NOR' => ['url' => 'https://fr.wikipedia.org/wiki/Normandie', 'name' => 'Normandie'],
-        'NAQ' => ['url' => 'https://fr.wikipedia.org/wiki/Nouvelle-Aquitaine', 'name' => 'Nouvelle-Aquitaine'],
-        'OCC' => ['url' => 'https://fr.wikipedia.org/wiki/Occitanie_(r%C3%A9gion_administrative)', 'name' => 'Occitanie (région administrative)', 'name2' => 'Occitanie'],
-        'PDL' => ['url' => 'https://fr.wikipedia.org/wiki/Pays_de_la_Loire', 'name' => 'Pays de la Loire'],
-        'PAC' => ['url' => 'https://fr.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur', 'name' => "Provence-Alpes-Côte d'Azur"],
-    ];
 }
