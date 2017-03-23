@@ -1708,22 +1708,6 @@ LY;SR;"Sirte District";Surt;https://en.wikipedia.org/wiki/Sirte_District;popular
 LY;TB;"Tripoli District, Libya";Ţarābulus;https://en.wikipedia.org/wiki/Tripoli_District,_Libya;popularates
 LY;WD;"Wadi al Hayaa District";"Wādī al Ḩayāt";https://en.wikipedia.org/wiki/Wadi_al_Hayaa_District;popularates
 LY;WS;"Wadi al Shatii District";"Wādī ash Shāţiʾ";https://en.wikipedia.org/wiki/Wadi_al_Shatii_District;popularates
-MA;09;Chaouia-Ouardigha;Chaouia-Ouardigha;https://en.wikipedia.org/wiki/Chaouia-Ouardigha;regions
-MA;10;Doukhala-Abda;Doukhala-Abda;https://en.wikipedia.org/wiki/Doukhala-Abda;regions
-MA;05;Fès-Boulemane;Fès-Boulemane;https://en.wikipedia.org/wiki/F%C3%A8s-Boulemane;regions
-MA;02;"Gharb-Chrarda-Beni Hssen";"Gharb-Chrarda-Beni Hssen";https://en.wikipedia.org/wiki/Gharb-Chrarda-Beni_Hssen;regions
-MA;08;"Grand Casablanca";"Grand Casablanca";https://en.wikipedia.org/wiki/Grand_Casablanca;regions
-MA;14;"Guelmim-Es Semara";"Guelmim-Es Semara";https://en.wikipedia.org/wiki/Guelmim-Es_Semara;regions
-MA;15;"Laâyoune-Boujdour-Sakia el Hamra";"Laâyoune-Boujdour-Sakia el Hamra";https://en.wikipedia.org/wiki/La%C3%A2youne-Boujdour-Sakia_el_Hamra;regions
-MA;04;"Oriental (Morocco)";Oriental;https://en.wikipedia.org/wiki/Oriental_(Morocco);regions
-MA;11;"Marrakech-Tensift-Al Haouz";"Marrakech-Tensift-Al Haouz";https://en.wikipedia.org/wiki/Marrakech-Tensift-Al_Haouz;regions
-MA;06;Meknès-Tafilalet;Meknès-Tafilalet;https://en.wikipedia.org/wiki/Mekn%C3%A8s-Tafilalet;regions
-MA;16;"Oued ed Dahab-Lagouira";"Oued ed Dahab-Lagouira";https://en.wikipedia.org/wiki/Oued_ed_Dahab-Lagouira;regions
-MA;07;Rabat-Salé-Zemmour-Zaer;Rabat-Salé-Zemmour-Zaer;https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-Zemmour-Zaer;regions
-MA;13;Souss-Massa-Drâa;Souss-Massa-Drâa;https://en.wikipedia.org/wiki/Souss-Massa-Dr%C3%A2a;regions
-MA;12;Tadla-Azilal;Tadla-Azilal;https://en.wikipedia.org/wiki/Tadla-Azilal;regions
-MA;01;Tanger-Tétouan;Tanger-Tétouan;https://en.wikipedia.org/wiki/Tanger-T%C3%A9touan;regions
-MA;03;"Taza-Al Hoceima-Taounate";"Taza-Al Hoceima-Taounate";https://en.wikipedia.org/wiki/Taza-Al_Hoceima-Taounate;regions
 MC;FO;"Fontvieille, Monaco";Fontvieille;https://en.wikipedia.org/wiki/Fontvieille,_Monaco;quarters
 MC;JE;"Jardin Exotique de Monaco";"Jardin Exotique";https://en.wikipedia.org/wiki/Jardin_Exotique_de_Monaco;quarters
 MC;CL;"La Colle, Monaco";"La Colle";https://en.wikipedia.org/wiki/La_Colle,_Monaco;quarters
@@ -3586,3 +3570,15 @@ ZW;MV;"Masvingo Province";Masvingo;https://en.wikipedia.org/wiki/Masvingo_Provin
 ZW;MN;"Matabeleland North Province";"Matabeleland North";https://en.wikipedia.org/wiki/Matabeleland_North_Province;provinces
 ZW;MS;"Matabeleland South Province";"Matabeleland South";https://en.wikipedia.org/wiki/Matabeleland_South_Province;provinces
 ZW;MI;"Midlands Province";Midlands;https://en.wikipedia.org/wiki/Midlands_Province;provinces
+MA;01;"Tanger-Tétouan-Al Hoceïma";"Tanger-Tétouan-Al Hoceïma";https://en.wikipedia.org/wiki/Tanger-T%C3%A9touan-Al_Hoce%C3%AFma;region
+MA;02;"Oriental (Morocco)";L'Oriental;https://en.wikipedia.org/wiki/Oriental_(Morocco);region
+MA;03;Fès-Meknès;Fès-Meknès;https://en.wikipedia.org/wiki/F%C3%A8s-Mekn%C3%A8s;region
+MA;04;Rabat-Salé-Kénitra;Rabat-Salé-Kénitra;https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-K%C3%A9nitra;region
+MA;05;"Béni Mellal-Khénifra";"Béni Mellal-Khénifra";https://en.wikipedia.org/wiki/B%C3%A9ni_Mellal-Kh%C3%A9nifra;region
+MA;06;Casablanca-Settat;Casablanca-Settat;https://en.wikipedia.org/wiki/Casablanca-Settat;region
+MA;07;Marrakech-Safi;Marrakech-Safi;https://en.wikipedia.org/wiki/Marrakech-Safi;region
+MA;08;Drâa-Tafilalet;Drâa-Tafilalet;https://en.wikipedia.org/wiki/Dr%C3%A2a-Tafilalet;region
+MA;09;Souss-Massa;Souss-Massa;https://en.wikipedia.org/wiki/Souss-Massa;region
+MA;10;"Guelmim-Oued Noun";"Guelmim-Oued Noun";https://en.wikipedia.org/wiki/Guelmim-Oued_Noun;region
+MA;11;"Laâyoune-Sakia El Hamra";"Laâyoune-Sakia El Hamra";https://en.wikipedia.org/wiki/La%C3%A2youne-Sakia_El_Hamra;region
+MA;12;"Dakhla-Oued Ed-Dahab";"Dakhla-Oued Ed-Dahab";https://en.wikipedia.org/wiki/Dakhla-Oued_Ed-Dahab;region
