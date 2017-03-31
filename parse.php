@@ -56,10 +56,12 @@ foreach ($countryLinks as $countryCode => $isoData) {
         $row = [$countryCode, $isoCode];
 
         if ($url = GetUrl($tr)) {
+            RemoveHidden($url);
             $row[] = $url->title;
             $row[] = $url->text();
             $row[] = 'https://en.wikipedia.org' . $url->href;
         } else {
+            RemoveHidden($tdNodes[1]);
             $name = $tdNodes[1]->text();
             $row[] = $name;
             $row[] = $name;

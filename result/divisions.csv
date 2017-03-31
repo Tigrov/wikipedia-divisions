@@ -138,51 +138,51 @@ AU;WA;"Western Australia";"Western Australia";https://en.wikipedia.org/wiki/West
 AU;ACT;"Australian Capital Territory";"Australian Capital Territory";https://en.wikipedia.org/wiki/Australian_Capital_Territory;territory
 AU;NT;"Northern Territory";"Northern Territory";https://en.wikipedia.org/wiki/Northern_Territory;territory
 AZ;BA;Bakı;Bakı;https://en.wikipedia.org/wiki/Bak%C4%B1;municipality
-AZ;GA;"Ganja, Azerbaijan";"Gancə ! Gəncə";https://en.wikipedia.org/wiki/Ganja,_Azerbaijan;municipality
-AZ;LA;Lankaran;"Lankəran ! Lənkəran";https://en.wikipedia.org/wiki/Lankaran;municipality
+AZ;GA;"Ganja, Azerbaijan";Gəncə;https://en.wikipedia.org/wiki/Ganja,_Azerbaijan;municipality
+AZ;LA;Lankaran;Lənkəran;https://en.wikipedia.org/wiki/Lankaran;municipality
 AZ;MI;Mingəçevir;Mingəçevir;https://en.wikipedia.org/wiki/Ming%C9%99%C3%A7evir;municipality
 AZ;NA;"Naftalan, Azerbaijan";Naftalan;https://en.wikipedia.org/wiki/Naftalan,_Azerbaijan;municipality
 AZ;NV;"Nakhchivan (city)";Naxçıvan;https://en.wikipedia.org/wiki/Nakhchivan_(city);municipality
-AZ;SA;"Shaki, Azerbaijan";"Saki ! Şəki";https://en.wikipedia.org/wiki/Shaki,_Azerbaijan;municipality
-AZ;SR;"Shirvan (city)";"Sirvan ! Şirvan";https://en.wikipedia.org/wiki/Shirvan_(city);municipality
+AZ;SA;"Shaki, Azerbaijan";Şəki;https://en.wikipedia.org/wiki/Shaki,_Azerbaijan;municipality
+AZ;SR;"Shirvan (city)";Şirvan;https://en.wikipedia.org/wiki/Shirvan_(city);municipality
 AZ;SM;Sumqayit;Sumqayit;https://en.wikipedia.org/wiki/Sumqayit;municipality
 AZ;XA;Xankəndi;Xankəndi;https://en.wikipedia.org/wiki/Xank%C9%99ndi;municipality
 AZ;YE;Yevlax;Yevlax;https://en.wikipedia.org/wiki/Yevlax;municipality
 AZ;ABS;"Abşeron Rayon";Abşeron;https://en.wikipedia.org/wiki/Ab%C5%9Feron_Rayon;rayon
-AZ;AGC;"Ağcabədi Rayon";"Agcabədi ! Ağcabədi";https://en.wikipedia.org/wiki/A%C4%9Fcab%C9%99di_Rayon;rayon
-AZ;AGM;"Ağdam Rayon";"Agdam ! Ağdam";https://en.wikipedia.org/wiki/A%C4%9Fdam_Rayon;rayon
-AZ;AGS;"Ağdaş Rayon";"Agdaş ! Ağdaş";https://en.wikipedia.org/wiki/A%C4%9Fda%C5%9F_Rayon;rayon
-AZ;AGA;"Ağstafa Rayon";"Agstafa ! Ağstafa";https://en.wikipedia.org/wiki/A%C4%9Fstafa_Rayon;rayon
-AZ;AGU;"Ağsu Rayon";"Agsu ! Ağsu";https://en.wikipedia.org/wiki/A%C4%9Fsu_Rayon;rayon
+AZ;AGC;"Ağcabədi Rayon";Ağcabədi;https://en.wikipedia.org/wiki/A%C4%9Fcab%C9%99di_Rayon;rayon
+AZ;AGM;"Ağdam Rayon";Ağdam;https://en.wikipedia.org/wiki/A%C4%9Fdam_Rayon;rayon
+AZ;AGS;"Ağdaş Rayon";Ağdaş;https://en.wikipedia.org/wiki/A%C4%9Fda%C5%9F_Rayon;rayon
+AZ;AGA;"Ağstafa Rayon";Ağstafa;https://en.wikipedia.org/wiki/A%C4%9Fstafa_Rayon;rayon
+AZ;AGU;"Ağsu Rayon";Ağsu;https://en.wikipedia.org/wiki/A%C4%9Fsu_Rayon;rayon
 AZ;AST;"Astara Rayon";Astara;https://en.wikipedia.org/wiki/Astara_Rayon;rayon
 AZ;BAB;"Babək Rayon";Babək;https://en.wikipedia.org/wiki/Bab%C9%99k_Rayon;rayon
 AZ;BAL;"Balakən Rayon";Balakən;https://en.wikipedia.org/wiki/Balak%C9%99n_Rayon;rayon
-AZ;BAR;"Bərdə Rayon";"Bardə ! Bərdə";https://en.wikipedia.org/wiki/B%C9%99rd%C9%99_Rayon;rayon
+AZ;BAR;"Bərdə Rayon";Bərdə;https://en.wikipedia.org/wiki/B%C9%99rd%C9%99_Rayon;rayon
 AZ;BEY;"Beyləqan Rayon";Beyləqan;https://en.wikipedia.org/wiki/Beyl%C9%99qan_Rayon;rayon
 AZ;BIL;"Biləsuvar Rayon";Biləsuvar;https://en.wikipedia.org/wiki/Bil%C9%99suvar_Rayon;rayon
-AZ;CAB;"Cəbrayıl Rayon";"Cabrayıl ! Cəbrayıl";https://en.wikipedia.org/wiki/C%C9%99bray%C4%B1l_Rayon;rayon
-AZ;CAL;"Jalilabad District (Azerbaijan)";"Calilabad ! Cəlilabad";https://en.wikipedia.org/wiki/Jalilabad_District_(Azerbaijan);rayon
+AZ;CAB;"Cəbrayıl Rayon";Cəbrayıl;https://en.wikipedia.org/wiki/C%C9%99bray%C4%B1l_Rayon;rayon
+AZ;CAL;"Jalilabad District (Azerbaijan)";Cəlilabad;https://en.wikipedia.org/wiki/Jalilabad_District_(Azerbaijan);rayon
 AZ;CUL;"Culfa Rayon";Culfa;https://en.wikipedia.org/wiki/Culfa_Rayon;rayon
 AZ;DAS;"Daşkəsən Rayon";Daşkəsən;https://en.wikipedia.org/wiki/Da%C5%9Fk%C9%99s%C9%99n_Rayon;rayon
 AZ;FUZ;"Füzuli Rayon";Füzuli;https://en.wikipedia.org/wiki/F%C3%BCzuli_Rayon;rayon
-AZ;GAD;"Gədəbəy Rayon";"Gadəbəy ! Gədəbəy";https://en.wikipedia.org/wiki/G%C9%99d%C9%99b%C9%99y_Rayon;rayon
+AZ;GAD;"Gədəbəy Rayon";Gədəbəy;https://en.wikipedia.org/wiki/G%C9%99d%C9%99b%C9%99y_Rayon;rayon
 AZ;GOR;"Goranboy Rayon";Goranboy;https://en.wikipedia.org/wiki/Goranboy_Rayon;rayon
-AZ;GOY;"Göyçay Rayon";"Goycay ! Göyçay";https://en.wikipedia.org/wiki/G%C3%B6y%C3%A7ay_Rayon;rayon
-AZ;GYG;"Goygol Rayon";"Goygöl ! Göygöl";https://en.wikipedia.org/wiki/Goygol_Rayon;rayon
+AZ;GOY;"Göyçay Rayon";Göyçay;https://en.wikipedia.org/wiki/G%C3%B6y%C3%A7ay_Rayon;rayon
+AZ;GYG;"Goygol Rayon";Göygöl;https://en.wikipedia.org/wiki/Goygol_Rayon;rayon
 AZ;HAC;"Hacıqabul Rayon";Hacıqabul;https://en.wikipedia.org/wiki/Hac%C4%B1qabul_Rayon;rayon
-AZ;IMI;"İmişli Rayon";"Imişli ! İmişli";https://en.wikipedia.org/wiki/%C4%B0mi%C5%9Fli_Rayon;rayon
-AZ;ISM;"İsmayıllı Rayon";"Ismayıllı ! İsmayıllı";https://en.wikipedia.org/wiki/%C4%B0smay%C4%B1ll%C4%B1_Rayon;rayon
-AZ;KAL;"Kəlbəcər Rayon";"Kalbəcər ! Kəlbəcər";https://en.wikipedia.org/wiki/K%C9%99lb%C9%99c%C9%99r_Rayon;rayon
-AZ;KAN;"Kangarli Rayon";"Kangǝrli ! Kǝngǝrli";https://en.wikipedia.org/wiki/Kangarli_Rayon;rayon
+AZ;IMI;"İmişli Rayon";İmişli;https://en.wikipedia.org/wiki/%C4%B0mi%C5%9Fli_Rayon;rayon
+AZ;ISM;"İsmayıllı Rayon";İsmayıllı;https://en.wikipedia.org/wiki/%C4%B0smay%C4%B1ll%C4%B1_Rayon;rayon
+AZ;KAL;"Kəlbəcər Rayon";Kəlbəcər;https://en.wikipedia.org/wiki/K%C9%99lb%C9%99c%C9%99r_Rayon;rayon
+AZ;KAN;"Kangarli Rayon";Kǝngǝrli;https://en.wikipedia.org/wiki/Kangarli_Rayon;rayon
 AZ;KUR;"Kürdəmir Rayon";Kürdəmir;https://en.wikipedia.org/wiki/K%C3%BCrd%C9%99mir_Rayon;rayon
-AZ;LAC;"Laçın Rayon";"Lacin ! Laçın";https://en.wikipedia.org/wiki/La%C3%A7%C4%B1n_Rayon;rayon
-AZ;LAN;"Lənkəran Rayon";"Lankəran ! Lənkəran";https://en.wikipedia.org/wiki/L%C9%99nk%C9%99ran_Rayon;rayon
+AZ;LAC;"Laçın Rayon";Laçın;https://en.wikipedia.org/wiki/La%C3%A7%C4%B1n_Rayon;rayon
+AZ;LAN;"Lənkəran Rayon";Lənkəran;https://en.wikipedia.org/wiki/L%C9%99nk%C9%99ran_Rayon;rayon
 AZ;LER;"Lerik Rayon";Lerik;https://en.wikipedia.org/wiki/Lerik_Rayon;rayon
 AZ;MAS;"Masallı Rayon";Masallı;https://en.wikipedia.org/wiki/Masall%C4%B1_Rayon;rayon
 AZ;NEF;"Neftçala Rayon";Neftçala;https://en.wikipedia.org/wiki/Neft%C3%A7ala_Rayon;rayon
-AZ;OGU;"Oğuz Rayon";"Oguz ! Oğuz";https://en.wikipedia.org/wiki/O%C4%9Fuz_Rayon;rayon
+AZ;OGU;"Oğuz Rayon";Oğuz;https://en.wikipedia.org/wiki/O%C4%9Fuz_Rayon;rayon
 AZ;ORD;"Ordubad Rayon";Ordubad;https://en.wikipedia.org/wiki/Ordubad_Rayon;rayon
-AZ;QAB;"Qəbələ Rayon";"Qabələ ! Qəbələ";https://en.wikipedia.org/wiki/Q%C9%99b%C9%99l%C9%99_Rayon;rayon
+AZ;QAB;"Qəbələ Rayon";Qəbələ;https://en.wikipedia.org/wiki/Q%C9%99b%C9%99l%C9%99_Rayon;rayon
 AZ;QAX;"Qax Rayon";Qax;https://en.wikipedia.org/wiki/Qax_Rayon;rayon
 AZ;QAZ;"Qazax Rayon";Qazax;https://en.wikipedia.org/wiki/Qazax_Rayon;rayon
 AZ;QOB;"Qobustan Rayon";Qobustan;https://en.wikipedia.org/wiki/Qobustan_Rayon;rayon
@@ -191,29 +191,29 @@ AZ;QBI;"Qubadlı Rayon";Qubadli;https://en.wikipedia.org/wiki/Qubadl%C4%B1_Rayon
 AZ;QUS;"Qusar Rayon";Qusar;https://en.wikipedia.org/wiki/Qusar_Rayon;rayon
 AZ;SAT;"Saatlı Rayon";Saatlı;https://en.wikipedia.org/wiki/Saatl%C4%B1_Rayon;rayon
 AZ;SAB;"Sabirabad Rayon";Sabirabad;https://en.wikipedia.org/wiki/Sabirabad_Rayon;rayon
-AZ;SBN;"Şabran Rayon";"Sabran ! Şabran";https://en.wikipedia.org/wiki/%C5%9Eabran_Rayon;rayon
-AZ;SAD;"Sədərək Rayon";"Sadərək ! Sədərək";https://en.wikipedia.org/wiki/S%C9%99d%C9%99r%C9%99k_Rayon;rayon
-AZ;SAH;"Shabuz District";"Sahbuz ! Şahbuz";https://en.wikipedia.org/wiki/Shabuz_District;rayon
-AZ;SAK;"Şəki Rayon";"Saki ! Şəki";https://en.wikipedia.org/wiki/%C5%9E%C9%99ki_Rayon;rayon
+AZ;SBN;"Şabran Rayon";Şabran;https://en.wikipedia.org/wiki/%C5%9Eabran_Rayon;rayon
+AZ;SAD;"Sədərək Rayon";Sədərək;https://en.wikipedia.org/wiki/S%C9%99d%C9%99r%C9%99k_Rayon;rayon
+AZ;SAH;"Shabuz District";Şahbuz;https://en.wikipedia.org/wiki/Shabuz_District;rayon
+AZ;SAK;"Şəki Rayon";Şəki;https://en.wikipedia.org/wiki/%C5%9E%C9%99ki_Rayon;rayon
 AZ;SAL;"Salyan Rayon";Salyan;https://en.wikipedia.org/wiki/Salyan_Rayon;rayon
-AZ;SMI;"Şamaxı Rayon";"Samaxı ! Şamaxı";https://en.wikipedia.org/wiki/%C5%9Eamax%C4%B1_Rayon;rayon
-AZ;SKR;"Şəmkir Rayon";"Samkir ! Şəmkir";https://en.wikipedia.org/wiki/%C5%9E%C9%99mkir_Rayon;rayon
+AZ;SMI;"Şamaxı Rayon";Şamaxı;https://en.wikipedia.org/wiki/%C5%9Eamax%C4%B1_Rayon;rayon
+AZ;SKR;"Şəmkir Rayon";Şəmkir;https://en.wikipedia.org/wiki/%C5%9E%C9%99mkir_Rayon;rayon
 AZ;SMX;"Samux Rayon";Samux;https://en.wikipedia.org/wiki/Samux_Rayon;rayon
-AZ;SAR;"Şərur Rayon";"Sarur ! Şərur";https://en.wikipedia.org/wiki/%C5%9E%C9%99rur_Rayon;rayon
+AZ;SAR;"Şərur Rayon";Şərur;https://en.wikipedia.org/wiki/%C5%9E%C9%99rur_Rayon;rayon
 AZ;SIY;"Siyəzən Rayon";Siyəzən;https://en.wikipedia.org/wiki/Siy%C9%99z%C9%99n_Rayon;rayon
-AZ;SUS;"Şuşa Rayon";"Suşa ! Şuşa";https://en.wikipedia.org/wiki/%C5%9Eu%C5%9Fa_Rayon;rayon
-AZ;TAR;"Tərtər Rayon";"Tartər ! Tərtər";https://en.wikipedia.org/wiki/T%C9%99rt%C9%99r_Rayon;rayon
+AZ;SUS;"Şuşa Rayon";Şuşa;https://en.wikipedia.org/wiki/%C5%9Eu%C5%9Fa_Rayon;rayon
+AZ;TAR;"Tərtər Rayon";Tərtər;https://en.wikipedia.org/wiki/T%C9%99rt%C9%99r_Rayon;rayon
 AZ;TOV;"Tovuz Rayon";Tovuz;https://en.wikipedia.org/wiki/Tovuz_Rayon;rayon
 AZ;UCA;"Ucar Rayon";Ucar;https://en.wikipedia.org/wiki/Ucar_Rayon;rayon
-AZ;XAC;"Xaçmaz Rayon";"Xacmaz ! Xaçmaz";https://en.wikipedia.org/wiki/Xa%C3%A7maz_Rayon;rayon
-AZ;XIZ;"Xızı Rayon";"Xizı ! Xızı";https://en.wikipedia.org/wiki/X%C4%B1z%C4%B1_Rayon;rayon
+AZ;XAC;"Xaçmaz Rayon";Xaçmaz;https://en.wikipedia.org/wiki/Xa%C3%A7maz_Rayon;rayon
+AZ;XIZ;"Xızı Rayon";Xızı;https://en.wikipedia.org/wiki/X%C4%B1z%C4%B1_Rayon;rayon
 AZ;XCI;"Xocalı Rayon";Xocalı;https://en.wikipedia.org/wiki/Xocal%C4%B1_Rayon;rayon
 AZ;XVD;"Xocavənd Rayon";Xocavənd;https://en.wikipedia.org/wiki/Xocav%C9%99nd_Rayon;rayon
 AZ;YAR;"Yardımlı Rayon";Yardımlı;https://en.wikipedia.org/wiki/Yard%C4%B1ml%C4%B1_Rayon;rayon
 AZ;YEV;"Yevlax Rayon";Yevlax;https://en.wikipedia.org/wiki/Yevlax_Rayon;rayon
-AZ;ZAN;"Zəngilan Rayon";"Zangilan ! Zəngilan";https://en.wikipedia.org/wiki/Z%C9%99ngilan_Rayon;rayon
+AZ;ZAN;"Zəngilan Rayon";Zəngilan;https://en.wikipedia.org/wiki/Z%C9%99ngilan_Rayon;rayon
 AZ;ZAQ;"Zaqatala Rayon";Zaqatala;https://en.wikipedia.org/wiki/Zaqatala_Rayon;rayon
-AZ;ZAR;"Zərdab Rayon";"Zardab ! Zərdab";https://en.wikipedia.org/wiki/Z%C9%99rdab_Rayon;rayon
+AZ;ZAR;"Zərdab Rayon";Zərdab;https://en.wikipedia.org/wiki/Z%C9%99rdab_Rayon;rayon
 BA;BIH;"Federation of Bosnia and Herzegovina";"Federacija Bosna i Hercegovina";https://en.wikipedia.org/wiki/Federation_of_Bosnia_and_Herzegovina;entity
 BA;SRP;"Republika Srpska";"Republika Srpska";https://en.wikipedia.org/wiki/Republika_Srpska;entity
 BA;BRC;"Brčko distrikt";"Brčko distrikt";https://en.wikipedia.org/wiki/Br%C4%8Dko_distrikt;"district with special status"
