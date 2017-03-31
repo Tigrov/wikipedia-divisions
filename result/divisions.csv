@@ -2010,26 +2010,6 @@ MU;PW;"Plaines Wilhems District";"Plaines Wilhems";https://en.wikipedia.org/wiki
 MU;PL;"Port Louis District";"Port Louis";https://en.wikipedia.org/wiki/Port_Louis_District;district
 MU;RR;"Rivière du Rempart District";"Rivière du Rempart";https://en.wikipedia.org/wiki/Rivi%C3%A8re_du_Rempart_District;district
 MU;SA;"Savanne District";Savanne;https://en.wikipedia.org/wiki/Savanne_District;district
-MV;02;"Alif Alif Atoll";"Alifu Alifu";https://en.wikipedia.org/wiki/Alif_Alif_Atoll;provinces
-MV;00;"Alif Dhaal Atoll";"Alifu Dhaalu";https://en.wikipedia.org/wiki/Alif_Dhaal_Atoll;provinces
-MV;20;"Baa Atoll";Baa;https://en.wikipedia.org/wiki/Baa_Atoll;provinces
-MV;17;"Dhaalu Atoll";Dhaalu;https://en.wikipedia.org/wiki/Dhaalu_Atoll;provinces
-MV;14;"Faafu Atoll";Faafu;https://en.wikipedia.org/wiki/Faafu_Atoll;provinces
-MV;27;"Gaaf Alif Atoll";"Gaafu Alifu";https://en.wikipedia.org/wiki/Gaaf_Alif_Atoll;provinces
-MV;28;"Gaafu Dhaalu Atoll";"Gaafu Dhaalu";https://en.wikipedia.org/wiki/Gaafu_Dhaalu_Atoll;provinces
-MV;29;"Gnaviyani Atoll";Gnaviyani;https://en.wikipedia.org/wiki/Gnaviyani_Atoll;provinces
-MV;07;"Haa Alif Atoll";"Haa Alifu";https://en.wikipedia.org/wiki/Haa_Alif_Atoll;provinces
-MV;23;"Haa Dhaalu Atoll";"Haa Dhaalu";https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll;provinces
-MV;26;"Kaafu Atoll";Kaafu;https://en.wikipedia.org/wiki/Kaafu_Atoll;provinces
-MV;05;"Laamu Atoll";Laamu;https://en.wikipedia.org/wiki/Laamu_Atoll;provinces
-MV;03;"Lhaviyani Atoll";Lhaviyani;https://en.wikipedia.org/wiki/Lhaviyani_Atoll;provinces
-MV;12;"Meemu Atoll";Meemu;https://en.wikipedia.org/wiki/Meemu_Atoll;provinces
-MV;25;"Noonu Atoll";Noonu;https://en.wikipedia.org/wiki/Noonu_Atoll;provinces
-MV;13;"Raa Atoll";Raa;https://en.wikipedia.org/wiki/Raa_Atoll;provinces
-MV;01;"Seenu Atoll";Seenu;https://en.wikipedia.org/wiki/Seenu_Atoll;provinces
-MV;24;"Shaviyani Atoll";Shaviyani;https://en.wikipedia.org/wiki/Shaviyani_Atoll;provinces
-MV;08;"Thaa Atoll";Thaa;https://en.wikipedia.org/wiki/Thaa_Atoll;provinces
-MV;04;"Vaavu Atoll";Vaavu;https://en.wikipedia.org/wiki/Vaavu_Atoll;provinces
 MW;C;"Central Region (Malawi)";"Central Region";https://en.wikipedia.org/wiki/Central_Region_(Malawi);regions
 MW;N;"Northern Region (Malawi)";"Northern Region";https://en.wikipedia.org/wiki/Northern_Region_(Malawi);regions
 MW;S;"Southern Region (Malawi)";"Southern Region";https://en.wikipedia.org/wiki/Southern_Region_(Malawi);regions
@@ -3583,3 +3563,11 @@ MA;10;"Guelmim-Oued Noun";"Guelmim-Oued Noun";https://en.wikipedia.org/wiki/Guel
 MA;11;"Laâyoune-Sakia El Hamra";"Laâyoune-Sakia El Hamra";https://en.wikipedia.org/wiki/La%C3%A2youne-Sakia_El_Hamra;region
 MA;12;"Dakhla-Oued Ed-Dahab";"Dakhla-Oued Ed-Dahab";https://en.wikipedia.org/wiki/Dakhla-Oued_Ed-Dahab;region
 KZ;BAY;Baikonur;Bayqongyr;https://en.wikipedia.org/wiki/Baikonur;city
+MV;CE;"Central Province, Maldives";Medhu;https://en.wikipedia.org/wiki/Central_Province%2C_Maldives;"sarahahdhu (province)"
+MV;MLE;Malé;Malé;https://en.wikipedia.org/wiki/Mal%C3%A9;municipality
+MV;NC;"North Central Province, Maldives";"Medhu Uthuru";https://en.wikipedia.org/wiki/North_Central_Province%2C_Maldives;"sarahahdhu (province)"
+MV;NO;"North Province, Maldives";Uthuru;https://en.wikipedia.org/wiki/North_Province%2C_Maldives;"sarahahdhu (province)"
+MV;SC;"South Central Province";"Medhu Dhekunu";https://en.wikipedia.org/wiki/South_Central_Province;"sarahahdhu (province)"
+MV;SU;"South Province, Maldives";Dhekunu;https://en.wikipedia.org/wiki/South_Province%2C_Maldives;"sarahahdhu (province)"
+MV;UN;"Upper North Province";"Mathi Uthuru";https://en.wikipedia.org/wiki/Upper_North_Province;"sarahahdhu (province)"
+MV;US;"Upper South Province";"Mathi Dhekunu";https://en.wikipedia.org/wiki/Upper_South_Province;"sarahahdhu (province)"
